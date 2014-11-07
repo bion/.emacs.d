@@ -18,7 +18,7 @@
       font-lock-maximum-decoration t)
 
 (setq emms-show-format "now playing: %s"
-      emms-source-file-default-directory "~/music/"
+      emms-source-file-default-directory "~/music/music"
       emms-player-mpg321-parameters '("-o" "alsa")
       emms-info-asynchronously nil
       emms-playlist-buffer-name "*Music*"

@@ -1,8 +1,8 @@
 (require 'tls)
 (require 'erc)
 
-(setq my-erc-identities '("smith@substantial.com" "re5etsmyth@gmail.com"))
-(setq my-erc-flowdock-nickname "@atom")
+(setq my-erc-identities '("bion@substantial.com" "bionjohnson@gmail.com"))
+(setq my-erc-flowdock-nickname "@bion")
 
 (setq erc-current-nick-highlight-type 'nick)
 (setq erc-keywords '(my-erc-flowdock-nickname "@all" "@everyone"))
