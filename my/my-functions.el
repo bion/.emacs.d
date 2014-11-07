@@ -286,4 +286,12 @@ uses pp if there is a prefix argument"
         (let ((file-to-open (concat (simp-project-root) "/" match)))
           (find-file-other-window file-to-open))))))
 
+(defun dired-sclang-preview-soundfile ()
+  (interactive)
+  (sclang-preview-soundfile (dired-get-filename)))
+
+(defun sclang-preview-soundfile (path)
+  (let ((command (concat "~sampleBuffer.value(\"" path "\")")))
+   (sclang-eval-string command)))
+
 (provide 'my-functions)

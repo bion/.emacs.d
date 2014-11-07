@@ -1,9 +1,14 @@
 (let ((default-directory "~/.emacs.d/"))
   (normal-top-level-add-subdirs-to-load-path))
 
+(menu-bar-mode -1)
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
+
 (mapc
  'require
  '(slime
+   sclang
    smex
    smartparens
    auto-complete

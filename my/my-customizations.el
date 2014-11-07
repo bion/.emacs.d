@@ -74,6 +74,7 @@
  '(itail-fancy-mode-line t)
  '(itail-tail-flags "-n100 -f")
  '(js-indent-level 2)
+ '(sclang-indent-level 2)
  '(js2-auto-indent-p nil)
  '(js2-basic-offset 2)
  '(js2-bounce-indent-p t)
