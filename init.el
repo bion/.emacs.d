@@ -22,7 +22,6 @@
    misc
    simp
    move-dup
-   emux-session
    expand-region
    winner
    midnight
