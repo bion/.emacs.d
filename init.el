@@ -12,7 +12,6 @@
  '(slime
    sclang
    smex
-   smartparens
    auto-complete
    ido
    ido-ubiquitous
