@@ -5,8 +5,6 @@
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
 
-(dired "~/dev")
-
 (mapc
  'require
  '(slime
@@ -46,3 +44,5 @@
    my-settings
    my-emux-templates
    my-initializers))
+
+(dired "~/dev")
