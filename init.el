@@ -29,6 +29,7 @@
    itail
    powerline
    smart-indent-rigidly
+   emux-session
    my-erc
    my-isearch
    my-advice
