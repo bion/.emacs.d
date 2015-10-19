@@ -23,10 +23,8 @@
 (global-set-key (kbd "M-o") 'indent-and-open-newline)
 (global-set-key (kbd "M-x") 'smex)
 (global-set-key (kbd "M-z") 'zap-up-to-char)
-(global-set-key (kbd "M-B") 'backward-to-word)
-(global-set-key (kbd "M-F") 'forward-to-word)
 (global-set-key (kbd "M-M") 'er/expand-region)
-(global-set-key (kbd "M-L")  'next-multiframe-window)
+(global-set-key (kbd "M-L") 'next-multiframe-window)
 (global-set-key (kbd "M-H") 'previous-multiframe-window)
 (global-set-key (kbd "M-X") 'smex-major-mode-commands)
 (global-set-key (kbd "M-P") 'md/duplicate-up)
@@ -41,6 +39,9 @@
 (global-set-key (kbd "M-i b") 'ispell-buffer)
 (global-set-key (kbd "M-i w") 'ispell-word)
 (global-set-key (kbd "M-i s") 'dictionary-search)
+
+(global-set-key (kbd "C-<tab>") 'smart-rigid-indent)
+(global-set-key (kbd "<backtab>") 'smart-rigid-unindent)
 
 (global-set-key (kbd "C-S-y") 'kill-ring-search)
 (global-set-key (kbd "C-S-j") (lambda () (interactive) (join-line -1)))
@@ -92,10 +93,5 @@
 (global-set-key (kbd "C-x C-s") 'force-save)
 (global-set-key (kbd "C-x C-k") 'kill-focused-buffer)
 (global-set-key (kbd "C-x C-S-f") 'find-file-other-window)
-
-(global-set-key (kbd "M-j m q") 'emms-add-directory-tree)
-(global-set-key (kbd "M-j m p") 'emms-play-directory-tree)
-(global-set-key (kbd "M-j m f") 'emms-next)
-(global-set-key (kbd "M-j m b") 'emms-previous)
 
 (provide 'my-keybindings)

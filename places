@@ -1,0 +1,542 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/bion/dev/coasst/spec/integration/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/integration/.."))
+ ("/Users/bion/dev/coasst/spec/controllers/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/controllers/admin"))
+ ("/Users/bion/dev/coasst/spec/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/controllers"))
+ ("/Users/bion/dev/coasst/spec/controllers/admin/" . 269)
+ ("/Users/bion/dev/coasst/app/views/admin/admin/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/admin/admin/index.html.rb"))
+ ("/Users/bion/dev/coasst/app/views/admin/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/admin/beaches"))
+ ("/Users/bion/dev/coasst/app/views/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/admin"))
+ ("/Users/bion/dev/coasst/app/views/active_admin/volunteers/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/active_admin/volunteers/.."))
+ ("/Users/bion/dev/coasst/app/views/active_admin/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/active_admin/metrics"))
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_evidence_form.html" . 11)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_evidence_listing.html" . 1350)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_issue_form.html" . 107)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/forms.py" . 538)
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/_settings.scss" . 56215)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/index.html" . 2397)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/show.html" . 3432)
+ ("/Users/bion/dev/coasst/app/controllers/admin/"
+	(dired-filename . "/Users/bion/dev/coasst/app/controllers/admin/.."))
+ ("/Users/bion/dev/coasst/config/routes.rb" . 782)
+ ("/Users/bion/dev/coasst/app/views/surveys/index.html.rb" . 409)
+ ("/Users/bion/dev/coasst/app/views/surveys/start/edit.html.rb" . 2206)
+ ("/Users/bion/dev/coasst/app/views/surveys/participants.html.rb" . 3471)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/base_controller.rb" . 368)
+ ("/Users/bion/dev/coasst/app/policies/survey_policy.rb" . 402)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/start_controller.rb" . 397)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/" . 806)
+ ("/Users/bion/dev/coasst/lib/"
+	(dired-filename . "/Users/bion/dev/coasst/lib/.."))
+ ("/Users/bion/dev/coasst/app/admin/" . 1141)
+ ("/Users/bion/dev/coasst/"
+	(dired-filename . "/Users/bion/dev/coasst/app"))
+ ("/Users/bion/dev/coasst/app/"
+	(dired-filename . "/Users/bion/dev/coasst/app/lib"))
+ ("/Users/bion/dev/coasst/app/lib/"
+	(dired-filename . "/Users/bion/dev/coasst/app/lib/admin"))
+ ("/Users/bion/dev/coasst/app/lib/admin/"
+	(dired-filename . "/Users/bion/dev/coasst/app/lib/admin/.."))
+ ("/Users/bion/dev/coasst/config/application.rb" . 1676)
+ ("/Users/bion/dev/coasst/app/lib/admin/volunteer_params.rb" . 1494)
+ ("/Users/bion/dev/coasst/spec/integration/volunteer_profile_spec.rb" . 4752)
+ ("/Users/bion/dev/cautionary-vigilance/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static"))
+ ("/Users/bion/.emacs.d/"
+	(dired-filename . "/Users/bion/.emacs.d/my"))
+ ("/Users/bion/.emacs.d/my/"
+	(dired-filename . "/Users/bion/.emacs.d/my/my-settings.el"))
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/index.html" . 2822)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/urls.py" . 302)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/views.py" . 1739)
+ ("/Users/bion/.emacs.d/my/my-settings.el" . 987)
+ ("/Users/bion/.emacs.d/recentf" . 44870)
+ ("/usr/local/Cellar/emacs-mac/emacs-24.5-z-mac-5.8/share/emacs/24.5/etc/NEWS" . 157)
+ ("/Users/bion/dev/ko/src/ko/core.clj" . 206)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/models.py" . 1422)
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation.scss" . 197)
+ ("/Users/bion/dev/cautionary-vigilance/static/fonts/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/fonts/Montserrat-Black.otf"))
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/_type.scss" . 7705)
+ ("/Users/bion/dev/cautionary-vigilance/templates/_log_in_required_modal.html" . 348)
+ ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/settings.py" . 2112)
+ ("/Users/bion/dev/cautionary-vigilance/static/app.js" . 265)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_issue_curator_actions.html" . 706)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/show.html"))
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues"))
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp"))
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/__init__.pyc"))
+ ("/Users/bion/dev/cautionary-vigilance/static/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/images"))
+ ("/Users/bion/dev/cautionary-vigilance/static/images/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/images/oval-activity.png"))
+ ("/Users/bion/dev/cautionary-vigilance/templates/_account_bar.html" . 41)
+ ("/Users/bion/dev/cautionary-vigilance/templates/_top_bar.html" . 147)
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/_fonts.scss" . 315)
+ ("/Users/bion/dev/cautionary-vigilance/templates/signup.html" . 1033)
+ ("/Users/bion/dev/cautionary-vigilance/Procfile" . 66)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/index.html" . 102)
+ ("/Users/bion/dev/cautionary-vigilance/templates/base.html" . 1466)
+ ("/Users/bion/dev/cautionary-vigilance/static/app.css" . 1628)
+ ("/Users/bion/"
+	(dired-filename . "/Users/bion/keysnail.xpi"))
+ ("/Users/bion/dev/ko/src/ko/synth_defs/single_signal.clj" . 326)
+ ("/Users/bion/.emacs.d/my/my-autoloads.el" . 449)
+ ("/Users/bion/dev/ko/src/ko/scheduling.clj" . 2021)
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/_reveal.scss" . 6744)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/migrations/__init__.py"))
+ ("/Users/bion/src/overtone/src/overtone/helpers/sc_lang.clj" . 3033)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0009_evidence_reference_date.py" . 560)
+ ("/Users/bion/dev/cautionary-vigilance/templates/account/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/templates/account/.."))
+ ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/urls.py" . 722)
+ ("/Users/bion/dev/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance"))
+ ("/Users/bion/dev/cautionary-vigilance/templates/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/templates/.."))
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/.."))
+ ("/Users/bion/dev/cautionary-vigilance/README.md" . 699)
+ ("/Users/bion/dev/cautionary-vigilance/manage.py" . 264)
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation.scss"))
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss"))
+ ("/Users/bion/dev/cautionary-vigilance/static/CACHE/.gitignore" . 3)
+ ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/.."))
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/.."))
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/.."))
+ ("/Users/bion/dev/cautionary-vigilance/static/CACHE/css/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/CACHE/css/.."))
+ ("/Users/bion/dev/cautionary-vigilance/static/CACHE/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/CACHE/.."))
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/css/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/css/.."))
+ ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/wsgi.py" . 466)
+ ("/Users/bion/.emacs.d/my/my-functions.el" . 8993)
+ ("/Users/bion/.emacs.d/my/my-keybindings.el" . 240)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/management/commands/compile_scss.py" . 275)
+ ("/Users/bion/dev/cautionary-vigilance/.gitignore" . 48)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0004_debate.py" . 1053)
+ ("/Users/bion/dev/ko/src/ko/gestures/single_signal.clj" . 862)
+ ("/Users/bion/dev/ko/src/ko/gesture.clj" . 624)
+ ("/Users/bion/src/overtone/"
+	(dired-filename . "/Users/bion/src/overtone/.git"))
+ ("/Users/bion/src/overtone/project.clj" . 3072)
+ ("/Users/bion/src/overtone/src/overtone/helpers/lib.clj" . 12425)
+ ("/Users/bion/src/overtone/src/overtone/sc/synth.clj" . 12261)
+ ("/Users/bion/src/overtone/src/overtone/libs/app_icon.clj" . 364)
+ ("/Users/bion/dev/cautionary-vigilance/staticfiles.json" . 8025)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0008_auto_20151009_1656.py" . 325)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0007_issue_photo_url.py" . 310)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0001_initial.py" . 992)
+ ("/Users/bion/src/overtone/docs/cheatsheet/overtone-cheat-sheet.tex" . 9250)
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0005_auto_20151008_2252.py" . 545)
+ ("/Users/bion/dev/foo" . 2670)
+ ("/Users/bion/dev/cautionary-vigilance/static/admin/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/admin/css"))
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/js/"
+	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/js/foundation"))
+ ("/Users/bion/dev/cautionary-vigilance/static/js/" . 195)
+ ("/Users/bion/src/overtone/src/overtone/protocols.clj" . 2979)
+ ("/Users/bion/dev/soundfyle/public/javascripts/"
+	(dired-filename . "/Users/bion/dev/soundfyle/public/javascripts/jquery-1.11.13.min.js"))
+ ("/Users/bion/dev/soundfyle/Procfile" . 20)
+ ("/Users/bion/dev/soundfyle/views/"
+	(dired-filename . "/Users/bion/dev/soundfyle/views/index.jade"))
+ ("/Users/bion/dev/soundfyle/Gruntfile.js" . 471)
+ ("/Users/bion/dev/soundfyle/package.json" . 287)
+ ("/Users/bion/dev/soundfyle/"
+	(dired-filename . "/Users/bion/dev/soundfyle/app"))
+ ("/Users/bion/dev/soundfyle/app/"
+	(dired-filename . "/Users/bion/dev/soundfyle/app/index.js"))
+ ("/Users/bion/dev/soundfyle/public/"
+	(dired-filename . "/Users/bion/dev/soundfyle/public/stylesheets"))
+ ("/Users/bion/dev/soundfyle/public/stylesheets/"
+	(dired-filename . "/Users/bion/dev/soundfyle/public/stylesheets/style.css"))
+ ("/Users/bion/dev/soundfyle/public/javascripts/recorder.js" . 22)
+ ("/Users/bion/dev/soundfyle/public/javascripts/index.js" . 1595)
+ ("/Users/bion/dev/soundfyle/app/index.js" . 368)
+ ("/Users/bion/dev/soundfyle/views/index.jade" . 348)
+ ("/Users/bion/dev/ko/src/ko/gestures/"
+	(dired-filename . "/Users/bion/dev/ko/src/ko/gestures/single_signal.clj"))
+ ("/Users/bion/dev/ko/src/ko/"
+	(dired-filename . "/Users/bion/dev/ko/src/ko/gesture.clj"))
+ ("/Users/bion/.emacs.d/packages/jade-mode-20150801.944/jade-mode-autoloads.el" . 428)
+ ("/Users/bion/.emacs.d/packages/django-mode-20150207.517/django-mode-autoloads.el" . 1016)
+ ("/Users/bion/.keysnail.js" . 9282)
+ ("/Users/bion/.zshrc" . 2349)
+ ("/Users/bion/python_envs/"
+	(dired-filename . "/Users/bion/python_envs/cv"))
+ ("/Users/bion/python_envs/cv/"
+	(dired-filename . "/Users/bion/python_envs/cv/bin"))
+ ("/Users/bion/python_envs/cv/bin/postactivate" . 72)
+ ("/Users/bion/python_envs/cv/bin/"
+	(dired-filename . "/Users/bion/python_envs/cv/bin/postdeactivate"))
+ ("/Users/bion/python_envs/cv/bin/postdeactivate" . 74)
+ ("/Users/bion/src/overtone/src/overtone/music/rhythm.clj" . 5650)
+ ("/Users/bion/src/overtone/src/overtone/speech.clj" . 68)
+ ("/Users/bion/src/overtone/src/overtone/sc/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/sc/.."))
+ ("/Users/bion/src/overtone/src/overtone/" . 1308)
+ ("/Users/bion/src/overtone/src/overtone/live.clj" . 63)
+ ("/Users/bion/src/overtone/LICENSE" . 1166)
+ ("/Users/bion/src/overtone/src/overtone/api.clj" . 671)
+ ("/Users/bion/src/overtone/src/overtone/core.clj" . 63)
+ ("/Users/bion/dev/ko/src/ko/synth_defs/"
+	(dired-filename . "/Users/bion/dev/ko/src/ko/synth_defs/.."))
+ ("/Users/bion/src/overtone/src/overtone/helpers/ns.clj" . 110)
+ ("/Users/bion/src/overtone/src/overtone/sc/bindings.clj" . 102)
+ ("/Users/bion/dev/coasst/app/assets/javascripts/survey-participants.coffee" . 4275)
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/partials/_participants.scss" . 47)
+ ("/Users/bion/dev/coasst/Gemfile" . 51)
+ ("/Users/bion/dev/coasst/app/decorators/survey_volunteer_decorator.rb" . 83)
+ ("/Users/bion/dev/coasst/spec/support/mom.rb" . 2509)
+ ("/Users/bion/dev/coasst/spec/support/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/support/mom.rb"))
+ ("/Users/bion/dev/coasst/spec/queries/survey_export_query_spec.rb" . 476)
+ ("/Users/bion/dev/coasst/spec/rails_helper.rb" . 1391)
+ ("/Users/bion/dev/coasst/spec/integration/survey_collection_spec.rb" . 4836)
+ ("/Users/bion/.lein/"
+	(dired-filename . "/Users/bion/.lein/profiles.clj"))
+ ("/Users/bion/.lein/profiles.clj" . 177)
+ ("/Users/bion/dev/coasst/app/models/survey_volunteer.rb" . 481)
+ ("/Users/bion/.emacs.d/packages/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/cider-20151001.1254"))
+ ("/Users/bion/.emacs.d/packages/cider-20151001.1254/cider-autoloads.el" . 6551)
+ ("/Users/bion/dev/coasst/app/assets/javascripts/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers"))
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys"))
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/start.coffee"))
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/start.coffee" . 1165)
+ ("/Users/bion/dev/coasst/app/views/admin/exports/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/admin/exports/export.html.rb"))
+ ("/Users/bion/dev/coasst/app/queries/"
+	(dired-filename . "/Users/bion/dev/coasst/app/queries/survey_export_query.rb"))
+ ("/Users/bion/dev/coasst/app/queries/survey_export_query.rb" . 3207)
+ ("/Users/bion/dev/coasst/app/services/export_surveys.rb" . 5237)
+ ("/Users/bion/dev/coasst/app/views/admin/exports/export.html.rb" . 69)
+ ("/Users/bion/dev/coasst/app/controllers/admin/exports_controller.rb" . 86)
+ ("/Users/bion/src/overtone/src/overtone/examples/instruments/thx.clj" . 1185)
+ ("/Users/bion/src/overtone/src/overtone/inst/drum.clj" . 13626)
+ ("/Users/bion/src/overtone/src/overtone/synth/ixi.clj" . 1639)
+ ("/Users/bion/src/overtone/src/overtone/synth/retro.clj" . 1181)
+ ("/Users/bion/dev/coasst/app/controllers/surveys_controller.rb" . 400)
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/birds.coffee" . 1569)
+ ("/Users/bion/.emacs.d/init.el" . 664)
+ ("/Users/bion/.emacs.d/my/my-hooks.el" . 1814)
+ ("/Users/bion/.emacs.d/packages/s-20150924.406/s-autoloads.el" . 210)
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/stylesheets/partials"))
+ ("/Users/bion/dev/coasst/spec/models/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/models/survey_spec.rb"))
+ ("/Users/bion/dev/coasst/app/views/layouts/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/layouts/.."))
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/partials/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/stylesheets/partials/.."))
+ ("/Users/bion/dev/coasst/app/assets/images/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/images/.."))
+ ("/Users/bion/dev/coasst/app/assets/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/stylesheets"))
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/application.css" . 1127)
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/typeahead.scss" . 915)
+ ("/Users/bion/dev/coasst/app/views/layouts/survey.rb" . 1131)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/mapping_controller.rb" . 179)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/return_controller.rb" . 771)
+ ("/Users/bion/dev/coasst/app/views/surveys/base.html.rb" . 612)
+ ("/Users/bion/dev/coasst/app/views/surveys/return/edit.html.rb" . 201)
+ ("/Users/bion/dev/coasst/app/views/surveys/data/birds/edit.html.rb" . 81)
+ ("/Users/bion/dev/coasst/app/views/surveys/data/birds/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/data/birds/.."))
+ ("/Users/bion/dev/coasst/app/views/surveys/data/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/data/show.html.rb"))
+ ("/Users/bion/dev/coasst/app/controllers/surveys/data_controller.rb" . 91)
+ ("/Users/bion/dev/coasst/spec/models/survey_spec.rb" . 87)
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/surveys.scss" . 441)
+ ("/Users/bion/dev/coasst/app/models/survey.rb" . 3589)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/photos_controller.rb" . 111)
+ ("/Users/bion/dev/coasst/app/views/surveys/photos/edit.html.rb" . 45)
+ ("/Users/bion/dev/coasst/app/views/surveys/data/show.html.rb" . 43)
+ ("/Users/bion/dev/coasst/app/controllers/"
+	(dired-filename . "/Users/bion/dev/coasst/app/controllers/verifications"))
+ ("/Users/bion/dev/coasst/app/controllers/verifications/beaches_controller.rb" . 453)
+ ("/Users/bion/dev/coasst/app/controllers/verifications/"
+	(dired-filename . "/Users/bion/dev/coasst/app/controllers/verifications/surveys_controller.rb"))
+ ("/Users/bion/dev/coasst/app/controllers/verifications/surveys_controller.rb" . 459)
+ ("/Users/bion/dev/coasst/app/controllers/sessions_controller.rb" . 551)
+ ("/Users/bion/dev/coasst/app/views/surveys/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/participants.html.rb"))
+ ("/Users/bion/dev/coasst/app/controllers/accounts_controller.rb" . 151)
+ ("/Users/bion/.emacs.d/packages/magit-20150928.1007/magit-autoloads.el" . 40497)
+ ("/Users/bion/.emacs.d/packages/git-commit-20150903.1204/git-commit-autoloads.el" . 992)
+ ("/Users/bion/.emacs.d/packages/with-editor-20150921.1018/with-editor-autoloads.el" . 260)
+ ("/Users/bion/.emacs.d/packages/magit-popup-20150920.646/magit-popup-autoloads.el" . 260)
+ ("/Users/bion/.emacs.d/packages/async-20150909.2257/async-autoloads.el" . 4111)
+ ("/Users/bion/dev/coasst/app/views/logged_in/landing.html.rb" . 366)
+ ("/Users/bion/dev/coasst/app/views/logged_in/_unverified_surveys_by_region.html.rb" . 530)
+ ("/Users/bion/.emacs.d/my/my-customizations.el" . 6310)
+ ("/Users/bion/dev/coasst/spec/controllers/logged_in_controller_spec.rb" . 445)
+ ("/Users/bion/dev/coasst/spec/controllers/accounts_controller_spec.rb" . 206)
+ ("/Users/bion/dev/portfolio/db/migrate/"
+	(dired-filename . "/Users/bion/dev/portfolio/db/migrate/.."))
+ ("/Users/bion/src/overtone/src/overtone/sc/node.clj" . 28639)
+ ("/Users/bion/dev/beagift/"
+	(dired-filename . "/Users/bion/dev/beagift/ios"))
+ ("/Users/bion/dev/beagift/ios/"
+	(dired-filename . "/Users/bion/dev/beagift/ios/app"))
+ ("/Users/bion/dev/beagift/ios/app/ext/object.rb" . 77)
+ ("/Users/bion/dev/beagift/ios/app/ext/string.rb" . 729)
+ ("/Users/bion/dev/beagift/ios/app/ext/"
+	(dired-filename . "/Users/bion/dev/beagift/ios/app/ext/.."))
+ ("/Users/bion/dev/beagift/ios/app/ext/nil.rb" . 58)
+ ("/Users/bion/dev/beagift/ios/app/screens/favorites_screen.rb" . 41)
+ ("/Users/bion/dev/beagift/ios/app/screens/"
+	(dired-filename . "/Users/bion/dev/beagift/ios/app/screens/.."))
+ ("/Users/bion/dev/beagift/ios/app/"
+	(dired-filename . "/Users/bion/dev/beagift/ios/app/lib"))
+ ("/Users/bion/dev/beagift/ios/app/lib/list_view_controller.rb" . 26)
+ ("/Users/bion/dev/beagift/ios/app/app_delegate.rb" . 1255)
+ ("/Users/bion/dev/beagift/ios/app/lib/"
+	(dired-filename . "/Users/bion/dev/beagift/ios/app/lib/list_view_controller.rb"))
+ ("/Users/bion/dev/coasst/spec/controllers/password_resets_controller_spec.rb" . 3657)
+ ("/Users/bion/.emacs.d/packages/rvm-20150402.742/rvm-autoloads.el" . 828)
+ ("/Users/bion/dev/coasst/.ruby-version" . 6)
+ ("/Users/bion/src/overtone/src/overtone/music/time.clj" . 467)
+ ("/Users/bion/dev/portfolio/app/controllers/comments_controller.rb" . 1543)
+ ("/Users/bion/dev/portfolio/app/"
+	(dired-filename . "/Users/bion/dev/portfolio/app/.."))
+ ("/Users/bion/dev/portfolio/db/schema.rb" . 2742)
+ ("/Users/bion/dev/ko/src/"
+	(dired-filename . "/Users/bion/dev/ko/src/ko"))
+ ("/Users/bion/dev/ko/hope.clj" . 1513)
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/"
+	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/debris"))
+ ("/Users/bion/dev/coasst/app/models/"
+	(dired-filename . "/Users/bion/dev/coasst/app/models/region.rb"))
+ ("/Users/bion/dev/coasst/app/decorators/survey_decorator.rb" . 431)
+ ("/Users/bion/dev/coasst/app/models/bird.rb" . 5616)
+ ("/Users/bion/dev/coasst/app/views/surveys/start/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/start/.."))
+ ("/Users/bion/dev/coasst/app/views/surveys/turnaround/edit.html.rb" . 766)
+ ("/Users/bion/dev/coasst/app/views/surveys/turnaround/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/turnaround/.."))
+ ("/Users/bion/dev/coasst/app/views/surveys/return/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/return/.."))
+ ("/Users/bion/dev/coasst/app/views/surveys/data/debris/large/form.html.rb" . 6063)
+ ("/Users/bion/dev/coasst/app/views/surveys/mapping/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/mapping/edit.html.rb"))
+ ("/Users/bion/dev/coasst/app/views/surveys/mapping/edit.html.rb" . 39)
+ ("/Users/bion/dev/coasst/app/assets/javascripts/application.coffee" . 792)
+ ("/Users/bion/dev/coasst/app/views/surveys/photos/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/photos/.."))
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/foundation_and_overrides.scss" . 15763)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/uploads_controller.rb" . 732)
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/photos.coffee" . 534)
+ ("/Users/bion/dev/coasst/app/models/upload.rb" . 35)
+ ("/Users/bion/dev/coasst/app/views/layouts/admin.rb" . 249)
+ ("/Users/bion/dev/coasst/app/models/account.rb" . 798)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/turnaround_controller.rb" . 773)
+ ("/Users/bion/dev/coasst/app/models/image.rb" . 68)
+ ("/Users/bion/dev/rhythm_coach.org" . 1151)
+ ("/Users/bion/dev/coasst/db/migrate/"
+	(dired-filename . "/Users/bion/dev/coasst/db/migrate/20150925010933_drop_column_original_data_from_birds.rb"))
+ ("/Users/bion/dev/coasst/db/migrate/20150925010933_drop_column_original_data_from_birds.rb" . 78)
+ ("/Users/bion/dev/coasst/app/controllers/surveys/data/"
+	(dired-filename . "/Users/bion/dev/coasst/app/controllers/surveys/data/base_controller.rb"))
+ ("/Users/bion/dev/coasst/app/controllers/surveys/data/base_controller.rb" . 81)
+ ("/Users/bion/src/overtone/src/overtone/examples/getting_started/melody.clj" . 1179)
+ ("/Users/bion/src/overtone/src/overtone/examples/getting_started/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/getting_started/pragpub-article.clj"))
+ ("/Users/bion/src/overtone/src/overtone/examples/getting_started/pragpub-article.clj" . 11005)
+ ("/Users/bion/dev/ko/test/ko/core_test.clj" . 76)
+ ("/Users/bion/src/overtone/src/overtone/examples/getting_started/rhythm.clj" . 682)
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/at_all.clj" . 2680)
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/bells.clj" . 3413)
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/extemp_piano.clj" . 1182)
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/clapping_music.clj" . 889)
+ ("/Users/bion/src/overtone/src/overtone/examples/workshops/resonate2013/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/workshops/resonate2013/.."))
+ ("/Users/bion/src/overtone/src/overtone/examples/workshops/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/workshops/.."))
+ ("/Users/bion/src/overtone/src/overtone/examples/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/.."))
+ ("/Users/bion/.emacs.d/packages/google-this-20150522.240/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/google-this-20150522.240/.."))
+ ("/Users/bion/.emacs.d/packages/fm-20130612.1/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/fm-20130612.1/.."))
+ ("/Users/bion/.emacs.d/packages/epl-20150517.433/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/epl-20150517.433/.."))
+ ("/Users/bion/.emacs.d/packages/dash-20150829.433/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/dash-20150829.433/.."))
+ ("/Users/bion/.emacs.d/packages/connection-20140717.2029/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/connection-20140717.2029/.."))
+ ("/Users/bion/.emacs.d/packages/cm-mode-20141112.1715/cm-mode.el" . 1720)
+ ("/Users/bion/.emacs.d/packages/cm-mode-20141112.1715/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/cm-mode-20141112.1715/.."))
+ ("/Users/bion/.emacs.d/packages/cl-lib-0.5/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/cl-lib-0.5/.."))
+ ("/Users/bion/.emacs.d/packages/ac-dabbrev-20130906.518/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/ac-dabbrev-20130906.518/.."))
+ ("/Users/bion/.emacs.d/my/my-package.el" . 291)
+ ("/Users/bion/src/overtone/src/overtone/examples/workshops/resonate2013/ex03_graph.clj" . 295)
+ ("/Users/bion/.emacs.d/packages/ac-cider-20150306.254/ac-cider-autoloads.el" . 1306)
+ ("/Users/bion/.emacs.d/var/pcache/"
+	(dired-filename . "/Users/bion/.emacs.d/var/pcache/.."))
+ ("/Users/bion/.emacs.d/var/"
+	(dired-filename . "/Users/bion/.emacs.d/var/.."))
+ ("/Users/bion/dev/coasst/app/policies/"
+	(dired-filename . "/Users/bion/dev/coasst/app/policies/application_policy.rb"))
+ ("/Users/bion/dev/coasst/app/views/verifications/beaches/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/verifications/beaches/.."))
+ ("/Users/bion/dev/coasst/app/views/verifications/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/verifications/.."))
+ ("/Users/bion/dev/coasst/app/views/verifications/surveys/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/verifications/surveys/.."))
+ ("/Users/bion/src/"
+	(dired-filename . "/Users/bion/src/.."))
+ ("/Users/bion/dev/blindtiger/"
+	(dired-filename . "/Users/bion/dev/blindtiger/Procfile"))
+ ("/Users/bion/dev/coasst/app/views/layouts/logged_in.rb" . 565)
+ ("/Users/bion/dev/coasst/app/views/logged_in/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/logged_in/.."))
+ ("/Users/bion/dev/coasst/app/controllers/admin/admin_controller.rb" . 81)
+ ("/Users/bion/dev/coasst/app/controllers/admin/admin_base_controller.rb" . 164)
+ ("/Users/bion/dev/coasst/app/queries/unverified_survey_counts.rb" . 843)
+ ("/Users/bion/dev/coasst/app/models/beach.rb" . 3631)
+ ("/Users/bion/dev/coasst/app/controllers/verifications/base_controller.rb" . 61)
+ ("/Users/bion/dev/coasst/bin/rspect" . 37)
+ ("/Users/bion/dev/coasst/app/models/survey_track.rb" . 613)
+ ("/Users/bion/Downloads/"
+	(dired-filename . "/Users/bion/Downloads/coasst_07-16-15_09-30-15.csv"))
+ ("/Users/bion/Downloads/coasst_07-16-15_09-30-15.csv" . 125)
+ ("/Users/bion/dev/coasst/app/models/region.rb" . 410)
+ ("/Users/bion/dev/coasst/app/controllers/logged_out_controller.rb" . 251)
+ ("/Users/bion/dev/coasst/spec/controllers/logged_out_controller_spec.rb" . 346)
+ ("/Users/bion/.emacs.d/packages/rspec-mode-20150727.1418/rspec-mode-autoloads.el" . 1132)
+ ("/Users/bion/.emacs.d/packages/clojure-mode-20150910.1321/"
+	(dired-filename . "/Users/bion/.emacs.d/packages/clojure-mode-20150910.1321/.."))
+ ("/Users/bion/dev/ios_audio_notes/"
+	(dired-filename . "/Users/bion/dev/ios_audio_notes/ios_audio_notes.md"))
+ ("/Users/bion/dev/ios_audio_notes/ios_audio_notes.md" . 428)
+ ("/Users/bion/src/overtone/src/overtone/sc/examples/osc.clj" . 618)
+ ("/Users/bion/src/overtone/src/overtone/sc/examples/demand.clj" . 4106)
+ ("/Users/bion/src/overtone/src/overtone/sc/examples/membrane.clj" . 1489)
+ ("/Users/bion/src/overtone/src/overtone/sc/examples/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/sc/examples/.."))
+ ("/Users/bion/src/overtone/src/overtone/sc/example.clj" . 926)
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/auto_dubstep.clj" . 3284)
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/compositions/funk.clj"))
+ ("/Users/bion/src/overtone/src/overtone/examples/compositions/funk.clj" . 2774)
+ ("/Users/bion/src/overtone/src/overtone/studio/inst.clj" . 11073)
+ ("/Users/bion/src/overtone/src/overtone/sc/machinery/defexample.clj" . 2601)
+ ("/Users/bion/src/overtone/src/overtone/sc/machinery/ugen/categories.clj" . 50)
+ ("/Users/bion/src/overtone/src/overtone/sc/machinery/ugen/specs.clj" . 22005)
+ ("/Users/bion/.emacs.d/packages/auto-complete-20150618.1949/auto-complete-autoloads.el" . 1688)
+ ("/Users/bion/.emacs.d/packages/clojure-mode-20150910.1321/clojure-mode-autoloads.el" . 1145)
+ ("/Users/bion/.emacs.d/packages/coffee-mode-20150906.2225/coffee-mode-autoloads.el" . 695)
+ ("/Users/bion/.emacs.d/packages/dash-20150829.433/dash-autoloads.el" . 217)
+ ("/Users/bion/.emacs.d/packages/epl-20150517.433/epl-autoloads.el" . 215)
+ ("/Users/bion/.emacs.d/packages/expand-region-20150902.558/expand-region-autoloads.el" . 3485)
+ ("/Users/bion/.emacs.d/packages/gh-20150906.848/gh-autoloads.el" . 3763)
+ ("/Users/bion/.emacs.d/packages/gist-20150906.954/gist-autoloads.el" . 2316)
+ ("/Users/bion/.emacs.d/packages/git-timemachine-20150624.1446/git-timemachine-autoloads.el" . 517)
+ ("/Users/bion/.emacs.d/packages/google-this-20150522.240/google-this-autoloads.el" . 4073)
+ ("/Users/bion/.emacs.d/packages/haml-mode-20150508.2011/haml-mode-autoloads.el" . 436)
+ ("/Users/bion/.emacs.d/packages/ido-ubiquitous-20150914.1003/ido-ubiquitous-autoloads.el" . 1633)
+ ("/Users/bion/.emacs.d/packages/ido-completing-read+-20150630.926/ido-completing-read+-autoloads.el" . 2921)
+ ("/Users/bion/.emacs.d/packages/markdown-mode-20150910.836/markdown-mode-autoloads.el" . 697)
+ ("/Users/bion/.emacs.d/packages/multiple-cursors-20150710.456/multiple-cursors-autoloads.el" . 8042)
+ ("/Users/bion/.emacs.d/packages/pkg-info-20150517.443/pkg-info-autoloads.el" . 3738)
+ ("/Users/bion/.emacs.d/packages/popup-20150626.711/popup-autoloads.el" . 219)
+ ("/Users/bion/.emacs.d/packages/powerline-20150628.1957/powerline-autoloads.el" . 2229)
+ ("/Users/bion/.emacs.d/packages/sass-mode-20150508.2012/sass-mode-autoloads.el" . 436)
+ ("/Users/bion/.emacs.d/packages/simp-20150427.932/simp-autoloads.el" . 431)
+ ("/Users/bion/.emacs.d/packages/slime-20150830.1446/slime-autoloads.el" . 1306)
+ ("/Users/bion/.emacs.d/packages/smartparens-20150920.527/smartparens-autoloads.el" . 6469)
+ ("/Users/bion/.emacs.d/packages/smex-20150822.1146/smex-autoloads.el" . 490)
+ ("/Users/bion/.emacs.d/packages/visible-mark-20150623.2150/visible-mark-autoloads.el" . 1237)
+ ("/Users/bion/.emacs.d/packages/yaml-mode-20150816.2235/yaml-mode-autoloads.el" . 560)
+ ("/Users/bion/.emacs.d/packages/yari-20150804.2247/yari-autoloads.el" . 463)
+ ("/Users/bion/.emacs.d/packages/spinner-1.4/spinner-autoloads.el" . 2403)
+ ("/Users/bion/src/overtone/docs/sc-book/sc-one.clj" . 2647)
+ ("/Users/bion/dev/blindtiger/app/views/layouts/"
+	(dired-filename . "/Users/bion/dev/blindtiger/app/views/layouts/.."))
+ ("/Users/bion/dev/citizen-rails/db/"
+	(dired-filename . "/Users/bion/dev/citizen-rails/db/migrate"))
+ ("/Users/bion/dev/citizen-rails/db/migrate/" . 1071)
+ ("/Users/bion/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.2.1/"
+	(dired-filename . "/Users/bion/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.2.1/app"))
+ ("/Users/bion/dev/blindtiger/app/views/"
+	(dired-filename . "/Users/bion/dev/blindtiger/app/views/accounts"))
+ ("/Users/bion/dev/coasst/db/migrate/20150720202248_remove_null_constraint_from_beach_id.rb" . 141)
+ ("/Users/bion/dev/coasst/app/models/volunteer_notifier.rb" . 485)
+ ("/Users/bion/dev/citizen-rails/db/schema.rb" . 2957)
+ ("/Users/bion/dev/coasst/lib/tasks/"
+	(dired-filename . "/Users/bion/dev/coasst/lib/tasks/db.rake"))
+ ("/Users/bion/dev/coasst/lib/tasks/db.rake" . 771)
+ ("/Users/bion/dev/citizen-rails/lib/tasks/citizen_rails.rake" . 1335)
+ ("/Users/bion/dev/citizen-rails/lib/tasks/"
+	(dired-filename . "/Users/bion/dev/citizen-rails/lib/tasks/.."))
+ ("/Users/bion/dev/citizen-rails/lib/"
+	(dired-filename . "/Users/bion/dev/citizen-rails/lib/.."))
+ ("/Users/bion/dev/citizen-rails/config/application.rb" . 974)
+ ("/Users/bion/dev/blindtiger/README.markdown" . 143)
+ ("/Users/bion/dev/blindtiger/db/seeds.rb" . 426)
+ ("/Users/bion/dev/blindtiger/config/application.rb" . 1886)
+ ("/Users/bion/dev/blindtiger/app/controllers/logged_out_controller.rb" . 188)
+ ("/Users/bion/dev/blindtiger/app/views/layouts/logged_out.rb" . 95)
+ ("/Users/bion/dev/blindtiger/app/assets/"
+	(dired-filename . "/Users/bion/dev/blindtiger/app/assets/stylesheets"))
+ ("/Users/bion/dev/blindtiger/app/assets/stylesheets/"
+	(dired-filename . "/Users/bion/dev/blindtiger/app/assets/stylesheets/foundation_and_overrides.scss"))
+ ("/Users/bion/dev/blindtiger/app/views/layouts/raw.rb" . 1483)
+ ("/Users/bion/dev/blindtiger/app/views/logged_out/index.html.rb" . 2049)
+ ("/Users/bion/dev/blindtiger/app/assets/javascripts/application.coffee" . 652)
+ ("/Users/bion/dev/blindtiger/app/assets/stylesheets/foundation_and_overrides.scss" . 52280)
+ ("/Users/bion/dev/blindtiger/app/views/shared/navigation.rb" . 834)
+ ("/Users/bion/dev/coasst/config/"
+	(dired-filename . "/Users/bion/dev/coasst/config/.."))
+ ("/Users/bion/dev/coasst/app/views/logged_out/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/logged_out/take_action.html.rb"))
+ ("/Users/bion/dev/coasst/app/controllers/concerns/"
+	(dired-filename . "/Users/bion/dev/coasst/app/controllers/concerns/.."))
+ ("/Users/bion/dev/coasst/app/views/logged_out/take_action.html.rb" . 374)
+ ("/Users/bion/dev/coasst/db/migrate/20141001182642_sorcery_core.rb" . 323)
+ ("/Users/bion/dev/coasst/db/migrate/20150721182115_create_zones.rb" . 316)
+ ("/Users/bion/dev/coasst/db/migrate/20150722000700_add_turnaround_time_to_survey.rb" . 131)
+ ("/Users/bion/dev/coasst/db/migrate/20150727190723_add_debris_presence_to_zone.rb" . 314)
+ ("/Users/bion/dev/coasst/db/migrate/20150728231900_make_volunteer_admins_account_admins.rb" . 66)
+ ("/Users/bion/dev/coasst/db/migrate/20150804185444_add_organization_categories.rb" . 624)
+ ("/Users/bion/dev/citizen-rails/"
+	(dired-filename . "/Users/bion/dev/citizen-rails/.env"))
+ ("/Users/bion/dev/citizen-rails/app/assets/javascripts/application.coffee" . 653)
+ ("/Users/bion/dev/blindtiger/Gemfile.lock" . 2622)
+ ("/Users/bion/dev/coasst/spec/app/lib/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/app/lib/.."))
+ ("/Users/bion/dev/coasst/spec/app/"
+	(dired-filename . "/Users/bion/dev/coasst/spec/app/.."))
+ ("/Users/bion/dev/coasst/app/models/start_zone.rb" . 74)
+ ("/Users/bion/dev/coasst/app/views/admin/beaches/form.rb" . 3803)
+ ("/Users/bion/dev/coasst/app/models/subgroup.rb" . 399)
+ ("/Users/bion/dev/coasst/app/views/shared/"
+	(dired-filename . "/Users/bion/dev/coasst/app/views/shared/errors.rb"))
+ ("/Users/bion/dev/coasst/app/models/debris.rb" . 177)
+ ("/Users/bion/dev/coasst/app/views/sessions/new.html.rb" . 758))

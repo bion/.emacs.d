@@ -1,7 +1,3 @@
-(defun dont-kill-emacs () ;; why would i close it?
-  (interactive)
-  (error (substitute-command-keys "i can never be killed.")))
-
 (defun go-to-hell-bars ()
   (if (fboundp 'menu-bar-mode) (menu-bar-mode -1))
   (if (fboundp 'tool-bar-mode) (tool-bar-mode -1))
@@ -59,18 +55,6 @@ buffer read-only, so I suggest setting kill-read-only-ok to t."
   (let ((dir (file-name-directory (buffer-file-name))))
     (unless (file-readable-p dir)
       (make-directory dir t))))
-
-(defun start-emux ()
-  (unless (featurep 'emux-session)
-    (require 'emux-session))
-  (unless
-      (member
-       "emux"
-       (mapcar
-        (lambda (frame) (frame-parameter frame 'name))
-        (frame-list)))
-    (modify-frame-parameters nil (list (cons 'name "emacs")))
-    (modify-frame-parameters (make-frame) (list (cons 'name "emux")))))
 
 (defun rotate-frame-window-buffers ()
   (interactive)
@@ -265,10 +249,6 @@ uses pp if there is a prefix argument"
         (insert new-c)
         (replace-string new-c old-c nil (1+ start) end)))))
 
-(defun xmodmap ()
-  (interactive)
-  (shell-command "xmodmap ~/.xmodmap && echo xmodmapped!"))
-
 (defun simp-find-test-or-source-other-window ()
   (interactive)
   (let ((file-key
@@ -292,6 +272,6 @@ uses pp if there is a prefix argument"
 
 (defun sclang-preview-soundfile (path)
   (let ((command (concat "~sampleBuffer.value(\"" path "\")")))
-   (sclang-eval-string command)))
+    (sclang-eval-string command)))
 
 (provide 'my-functions)

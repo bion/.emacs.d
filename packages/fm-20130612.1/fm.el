@@ -8,7 +8,7 @@
 ;; Version: 20130612.1
 ;; Keywords: outlines
 ;; location: https://github.com/vapniks/fm
- 
+
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation; either version 2, or (at your option)
@@ -37,10 +37,10 @@
 ;; it to the mode hooks, e.g.:
 ;; (add-hook 'occur-mode-hook 'fm-start)
 ;; (add-hook 'compilation-mode-hook 'fm-start)
-;; 
+;;
 
 ;;; Examples:
-;;  
+;;
 ;; Do an occur for the word `package' in the NEWS file:
 ;; C-h n
 ;; M-x occur RTN package RTN
@@ -58,7 +58,7 @@
 ;; where my-mode-goto-item is a function that opens the source buffer
 ;; at the place appropriate for the current item.
 ;; You can set the number of lines to display in the items buffer when
-;; in fm-mode by setting the buffer local variable `fm-window-lines'. 
+;; in fm-mode by setting the buffer local variable `fm-window-lines'.
 
 
 ;; If you want to use fm in a buffer that doesn't have a useful major
@@ -72,7 +72,7 @@
 (defun cscope-run-fm ()
   "Run cscope in the fm buffer."
   (set (make-local-variable 'fm-defun) '(cscope-interpret-output-line))
-;; You can set the number of lines to show to 10 by uncommenting the following line.  
+;; You can set the number of lines to show to 10 by uncommenting the following line.
 ;;  (setq fm-window-lines 10)
   (fm-start))
 
@@ -87,7 +87,7 @@
 ;; Put fm.el in a directory in your load-path, e.g. ~/.emacs.d/
 ;; You can add a directory to your load-path with the following line in ~/.emacs
 ;; (add-to-list 'load-path (expand-file-name "~/elisp"))
-;; where ~/elisp is the directory you want to add 
+;; where ~/elisp is the directory you want to add
 ;; (you don't need to do this for ~/.emacs.d - it's added by default).
 ;;
 ;; Add the following to your ~/.emacs startup file.
@@ -103,7 +103,7 @@
 ;; fm-highlight is currently used to highlight the regions of both
 ;; the source(0) and output(1) buffers.
 
-(defvar fm-modes 
+(defvar fm-modes
   '( (compilation-mode compile-goto-error)
      (occur-mode  occur-mode-goto-occurrence)
      (outlines-mode  outlines-goto-line) ;; sje hack
@@ -125,18 +125,18 @@ This should be added to buffers through hooks, such as
   (let ((l))
     ;; first check to see if it is worth running fm in this mode.
     (if (not (boundp 'fm-defun))
-	(progn
-	  (setq f (cdr (assoc major-mode fm-modes)))
-	  (if f 
-	      (set (make-local-variable 'fm-defun) f))))
-    
+  (progn
+    (setq f (cdr (assoc major-mode fm-modes)))
+    (if f
+        (set (make-local-variable 'fm-defun) f))))
+
     (if (boundp 'fm-defun)
-	(progn
-	  (add-hook 'post-command-hook 'fm-post-command-hook nil 'local)
-	  (add-hook 'pre-command-hook  'fm-pre-command-hook  nil 'local)
-	  (local-set-key "f" 'fm-toggle)
-	  )
-      ;; else 
+  (progn
+    (add-hook 'post-command-hook 'fm-post-command-hook nil 'local)
+    (add-hook 'pre-command-hook  'fm-pre-command-hook  nil 'local)
+    (local-set-key "f" 'fm-toggle)
+    )
+      ;; else
       (error "Cannot use fm in this mode."))))
 
 (defun fm-pre-command-hook ()
@@ -144,54 +144,54 @@ This should be added to buffers through hooks, such as
   ;; used as pre command hook in *toc* buffer
   (if fm-working
       (progn
-	(fm-unhighlight 0)
-	(fm-unhighlight 1)
-	)))
+  (fm-unhighlight 0)
+  (fm-unhighlight 1)
+  )))
 
 (defun fm-post-command-hook (&optional lines)
   "Add the highlighting if possible to both source and output buffers."
   ;;(message (format "run post in %s" (buffer-name)) )
   (if fm-working
       (let (ret)
-	(progn
-	  (let ((buf (buffer-name))
-		(f nil))
-	    
-	    
-	    ;; select current line.
-	    (if (not (boundp 'fm-defun))
-		(error "Cannot use fm in this buffer."))
+  (progn
+    (let ((buf (buffer-name))
+    (f nil))
 
-	    (setq ret
-		  (condition-case nil
-		      (eval fm-defun)
-		    (error 'failed)))
-	    ;;(message "ret is %s" ret)
 
-	    (if (not (eq ret 'failed))
-		(progn
-		  ;; make the highlight in the source buffer.
-		  (save-excursion
-		    (fm-highlight 0
-				  (progn (beginning-of-line) (point))
-				  (progn (end-of-line) (point))))
-		
-		
-		  ;; make the highlight in the output buffer.    
-		  (pop-to-buffer buf)
+      ;; select current line.
+      (if (not (boundp 'fm-defun))
+    (error "Cannot use fm in this buffer."))
 
-		  (and (> (point) 1) 
-		       (save-excursion
-			 (fm-highlight 1 
-				       (progn (beginning-of-line) (point))
-				       (progn (end-of-line) (point)))))
+      (setq ret
+      (condition-case nil
+          (eval fm-defun)
+        (error 'failed)))
+      ;;(message "ret is %s" ret)
+
+      (if (not (eq ret 'failed))
+    (progn
+      ;; make the highlight in the source buffer.
+      (save-excursion
+        (fm-highlight 0
+          (progn (beginning-of-line) (point))
+          (progn (end-of-line) (point))))
+
+
+      ;; make the highlight in the output buffer.
+      (pop-to-buffer buf)
+
+      (and (> (point) 1)
+           (save-excursion
+       (fm-highlight 1
+               (progn (beginning-of-line) (point))
+               (progn (end-of-line) (point)))))
                   (if fm-window-lines
                       (shrink-window (- (window-body-height) fm-window-lines))))
-	      ;; else there was an error 
-	      (progn
-		;; make sure we stay in output buffer.
-		(pop-to-buffer buf)
-	      (message "couldn't find line..."))))))))
+        ;; else there was an error
+        (progn
+    ;; make sure we stay in output buffer.
+    (pop-to-buffer buf)
+        (message "couldn't find line..."))))))))
 
 (defun fm-toggle ()
   "Toggle the fm behaviour on and off."
@@ -205,7 +205,7 @@ This should be added to buffers through hooks, such as
 (and (not (fboundp 'make-overlay))
      (condition-case nil
          (require 'overlay)
-       ('error 
+       ('error
         (error "Fm needs overlay emulation (available in XEmacs 19.15)"))))
 
 ;; We keep a vector with several different overlays to do our highlighting.

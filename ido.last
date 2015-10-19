@@ -1,0 +1,346 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/bion/dev/coasst/app/views/admin/" . "volunteers/")
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/" . "components/")
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/" . "foundation/")
+ ("/Users/bion/src/overtone/src/overtone/sc/" . "machinery/")
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/" . "scss/")
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/management/" . "commands/")
+ ("/Users/bion/dev/cautionary-vigilance/static/" . "fonts/")
+ ("/Users/bion/dev/soundfyle/" . "public/")
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/" . "discussions/")
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/" . "cvapp/")
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/" . "templates/")
+ ("/Users/bion/dev/cautionary-vigilance/" . "templates/")
+ ("/Users/bion/dev/cautionary_vigilance/" . "cv_app/")
+ ("/Users/bion/dev/ko/src/ko/" . "gestures/")
+ ("/Users/bion/src/overtone/src/" . "overtone/")
+ ("/Users/bion/src/overtone/" . "src/")
+ ("/Users/bion/dev/coasst/app/views/verifications/" . "surveys/")
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/" . "surveys/")
+ ("/Users/bion/dev/coasst/app/assets/javascripts/" . "initializers/")
+ ("/Users/bion/dev/coasst/app/views/surveys/" . "data/")
+ ("/Users/bion/dev/ko/src/" . "ko/")
+ ("/Users/bion/dev/coasst/app/views/" . "admin/")
+ ("/Users/bion/dev/coasst/spec/" . "controllers/")
+ ("/Users/bion/dev/blindtiger/app/" . "models/")
+ ("/Users/bion/dev/blindtiger/" . "app/")
+ ("/Users/bion/dev/coasst/app/controllers/" . "admin/")
+ ("/Users/bion/dev/ko/test/" . "ko/")
+ ("/Users/bion/dev/ko/" . "src/")
+ ("/Users/bion/dev/coasst/lib/" . "tasks/")
+ ("/Users/bion/dev/coasst/app/assets/" . "javascripts/")
+ ("/Users/bion/dev/coasst/app/" . "views/")
+ ("/Users/bion/dev/coasst/db/" . "migrate/")
+ ("/Users/bion/dev/coasst/" . "lib/")
+ ("/Users/bion/dev/beagift/app/views/api/" . "chat_messages/")
+ ("/Users/bion/dev/beagift/app/views/" . "api/")
+ ("/Users/bion/dev/levelup/spec/javascripts/" . "helpers/")
+ ("/Users/bion/dev/levelup/app/assets/javascripts/" . "common/")
+ ("/Users/bion/dev/beagift/config/" . "initializers/")
+ ("/Users/" . "bion/")
+ ("/Users/bion/src/fun_with_blocks/" . "test/")
+ ("/Users/bion/dev/beagift/spec/requests/" . "api/")
+ ("/Users/bion/src/bookmarker/test/" . "controllers/")
+ ("/Users/bion/src/rmq/motion/ruby_motion_query/" . "stylers/")
+ ("/Users/bion/src/rmq/motion/" . "ruby_motion_query/")
+ ("/Users/bion/src/rmq/" . "motion/")
+ ("/Users/bion/src/bookmarker/app/views/" . "layouts/")
+ ("/Users/bion/src/bookmarker/lib/" . "assets/")
+ ("/Users/bion/src/bookmarker/" . "test/")
+ ("/Users/bion/src/SwipeView/Examples/" . "Paging Example/")
+ ("/Users/bion/src/SwipeView/" . "Examples/")
+ ("/Users/bion/dev/beagift/lib/" . "tasks/")
+ ("/Users/bion/src/bookmarker/app/assets/" . "javascripts/")
+ ("/Users/bion/src/bookmarker/app/" . "views/")
+ ("/Users/bion/dev/beagift/spec/controllers/" . "api/")
+ ("/Users/bion/dev/beagift/spec/" . "requests/")
+ ("/Users/bion/src/geocoder/" . "lib/")
+ ("/Users/bion/src/" . "overtone/")
+ ("/Users/bion/dev/beagift/ios/app/" . "stylesheets/")
+ ("/Users/bion/dev/beagift/ios/vendor/" . "build/")
+ ("/Users/bion/dev/beagift/ios/" . "app/")
+ ("/Users/bion/dev/beagift/vendor/" . "assets/")
+ ("/Users/bion/dev/beagift/app/controllers/" . "api/")
+ ("/Users/bion/dev/beagift/app/" . "models/")
+ ("/Users/bion/dev/beagift/" . "app/")
+ ("/Users/bion/dev/" . "cautionary-vigilance/")
+ ("/Users/bion/" . "dev/")
+ ("/Users/bion/.emacs.d/" . "packages/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/bion/dev/coasst/app/lib/admin/"
+ "/Users/bion/dev/coasst/app/admin/"
+ "/Users/bion/dev/coasst/app/views/admin/volunteers/"
+ "/Users/bion/dev/cautionary-vigilance/"
+ "/Users/bion/dev/cautionary-vigilance/templates/"
+ "/Users/bion/dev/cautionary-vigilance/static/"
+ "/Users/bion/"
+ "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/"
+ "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/"
+ "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/"
+ "/Users/bion/dev/"
+ "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/"
+ "/Users/bion/dev/cautionary-vigilance/cvapp/management/commands/"
+ "/Users/bion/dev/cautionary-vigilance/static/CACHE/"
+ "/Users/bion/dev/foundation/"
+ "/Users/bion/dev/cautionary-vigilance/cvapp/"
+ "/Users/bion/dev/soundfyle/public/stylesheets/"
+ "/Users/bion/dev/soundfyle/app/"
+ "/Users/bion/dev/soundfyle/"
+ "/Users/bion/dev/soundfyle/public/javascripts/"
+ "/Users/bion/dev/soundfyle/views/"
+ "/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/"
+ "/Users/bion/dev/cautionary-vigilance/cvapp/migrations/"
+ "/Users/bion/dev/cautionary-vigilance/templates/account/"
+ "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/"
+ "/Users/bion/dev/cautionary_vigilance/"
+ "/Users/bion/dev/cautionary_vigilance/cv_app/"
+ "/Users/bion/dev/ko/src/ko/gestures/"
+ "/Users/bion/dev/ko/src/ko/"
+ "/Users/bion/dev/ko/src/ko/synth_defs/"
+ "/Users/bion/.lein/"
+ "/Users/bion/dev/coasst/app/services/"
+ "/Users/bion/dev/coasst/app/queries/"
+ "/Users/bion/dev/coasst/app/views/verifications/surveys/"
+ "/Users/bion/dev/coasst/app/views/"
+ "/Users/bion/dev/coasst/app/views/surveys/"
+ "/Users/bion/dev/coasst/app/controllers/"
+ "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/"
+ "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/"
+ "/Users/bion/dev/coasst/app/assets/stylesheets/"
+ "/Users/bion/dev/ko/test/ko/"
+ "/Users/bion/dev/ko/"
+ "/Users/bion/dev/coasst/app/controllers/verifications/"
+ "/Users/bion/dev/coasst/app/views/verifications/beaches/"
+ "/Users/bion/dev/coasst/app/controllers/surveys/"
+ "/Users/bion/dev/coasst/app/policies/"
+ "/Users/bion/dev/coasst/config/"
+ "/Users/bion/.emacs.d/"
+ "/Users/bion/dev/coasst/spec/controllers/"
+ "/Users/bion/Documents/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "volunteer_params.rb"
+ "create_volunteer.rb"
+ "new_account_volunteer.rb"
+ "new.html.rb"
+ "issues.org"
+ "_account_bar.html"
+ "app.js"
+ "javascript.js"
+ "foundation.scss"
+ "_settings.scss"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/bion/dev/coasst/" (22048 10750 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "Rakefile" "public/" "Procfile" "log/" "LICENSE" "lib/" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "db/" "config.ru" "config/" "coast_db.sql" "bin/" "app/" ".ruby-version" ".rspec" ".pairs" ".gitignore" ".git/" ".envrc.example" ".envrc" ".ackrc" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/lib/admin/" (22048 6911 0 0) "../" "./")
+
+ ("/Users/bion/dev/coasst/app/lib/" (22007 19577 0 0) "metrics.rb" "account_lifecycle.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/ap/" (22048 6703 0 0) "volunteer_params.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/lib/admin/" (22048 6703 0 0) "volunteer_params.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/lib/" (22048 6683 0 0) "volunteer_params.rb" "tasks/" "assets/" "application_responder.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/admin/" (22048 6683 0 0) "volunteer.rb" "subgroup.rb" "sorcery_role.rb" "region.rb" "protocol.rb" "plumage.rb" "metrics.rb" "guide.rb" "group.rb" "foot_type_family.rb" "exports.rb" "event.rb" "dashboard.rb" "county.rb" "beach.rb" "account.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/controllers/surveys/" (22048 5097 0 0) "uploads_controller.rb" "turnaround_controller.rb" "start_controller.rb" "return_controller.rb" "photos_controller.rb" "mapping_controller.rb" "data_controller.rb" "data/" "base_controller.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/policies/" (22048 964 0 0) "survey_policy.rb" "application_policy.rb" "account_policy.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/spec/" (22031 2823 0 0) "support/" "spec_helper.rb" "services/" "rails_helper.rb" "queries/" "models/" "mailers/" "integration/" "controllers/" "app/" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/surveys/" (22047 55766 0 0) "turnaround/" "start/" "return/" "photos/" "participants.html.rb" "mapping/" "index.html.rb" "data/" "base.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/controllers/admin/" (22046 52909 0 0) "metrics_controller.rb" "exports_controller.rb" "admin_controller.rb" "admin_base_controller.rb" "accounts_controller.rb" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/" (22046 56496 0 0) "show.html" "index.html" "_issue_form.html" "_issue_curator_actions.html" "_evidence_listing.html" "_evidence_form.html" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/" (22046 54406 0 0) "views.pyc" "views.py" "urls.pyc" "urls.py" "tests.py" "templates/" "models.pyc" "models.py" "migrations/" "management/" "forms.pyc" "forms.py" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/" (22046 55188 0 0) "index.html" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/" (22046 54277 0 0) "components/" "_settings.scss" "_functions.scss" "_fonts.scss" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/controllers/" (22029 30505 0 0) "volunteers_controller.rb" "verifications/" "surveys_controller.rb" "surveys/" "sessions_controller.rb" "password_resets_controller.rb" "logged_out_controller.rb" "logged_in_controller.rb" "concerns/" "application_controller.rb" "admin/" "accounts_controller.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/active_admin/new_volunteer/" (22046 50569 0 0) "_new.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/active_admin/" (22046 50511 0 0) "volunteers/" "new.html.rb" "metrics/" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/admin/volunteers/" (22046 50488 0 0) "new.html.rb" "form.rb" "edit.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/active_admin/volunteers/" (22046 36906 0 0) "_stats.html.erb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/admin/accounts/" (22046 38276 0 0) "show.html.rb" "new.html.rb" "index.html.rb" "form.rb" "edit.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/" (22046 36906 0 0) "views/" "uploaders/" "services/" "queries/" "policies/" "models/" "mailers/" "lib/" "helpers/" "decorators/" "controllers/" "assets/" "admin/" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/" (22046 36906 0 0) "volunteers/" "verifications/" "surveys/" "shared/" "sessions/" "password_resets/" "logged_out/" "logged_in/" "layouts/" "email_base.rb" "base.rb" "admin/" "active_admin/" "accounts_mailer/" "accounts/" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/admin/admin/" (22046 36906 0 0) "index.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/admin/" (22046 36906 0 0) "volunteers/" "exports/" "beaches/" "admin/" "accounts/" "../" "./")
+
+ ("/Users/bion/" (22046 37087 0 0) "understand_method.rb" "src/" "python_envs/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "keysnail.xpi" "javascript.js" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "dev/" "Desktop/" "bin/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-ccode-5.0.5" ".zcompdump-bion’s MacBook Pro-5.0.5" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rvm/" ".ruby-version" ".rbenv/" ".psql_history" ".pry_history" ".profile" ".phantomjs/" ".pairs" ".overtone/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".ngrok2/" ".netrc" ".mkshrc" ".m2/" ".lldb/" ".lesshst" ".lein/" ".keysnail.js" ".heroku/" ".gnupg/" ".gitignore" ".gitconfig" ".gem/" ".erc/" ".emacs.d/" ".DS_Store" ".dropbox/" ".creds" ".config/" ".coffee_history" ".cocoapods/" ".CFUserTextEncoding" ".bashrc" ".bash_profile" ".bash_history" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/" (22045 33668 0 0) "templates/" "staticfiles.json" "static/" "requirements.txt" "README.md" "Procfile" "manage.py" "issues.org" "cvapp/" "cautionary_vigilance/" ".sass-cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/" (22045 12413 0 0) "js/" "images/" "foundation/" "fonts/" "CACHE/" "app.js" "app.css.map" "app.css" "admin/" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/" (22044 17558 0 0) "_visibility.scss" "_type.scss" "_top-bar.scss" "_tooltips.scss" "_toolbar.scss" "_thumbs.scss" "_tabs.scss" "_tables.scss" "_switches.scss" "_sub-nav.scss" "_split-buttons.scss" "_side-nav.scss" "_reveal.scss" "_range-slider.scss" "_progress-bars.scss" "_pricing-tables.scss" "_panels.scss" "_pagination.scss" "_orbit.scss" "_offcanvas.scss" "_magellan.scss" "_labels.scss" "_keystrokes.scss" "_joyride.scss" "_inline-lists.scss" "_icon-bar.scss" "_grid.scss" "_global.scss" "_forms.scss" "_flex-video.scss" "_dropdown.scss" "_dropdown-buttons.scss" "_clearing.scss" "_buttons.scss" "_button-groups.scss" "_breadcrumbs.scss" "_block-grid.scss" "_alert-boxes.scss" "_accordion.scss" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/templates/" (22044 19639 0 0) "signup.html" "base.html" "account/" "_top_bar.html" "_log_in_required_modal.html" "_account_bar.html" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/" (22044 6278 0 0) "normalize.scss" "foundation.scss" "foundation/" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/fonts/" (22044 6264 0 0) "Montserrat-UltraLight.otf" "Montserrat-SemiBold.otf" "Montserrat-Regular.otf" "Montserrat-Light.otf" "Montserrat-Hairline.otf" "Montserrat-ExtraBold.otf" "Montserrat-Bold.otf" "Montserrat-Black.otf" ".DS_Store" "../" "./")
+
+ ("/Users/bion/dev/ko/src/ko/" (22042 63109 0 0) "synth_defs/" "scheduling.clj" "gestures/" "gesture.clj" "core.clj" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/" (22040 14919 0 0) "__init__.pyc" "__init__.py" "0010_issue_approved.pyc" "0010_issue_approved.py" "0009_evidence_reference_date.pyc" "0009_evidence_reference_date.py" "0008_auto_20151009_1656.pyc" "0008_auto_20151009_1656.py" "0007_issue_photo_url.pyc" "0007_issue_photo_url.py" "0006_comment.pyc" "0006_comment.py" "0005_auto_20151008_2252.pyc" "0005_auto_20151008_2252.py" "0004_debate.pyc" "0004_debate.py" "0003_evidence_approved.pyc" "0003_evidence_approved.py" "0002_evidence.pyc" "0002_evidence.py" "0001_initial.pyc" "0001_initial.py" "../" "./")
+
+ ("/Users/bion/dev/" (22040 10107 0 0) "thoughts.org" "soundfyle/" "scratch.rb" "rhythm_coach.org" "portfolio/" "pianochords/" "old/" "notes" "levelup/" "ko/" "ios_audio_notes/" "foundation/" "foo" "coasst/" "citizen-rails/" "cautionary-vigilance/" "blindtiger/" "beagift/" ".DS_Store" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/templates/account/" (22040 4906 0 0) "signup.html" "login.html" "../" "./")
+
+ ("/Users/bion/src/overtone/src/overtone/helpers/" (22039 22930 0 0) "zip.clj" "system.clj" "synth.clj" "string.clj" "stereo.clj" "seq.clj" "sc_lang.clj" "ref.clj" "old_contrib.clj" "ns.clj" "math.clj" "map.clj" "lib.clj" "hash.clj" "file.clj" "doc.clj" "audio_file.clj" "../" "./")
+
+ ("/Users/bion/src/overtone/src/overtone/libs/" (22015 11442 0 0) "event.clj" "deps.clj" "counters.clj" "boot_msg.clj" "binary_file_io.clj" "asset.clj" "asset/" "app_icon.clj" "../" "./")
+
+ ("/Users/bion/src/overtone/src/overtone/sc/" (22039 22236 0 0) "vbap.clj" "util.clj" "ugens.clj" "trig.clj" "synth.clj" "server.clj" "sample.clj" "protocols.clj" "node.clj" "machinery/" "info.clj" "foundation_groups.clj" "examples/" "example.clj" "envelope.clj" "dyn_vars.clj" "defcgen.clj" "defaults.clj" "clock.clj" "cgens/" "bus.clj" "buffer.clj" "bindings.clj" "../" "./")
+
+ ("/Users/bion/src/overtone/src/overtone/sc/machinery/" (22015 11442 0 0) "ugen/" "synthdef.clj" "server/" "defexample.clj" "allocator.clj" "../" "./")
+
+ ("/Users/bion/src/overtone/src/overtone/" (22037 63150 0 0) "version.clj" "synth/" "studio/" "speech.clj" "sc/" "samples/" "repl/" "protocols.clj" "music/" "live.clj" "libs/" "jna_path.clj" "inst/" "helpers/" "examples/" "device/" "core.clj" "config/" "api.clj" "algo/" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/" (22039 466 0 0) "issues/" "index.html" "discussions/" "../" "./")
+
+ ("/Users/bion/.emacs.d/" (22038 63269 0 0) "var/" "url/" "supercollider/" "smex-items" "recentf" "places" "packages/" "my/" "init.el" "ido.last" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" ".backups/" "#!Users!bion!src!overtone!src!overtone!examples!compositions!bells.clj#" "#!Users!bion!dev!coasst!db!schema.rb#" "#!Users!bion!.emacs.d!places#" "#!Users!bion!.emacs.d!my!my-project-defenitions.el#" "../" "./")
+
+ ("/Users/bion/dev/ko/src/ko/synth_defs/" (22037 63179 0 0) "single_signal.clj" "../" "./")
+
+ ("/Users/bion/dev/ko/src/ko/gestures/" (22037 54580 0 0) "single_signal.clj" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/" (22038 54822 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/bion/dev/soundfyle/app/" (22036 31911 0 0) "index.js" "../" "./")
+
+ ("/Users/bion/dev/soundfyle/public/stylesheets/" (22036 32286 0 0) "style.css" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/CACHE/" (22038 43165 0 0) "css/" ".gitignore" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/management/commands/" (22038 55939 0 0) "compile_scss.pyc" "compile_scss.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/bion/.emacs.d/my/" (22038 55554 0 0) "my-settings.el" "my-project-defenitions.el" "my-package.el" "my-keybindings.el" "my-isearch.el" "my-initializers.el" "my-hooks.el" "my-functions.el" "my-customizations.el" "my-bookmarks.el" "my-backup.el" "my-autoloads.el" "my-advice.el" "my-add-to-lists.el" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/management/" (22038 54921 0 0) "commands/" "__init__.py" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/css/" (22035 5728 0 0) "normalize.css" "foundation.min.css" "foundation.css" "foundation-icons.woff" "foundation-icons.ttf" "foundation-icons.svg" "foundation-icons.eot" "foundation-icons.css" "../" "./")
+
+ ("/Users/bion/dev/foundation/" (22035 4613 0 0) "spec/" "scss/" "sache.json" "run-tests.sh" "robots.txt" "README.md" "package.json" "LICENSE" "lib/" "karma.conf.js" "js/" "Gruntfile.js" "grunt/" "Gemfile.lock" "Gemfile" "doc/" "CONTRIBUTING.md" "composer.json" "bower.json" ".travis.yml" ".gitignore" ".git/" ".editorconfig" ".bowerrc" "../" "./")
+
+ ("/Users/bion/dev/ko/" (22036 44196 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "hope.clj" "doc/" ".nrepl-port" ".lein-repl-history" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/bion/dev/soundfyle/" (22036 38538 0 0) "views/" "public/" "Procfile" "package.json" "node_modules/" "index.js" "Gruntfile.js" "app/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/bion/dev/soundfyle/public/" (22036 31500 0 0) "javascripts/" "../" "./")
+
+ ("/Users/bion/dev/soundfyle/public/javascripts/" (22036 31824 0 0) "recorderWorker.js" "recorder.js" "jquery-1.11.13.min.js" "index.js" "../" "./")
+
+ ("/Users/bion/dev/soundfyle/views/" (22036 31352 0 0) "index.jade" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/" (22035 928 0 0) "cvapp/" "../" "./")
+
+ ("/Users/bion/dev/citizen-rails/" (22011 13253 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "Rakefile" "public/" "Procfile" "log/" "LICENSE" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "db/" "config.ru" "config/" "bin/" "app/" ".ruby-version" ".rspec" ".gitignore" ".git/" ".env" ".ackrc" "../" "./")
+
+ ("/Users/bion/dev/coasst/spec/services/" (22017 59462 0 0) "export_surveys_spec.rb" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/static/foundation/" (22035 5728 0 0) "scss/" "js/" "css/" "../" "./")
+
+ ("/Users/bion/dev/cautionary_vigilance/topic/" (22034 59048 0 0) "views.py" "tests.py" "models.py" "migrations/" "admin.py" "__init__.py" "../" "./")
+
+ ("/Users/bion/dev/cautionary_vigilance/" (22034 58044 0 0) "manage.py" "cautionary_vigilance/" "../" "./")
+
+ ("/Users/bion/dev/cautionary_vigilance/cv_app/" (22034 57684 0 0) "views.py" "urls.py" "tests.py" "models.py" "migrations/" "admin.py" "__init__.py" "../" "./")
+
+ ("/Users/bion/dev/beagift/spec/controllers/api/" (22024 49523 0 0) "sessions_controller_spec.rb" "photos_controller_spec.rb" "gifts_controller_spec.rb" "favorites_controller_spec.rb" "devices_controller_spec.rb" "base_controller_spec.rb" "accounts_controller_spec.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/app/views/api/inbox/" (21954 36638 0 0) "index.json.jbuilder" "_message.json.jbuilder" "../" "./")
+
+ ("/Users/bion/dev/beagift/app/views/api/chat_messages/" (22024 49523 0 0) "index.json.jbuilder" "_chat_message.json.jbuilder" "../" "./")
+
+ ("/Users/bion/dev/levelup/app/assets/javascripts/common/" (21955 53872 0 0) "validators/" "util.coffee" "models/" "collections/" "app.coffee" "../" "./")
+
+ ("/Users/bion/dev/levelup/" (21956 56365 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "README-setup.markdown" "Rakefile" "public/" "Procfile" "logs" "log/" "lib/" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "doc/" "db/" "config.ru" "config/" "circle.yml" "bin/" "app/" ".ruby-version" ".rspec" ".pairs" ".gitignore" ".git/" ".env" ".buildpacks" ".ackrc" "../" "./")
+
+ ("/Users/bion/dev/beagift/config/" (22024 49523 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/app/services/" (22024 49523 0 0) "service.rb" "give_gratitude.rb" "find_nearby_gift_givers.rb" "create_photo.rb" "collate_conversation_history.rb" "broadcast_gift.rb" "broadcast_chat.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/app/models/" (22024 49523 0 0) "zip_code.rb" "role.rb" "photo.rb" "payment_transaction.rb" "gift.rb" "flag.rb" "favorite.rb" "device.rb" "chat_message.rb" "account_role.rb" "account.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/ios/app/stylesheets/" (22024 49523 0 0) "select_beneficiary_screen_stylesheet.rb" "profile_view_stylesheet.rb" "profile_screen_stylesheet.rb" "info_screen_stylesheet.rb" "inbox_screen_stylesheet.rb" "gratitude_screen_stylesheet.rb" "gifts_screen_stylesheet.rb" "flag_screen_stylesheet.rb" "favorites_screen_stylesheet.rb" "favorite_screen_stylesheet.rb" "credit_card_screen_stylesheet.rb" "chat_screen_stylesheet.rb" "bank_account_screen_stylesheet.rb" "authentication_screen_stylesheet.rb" "application_stylesheet.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/spec/services/" (22024 49523 0 0) "give_gratitude_spec.rb" "find_nearby_gift_givers_spec.rb" "create_photo_spec.rb" "collate_conversation_history_spec.rb" "broadcast_gift_spec.rb" "broadcast_chat_spec.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/spec/requests/api/" (22024 49523 0 0) "sessions_spec.rb" "photos_spec.rb" "inbox_spec.rb" "gratitude_spec.rb" "gifts_spec.rb" "favorites_spec.rb" "credit_cards_spec.rb" "cloudinary_authorization_spec.rb" "chat_messages_spec.rb" "bank_accounts_spec.rb" "accounts_spec.rb" "../" "./")
+
+ ("/Users/bion/dev/beagift/app/controllers/api/" (22024 49523 0 0) "sessions_controller.rb" "photos_controller.rb" "inbox_controller.rb" "gratitudes_controller.rb" "gifts_controller.rb" "favorites_controller.rb" "devices_controller.rb" "credit_cards_controller.rb" "cloudinary_authorizations_controller.rb" "chat_messages_controller.rb" "base_controller.rb" "bank_accounts_controller.rb" "accounts_controller.rb" "../" "./")
+
+ ("/Users/bion/dev/ios_audio_notes/" (22014 64185 0 0) "ios_audio_notes.md" "../" "./")
+
+ ("/Users/bion/src/" (22015 11430 0 0) "SwipeView/" "rmq/" "ProMotion/" "probot/" "poplife-hubot/" "overtone/" "moticons/" "bookmarker/" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/logged_in/" (22029 30505 0 0) "landing.html.rb" "_unverified_surveys_by_region.html.rb" "../" "./")
+
+ ("/Users/bion/Documents/" (22025 58860 0 0) "Zoom/" "SoulsofWhiteFolk.pdf" "overheard.mp3" "Hacking_Japanese_Supercourse_-_Version1.1.pdf" "Eyes Nose Teeth d2.pdf" "dejavu-fonts-ttf-2.35/" "Anki/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/bion/dev/coasst/spec/controllers/" (22029 30505 0 0) "sessions_controller_spec.rb" "password_resets_controller_spec.rb" "logged_out_controller_spec.rb" "logged_in_controller_spec.rb" "concerns/" "admin/" "accounts_controller_spec.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/config/" (22031 5693 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/verifications/beaches/" (22029 30505 0 0) "index.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/controllers/verifications/" (22029 30505 0 0) "surveys_controller.rb" "beaches_controller.rb" "base_controller.rb" "../" "./")
+
+ ("/Users/bion/dev/ko/test/ko/" (22027 24411 0 0) "core_test.clj" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/assets/stylesheets/" (22031 5693 0 0) "typeahead.scss" "surveys.scss" "partials/" "foundation_and_overrides.scss" "email_ink.css" "email_custom.css" "application.css" "active_admin.css.scss" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/" (22029 35884 0 0) "debris/" "birds.coffee" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/" (22029 48145 0 0) "turnaround.coffee" "start.coffee" "photos.coffee" "mapping.coffee" "data/" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/views/verifications/surveys/" (22029 30505 0 0) "index.html.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/queries/" (22031 10406 0 0) "volunteer_last_survey_info.sql" "unverified_survey_counts.rb" "survey_export_query.rb" "../" "./")
+
+ ("/Users/bion/dev/coasst/app/services/" (22031 5693 0 0) "export_surveys.rb" "../" "./")
+
+ ("/Users/bion/.lein/" (22030 8789 0 0) "repl-history" "profiles.clj" "../" "./")
+
+ ("/Users/bion/dev/cautionary-vigilance/deploy/" (22034 53039 0 0) "supervisor.conf.template" "nginx.conf.template" "local_settings.py.template" "gunicorn.conf.py.template" "crontab.template" "../" "./")
+
+ ("/Users/bion/python_envs/" (22034 49990 0 0) "prermvirtualenv" "premkvirtualenv" "premkproject" "predeactivate" "preactivate" "postrmvirtualenv" "postmkvirtualenv" "postmkproject" "postdeactivate" "postactivate" "initialize" "get_env_details" "cv/" "../" "./")
+
+ ("/Users/bion/python_envs/cv/" (22034 50065 0 0) "pip-selfcheck.json" "lib/" "include/" "bin/" ".Python" "../" "./")
+
+ ("/Users/bion/python_envs/cv/bin/" (22034 50206 0 0) "wheel" "viewer.pyc" "viewer.py" "thresholder.pyc" "thresholder.py" "python2.7" "python2" "python" "predeactivate" "preactivate" "postdeactivate" "postactivate" "player.pyc" "player.py" "pip2.7" "pip2" "pip" "pilprint.pyc" "pilprint.py" "pilfont.pyc" "pilfont.py" "pilfile.pyc" "pilfile.py" "pildriver.pyc" "pildriver.py" "pilconvert.pyc" "pilconvert.py" "pasteurize" "painter.pyc" "painter.py" "mezzanine-project" "gifmaker.pyc" "gifmaker.py" "get_env_details" "futurize" "explode.pyc" "explode.py" "enhancer.pyc" "enhancer.py" "easy_install-2.7" "easy_install" "django-admin.pyc" "django-admin.py" "django-admin" "createfontdatachunk.pyc" "createfontdatachunk.py" "chardetect" "activate_this.py" "activate.fish" "activate.csh" "activate" "../" "./")
+
+ ("/Users/bion/python_envs/cv-env/bin/" (22034 49099 0 0) "wheel" "viewer.pyc" "viewer.py" "thresholder.pyc" "thresholder.py" "python2.7" "python2" "python" "predeactivate" "preactivate" "postdeactivate" "postactivate" "player.pyc" "player.py" "pip2.7" "pip2" "pip" "pilprint.pyc" "pilprint.py" "pilfont.pyc" "pilfont.py" "pilfile.pyc" "pilfile.py" "pildriver.pyc" "pildriver.py" "pilconvert.pyc" "pilconvert.py" "pasteurize" "painter.pyc" "painter.py" "mezzanine-project" "gifmaker.pyc" "gifmaker.py" "get_env_details" "futurize" "explode.pyc" "explode.py" "enhancer.pyc" "enhancer.py" "easy_install-2.7" "easy_install" "django-admin.pyc" "django-admin.py" "django-admin" "createfontdatachunk.pyc" "createfontdatachunk.py" "chardetect" "activate_this.py" "activate.fish" "activate.csh" "activate" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

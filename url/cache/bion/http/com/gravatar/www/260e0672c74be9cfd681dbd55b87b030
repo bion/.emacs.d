@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=300
+Content-Type: text/html; charset=utf-8
+Date: Fri, 16 Oct 2015 23:24:27 GMT
+Expires: Fri, 16 Oct 2015 23:29:27 GMT
+Last-Modified: Wed, 11 Jan 1984 08:00:00 GMT
+Link: <http://www.gravatar.com/avatar/19819b6f9d69f36d449d4257c0246606?d=404&r=g&s=30>; rel="canonical"
+Server: nginx
+Via: 1.1 varnish-v4
+X-Varnish: 449577660 444370475
+Content-Length: 13
+
+404 Not Found

@@ -8,5 +8,8 @@
 (show-paren-mode t)
 (highline-mode 1)
 (auto-compression-mode 1)
-(powerline-default-theme)
+(menu-bar-mode -1)
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
+
 (provide 'my-initializers)

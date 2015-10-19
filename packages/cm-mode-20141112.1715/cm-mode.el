@@ -253,7 +253,7 @@ it is added automatically."
 ;; `cm-font-lock-for-markup' produces a font-lock entry that can be given
 ;; to `font-lock-add-keywords'. To illustrate, the entry it produces for
 ;; additions is the following:
-;; 
+;;
 ;; ("\\({\\+\\+\\).*?\\(\\+\\+}\\)"
 ;;  (0 cm-addition-face)
 ;;  (1 '(face cm-addition-face read-only t))

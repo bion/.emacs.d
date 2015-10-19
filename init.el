@@ -1,48 +1,44 @@
+(setq rbenv-installation-dir "/usr/local")
+
 (let ((default-directory "~/.emacs.d/"))
   (normal-top-level-add-subdirs-to-load-path))
 
-(menu-bar-mode -1)
-(tool-bar-mode -1)
-(scroll-bar-mode -1)
+(setq ring-bell-function 'ignore)
+(setq mac-option-key-is-meta nil)
+(setq mac-command-key-is-meta t)
+(setq mac-command-modifier 'meta)
+(setq mac-option-modifier nil)
+
+(defadvice rspec-compile (around rspec-compile-around)
+  "Use BASH shell for running the specs because of ZSH issues."
+  (let ((shell-file-name "/bin/bash"))
+    ad-do-it))
+
+(ad-activate 'rspec-compile)
+(setq rspec-use-rvm t)
 
 (mapc
  'require
- '(slime
-   sclang
-   smex
-   auto-complete
+ '(smex
+   highline
    ido
    ido-ubiquitous
-   visible-mark
-   highline
+   simp
+   auto-complete
    dired
    dired-efap
-   stumpwm-mode
-   misc
-   simp
-   move-dup
-   expand-region
-   winner
-   midnight
-   isearch-symbol-at-point
-   multiple-cursors
-   itail
-   powerline
    smart-indent-rigidly
-   my-erc
    my-isearch
    my-advice
    my-backup
    my-package
-   my-emms
    my-autoloads
    my-add-to-lists
-   my-project-defenitions
    my-functions
    my-keybindings
    my-hooks
    my-settings
-   my-emux-templates
-   my-initializers))
+   my-initializers
+   my-project-defenitions))
 
-(dired "~/dev")
+(toggle-frame-maximized)

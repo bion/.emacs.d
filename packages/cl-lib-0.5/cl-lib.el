@@ -371,39 +371,39 @@
 ;;;; ChangeLog:
 
 ;; 2014-02-25  Stefan Monnier  <monnier@iro.umontreal.ca>
-;; 
-;; 	Fixes: debbugs:16671
-;; 
-;; 	* cl-lib.el (cl-position, cl-delete-duplicate): Don't advise if >=24.3.
-;; 	(load-path): Try to make sure we're at the end.
-;; 
+;;
+;;  Fixes: debbugs:16671
+;;
+;;  * cl-lib.el (cl-position, cl-delete-duplicate): Don't advise if >=24.3.
+;;  (load-path): Try to make sure we're at the end.
+;;
 ;; 2014-01-25  Stefan Monnier  <monnier@iro.umontreal.ca>
-;; 
-;; 	* cl-lib.el: Resolve conflicts with old internal definitions
-;; 	(bug#16353).
-;; 	(dolist fun): Don't skip definitions silently.
-;; 	(define-setf-expander): Remove, not in cl-lib.
-;; 	(cl-position, cl-delete-duplicates): Add advice to distinguish the use
-;; 	case.
-;; 	(cl-member): Override old definition.
-;; 
+;;
+;;  * cl-lib.el: Resolve conflicts with old internal definitions
+;;  (bug#16353).
+;;  (dolist fun): Don't skip definitions silently.
+;;  (define-setf-expander): Remove, not in cl-lib.
+;;  (cl-position, cl-delete-duplicates): Add advice to distinguish the use
+;;  case.
+;;  (cl-member): Override old definition.
+;;
 ;; 2013-05-22  Stefan Monnier  <monnier@iro.umontreal.ca>
-;; 
-;; 	* cl-lib.el (cl-labels): Demote error to message and improve it.
-;; 
+;;
+;;  * cl-lib.el (cl-labels): Demote error to message and improve it.
+;;
 ;; 2012-11-30  Stefan Monnier  <monnier@iro.umontreal.ca>
-;; 
-;; 	* cl-lib.el: Try and patch things up in case we're hiding the real
-;; 	cl-lib.
-;; 
+;;
+;;  * cl-lib.el: Try and patch things up in case we're hiding the real
+;;  cl-lib.
+;;
 ;; 2012-11-22  Stefan Monnier  <monnier@iro.umontreal.ca>
-;; 
-;; 	Add cl-letf and cl-labels.
-;; 
+;;
+;;  Add cl-letf and cl-labels.
+;;
 ;; 2012-11-16  Stefan Monnier  <monnier@iro.umontreal.ca>
-;; 
-;; 	* packages/cl-lib: New package.
-;; 
+;;
+;;  * packages/cl-lib: New package.
+;;
 
 
 (provide 'cl-lib)

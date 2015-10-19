@@ -74,12 +74,12 @@
 A data structure identifing the connection is returned"
 
   (let ((process-buffer (generate-new-buffer (format " connection to %s:%s"
-						     server
-						     port)))
-	(process))
+                 server
+                 port)))
+  (process))
     (with-current-buffer process-buffer
       (setq process (open-network-stream "connection" process-buffer
-					 server port))
+           server port))
       (connection-create-data process-buffer process (point-min)))))
 
 (defun connection-status (connection)
@@ -92,29 +92,29 @@ nil: argument is no connection object
 'alone: connection is not associated with a buffer"
   (if (connection-p connection)
       (let ((process (connection-process connection))
-	    (buffer (connection-buffer connection)))
-	(if (not process)
-	    'none
-	  (if (not (buffer-live-p buffer))
-	      'alone
-	    (if (not (eq (process-status process) 'open))
-		'down
-	      'up))))
+      (buffer (connection-buffer connection)))
+  (if (not process)
+      'none
+    (if (not (buffer-live-p buffer))
+        'alone
+      (if (not (eq (process-status process) 'open))
+    'down
+        'up))))
     nil))
 
 (defun connection-close (connection)
   "Force closing of the connection."
   (if (connection-p connection)
       (progn
-	(let ((buffer (connection-buffer connection))
-	      (process (connection-process connection)))
-	  (if process
-	      (delete-process process))
-	  (if buffer
-	      (kill-buffer buffer))
-	  
-	  (connection-set-process connection nil)
-	  (connection-set-buffer connection nil)))))
+  (let ((buffer (connection-buffer connection))
+        (process (connection-process connection)))
+    (if process
+        (delete-process process))
+    (if buffer
+        (kill-buffer buffer))
+
+    (connection-set-process connection nil)
+    (connection-set-buffer connection nil)))))
 
 (defun connection-send (connection data)
   "Send `data' to the process."
@@ -134,19 +134,19 @@ nil: argument is no connection object
   (unless (eq (connection-status connection) 'up)
     (error "Connection is not up"))
   (let ((case-fold-search nil)
-	match-end)
+  match-end)
     (with-current-buffer (connection-buffer connection)
       (goto-char (connection-read-point connection))
-      ;; Wait until there is enough data 
+      ;; Wait until there is enough data
       (while (not (search-forward-regexp delimiter nil t))
-	(accept-process-output (connection-process connection) 3)
-	(goto-char (connection-read-point connection)))
+  (accept-process-output (connection-process connection) 3)
+  (goto-char (connection-read-point connection)))
       (setq match-end (point))
       ;; Return the result
       (let ((result (buffer-substring (connection-read-point connection)
-				      match-end)))
-	(connection-set-read-point connection match-end)
-	result))))
+              match-end)))
+  (connection-set-read-point connection match-end)
+  result))))
 
 (defun connection-read-crlf (connection)
   "Read until a line is completedx with CRLF"
