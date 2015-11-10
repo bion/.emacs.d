@@ -35,6 +35,9 @@
  '(emms-source-file-default-directory "~/music/")
  '(emux-completing-read-command (quote ido-completing-read))
  '(emux-term-program "/bin/zsh")
+ '(enh-ruby-add-encoding-comment-on-save nil)
+ '(enh-ruby-deep-indent-paren nil)
+ '(enh-ruby-hanging-paren-indent-level 0)
  '(eshell-cd-shows-directory nil)
  '(eshell-cmpl-cycle-completions t)
  '(eshell-cmpl-cycle-cutoff-length 10)
@@ -77,7 +80,7 @@
  '(indent-tabs-mode t)
  '(indicate-buffer-boundaries (quote left))
  '(indicate-empty-lines t)
- '(inferior-lisp-program "sbcl" t)
+ '(inferior-lisp-program "sbcl")
  '(iswitchb-use-virtual-buffers t nil (recentf))
  '(itail-fancy-mode-line t)
  '(itail-tail-flags "-n100 -f")
@@ -112,7 +115,10 @@
  '(save-interprogram-paste-before-kill t)
  '(save-place t nil (saveplace))
  '(sclang-indent-level 2)
- '(sgml-basic-offset 2)
+ '(scroll-bar-mode nil)
+ '(scroll-conservatively 1)
+ '(scroll-margin 10)
+ '(sgml-basic-offset 2 t)
  '(show-paren-mode nil)
  '(show-smartparens-global-mode t)
  '(simp-completing-read-command (quote ido-completing-read))
@@ -196,4 +202,5 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:inherit nil :stipple nil :background "Black" :foreground "White" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 143 :width normal :family "DejaVu Sans Mono")))))
+ '(default ((t (:inherit nil :stipple nil :background "Black" :foreground "White" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 143 :width normal :family "DejaVu Sans Mono"))))
+ '(cider-repl-stderr-face ((t (:inherit font-lock-builtin-face)))))

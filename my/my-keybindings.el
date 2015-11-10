@@ -15,7 +15,6 @@
 (global-set-key (kbd "C-|") 'rotate-frame-window-buffers)
 (global-set-key (kbd "C-#") 'comment-region)
 (global-set-key (kbd "C-!") 'shell-command-on-dwim-replace)
-(global-set-key (kbd "C-<return>") 'embiggen-toggler)
 (global-set-key (kbd "C-<backspace>") 'backwards-kill)
 
 (global-set-key (kbd "M-l") 'next-in-frame-window)
@@ -31,7 +30,6 @@
 (global-set-key (kbd "M-N") 'md/duplicate-down)
 (global-set-key (kbd "M-|") 'toggle-window-split)
 (global-set-key (kbd "M-/") 'hippie-expand)
-(global-set-key (kbd "M-#") 'uncomment-region)
 (global-set-key (kbd "M-?") 'comint-dynamic-complete-filename)
 
 (global-set-key (kbd "M-i") nil)
@@ -61,7 +59,6 @@
 (global-set-key (kbd "M-j") nil)
 (global-set-key (kbd "M-j '") 'toggle-quote-type)
 (global-set-key (kbd "M-j j") 'newline-and-indent)
-(global-set-key (kbd "M-j J") 'bookmark-jump)
 (global-set-key (kbd "M-j f") 'flyspell-correct-word-before-point)
 (global-set-key (kbd "M-j k") 'copy-line)
 (global-set-key (kbd "M-j e") 'flymake-goto-next-error-and-show)
@@ -74,9 +71,6 @@
 (global-set-key (kbd "M-j g") 'magit-status)
 (global-set-key (kbd "M-j M") 'rename-current-buffer-and-file)
 (global-set-key (kbd "M-j G") 'git-timemachine)
-(global-set-key (kbd "M-j c") 'emux-term)
-(global-set-key (kbd "M-j P") 'emux-session-load-template)
-(global-set-key (kbd "M-j C-s") 'emux-session-switch)
 
 (global-set-key (kbd "M-j M-f") 'simp-project-with-bookmark-find-file)
 (global-set-key (kbd "M-j M-s") 'simp-project-with-bookmark-rgrep)

@@ -34,9 +34,15 @@
 (add-hook
  'ruby-mode-hook
  (lambda ()
-   (auto-indent-mode)
+   (smart-indent-rigidly-mode)
    (linum-mode)
-   (rvm-activate-corresponding-ruby)
+   (flymake-ruby-load)))
+
+(add-hook
+ 'enh-ruby-mode-hook
+ (lambda ()
+   (smart-indent-rigidly-mode)
+   (linum-mode)
    (flymake-ruby-load)))
 
 (add-hook

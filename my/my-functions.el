@@ -15,10 +15,11 @@
 
 ;; from http://emacsblog.org/2009/05/18/copying-lines-not-killing/
 (defun copy-line (&optional arg)
-  "Do a kill-line but copy rather than kill.  This function directly calls
-kill-line, so see documentation of kill-line for how to use it including prefix
-argument and relevant variables.  This function works by temporarily making the
-buffer read-only, so I suggest setting kill-read-only-ok to t."
+  "Do a kill-line but copy rather than kill. This function directly
+calls kill-line, so see documentation of kill-line for how to use it
+including prefix argument and relevant variables. This function works
+by temporarily making the buffer read-only, so I suggest setting
+kill-read-only-ok to t."
   (interactive "P")
   (toggle-read-only 1)
   (kill-line arg)
@@ -33,7 +34,7 @@ buffer read-only, so I suggest setting kill-read-only-ok to t."
 (defun untabify-all ()
   (interactive)
   (untabify (point-min) (point-max)))
-
+}
 (defun flymake-goto-next-error-and-show ()
   (interactive)
   (flymake-goto-next-error)
@@ -71,7 +72,6 @@ buffer read-only, so I suggest setting kill-read-only-ok to t."
              (buffer (cadr window-to-buffer)))
          (select-window window)
          (switch-to-buffer buffer))) map)))
-
 
 (defun toggle-window-split ()
   (interactive)
@@ -173,9 +173,7 @@ If PREVIOUS is non-nil, go up a line first."
   branch)
 
 (defun magit-quick-stash ()
-  "Immediately stash with mesage
-
-WIP on branchname: short-sha commit-message"
+  "Immediately stash with message WIP on branchname: short-sha commit-message"
   (interactive)
   (magit-stash ""))
 
@@ -248,6 +246,20 @@ uses pp if there is a prefix argument"
         (delete-char 1)
         (insert new-c)
         (replace-string new-c old-c nil (1+ start) end)))))
+
+(defun ruby-format-string-to-heredoc ()
+  "formats a ruby string to a heredoc with no more than 80 chars per line"
+  (interactive)
+  (save-excursion
+    (re-search-backward "[\"']")
+    (let ((quote-c (char-after (point))))
+      (delete-char 1)
+      (insert "<<-TEXT\n")
+      (save-excursion (re-search-forward quote-c)
+                      (delete-backward-char 1)
+                      (insert "\nTEXT"))
+      (forward-char 80)
+      (insert "\n"))))
 
 (defun simp-find-test-or-source-other-window ()
   (interactive)
