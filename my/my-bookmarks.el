@@ -2,7 +2,12 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("overtone"
+(("withd"
+ (filename . "~/art/withd/")
+ (front-context-string . "checkouts\n  -rw-")
+ (rear-context-string . "68 Feb 15 20:35 ")
+ (position . 274))
+("overtone"
  (filename . "~/src/overtone/")
  (front-context-string . ".git\n  -rw-r--r-")
  (rear-context-string . "44 Sep 20 16:35 ")

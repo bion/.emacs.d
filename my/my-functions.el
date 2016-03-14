@@ -34,7 +34,7 @@ kill-read-only-ok to t."
 (defun untabify-all ()
   (interactive)
   (untabify (point-min) (point-max)))
-}
+
 (defun flymake-goto-next-error-and-show ()
   (interactive)
   (flymake-goto-next-error)
@@ -285,5 +285,13 @@ uses pp if there is a prefix argument"
 (defun sclang-preview-soundfile (path)
   (let ((command (concat "~sampleBuffer.value(\"" path "\")")))
     (sclang-eval-string command)))
+
+;; (defun dired-overtone-preview-waveform ()
+;;  (interactive)
+;;  (overtone-preview-waveform (dired-get-filename)))
+
+;; (defun overtone-preview-waveform ()
+;;  (let ((command (concat "(preview-waveform \"" path "\")")))
+;;    (cider)))
 
 (provide 'my-functions)

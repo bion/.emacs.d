@@ -28,6 +28,7 @@
    dired
    dired-efap
    smart-indent-rigidly
+   sclang
    my-isearch
    my-advice
    my-backup
@@ -42,3 +43,4 @@
    my-project-defenitions))
 
 (toggle-frame-maximized)
+(global-auto-complete-mode t)
