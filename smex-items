@@ -1,20 +1,20 @@
 
 ;; ----- smex-history -----
 (
- customize
+ package-initialize
+ eval-current-buffer
+ eval-buffer
+ package-install-selected-packages
+ package-refresh-contents
  package-list-packages
- javascript-mode
  customize-mode
- next-error
- linum-mode
- rename-current-buffer-and-file
 )
 
 ;; ----- smex-data -----
 (
  (simp-find-test-or-source-other-window . 2)
  (magit-blame-mode . 41)
- (eval-buffer . 7)
+ (eval-buffer . 8)
  (multi-term . 13)
  (buffer-menu . 36)
  (customize . 7)
@@ -23,7 +23,7 @@
  (git-timemachine . 22)
  (rename-current-buffer-and-file . 132)
  (revert-buffer . 21)
- (package-list-packages . 44)
+ (package-list-packages . 48)
  (motion-mode . 1)
  (whitespace-mode . 11)
  (prettify-json . 11)
@@ -46,7 +46,7 @@
  (rspec-mode . 5)
  (telnet . 1)
  (rbenv-use . 5)
- (bookmark-delete . 7)
+ (bookmark-delete . 9)
  (ruby-mode . 14)
  (highline-customize . 1)
  (hippie-expand . 2)
@@ -76,7 +76,7 @@
  (cider-interrupt . 1)
  (javascript-mode . 6)
  (clojure-mode . 27)
- (customize-mode . 23)
+ (customize-mode . 26)
  (tetris . 7)
  (edit-tab-stops . 1)
  (recover-this-file . 2)
@@ -95,7 +95,7 @@
  (smart-rigid-unindent . 3)
  (magit-blame-popup . 1)
  (sclang-mode . 2)
- (eval-current-buffer . 1)
+ (eval-current-buffer . 2)
  (ibuffer-do-sort-by-alphabetic . 1)
  (cider-repl-tab . 1)
  (cider-load-buffer-and-switch-to-repl-buffer . 2)
@@ -110,7 +110,7 @@
  (bookmark-set . 2)
  (web-mode . 9)
  (ebuffers . 1)
- (js2-mode . 19)
+ (js2-mode . 22)
  (auto-complete . 1)
  (auto-complete-mode . 95)
  (midje-mode . 1)
@@ -156,4 +156,10 @@
  (describe-function . 1)
  (gist-buffer . 1)
  (save-buffer . 2)
+ (clone-buffer . 1)
+ (package-install-selected-packages . 4)
+ (js2-jsx-mode . 4)
+ (js2-jump-to-definition . 1)
+ (package-refresh-contents . 1)
+ (package-initialize . 3)
 )

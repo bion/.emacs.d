@@ -17,21 +17,11 @@
  (front-context-string . ".git\n  -rw-r--r-")
  (rear-context-string . "44 Sep 20 16:35 ")
  (position . 230))
-("coasst"
- (filename . "~/dev/coasst/")
- (front-context-string . "app\n  drwxr-xr-x")
- (rear-context-string . "08 Sep 22 09:42 ")
- (position . 1185))
 ("ko"
  (filename . "~/dev/ko/")
  (front-context-string . "project.clj\n  dr")
  (rear-context-string . "76 Sep 20 22:24 ")
  (position . 633))
-("blindtiger"
- (filename . "~/dev/blindtiger/")
- (front-context-string . "Procfile\n  -rw-r")
- (rear-context-string . "40 Sep 18 09:59 ")
- (position . 800))
 (".emacs.d"
  (filename . "~/.emacs.d/")
  (front-context-string . "auto-save-list\n ")

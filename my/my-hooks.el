@@ -109,4 +109,11 @@
    (eslint-set-closest)
    (flycheck-mode 1)))
 
+(add-hook
+ 'js2-jsx-mode-hook
+ (lambda ()
+   (local-unset-key (kbd "M-j"))
+   (eslint-set-closest)
+   (flycheck-mode 1)))
+
 (provide 'my-hooks)
