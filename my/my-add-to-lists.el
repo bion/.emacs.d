@@ -1,4 +1,6 @@
 (add-to-list 'auto-mode-alist '(".rb" . enh-ruby-mode))
+(add-to-list 'auto-mode-alist '(".md" . markdown-mode))
+(add-to-list 'auto-mode-alist '(".markdown" . markdown-mode))
 (add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
 (add-to-list 'auto-mode-alist '("\\.jsx\\'" . js2-jsx-mode))
 (add-to-list 'auto-mode-alist '(".scss" . scss-mode))
@@ -10,5 +12,6 @@
 (add-to-list 'auto-mode-alist '(".stumpwmrc'" . stumpwm-mode))
 (add-to-list 'auto-mode-alist '(".hamlbars'" . haml-mode))
 (add-to-list 'auto-mode-alist '(".hamlc'" . haml-mode))
+(add-to-list 'auto-mode-alist '(".pug" . jade-mode))
 
 (provide 'my-add-to-lists)

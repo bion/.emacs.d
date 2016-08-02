@@ -1,4 +1,9 @@
-(setq rbenv-installation-dir "/usr/local")
+
+;; Added by Package.el.  This must come before configurations of
+;; installed packages.  Don't delete this line.  If you don't want it,
+;; just comment it out by adding a semicolon to the start of the line.
+;; You may delete these explanatory comments.
+(package-initialize)
 
 (let ((default-directory "~/.emacs.d/"))
   (normal-top-level-add-subdirs-to-load-path))
@@ -20,7 +25,7 @@
 (mapc
  'require
  '(smex
-   highline
+   magit
    ido
    ido-ubiquitous
    simp
@@ -40,7 +45,12 @@
    my-hooks
    my-settings
    my-initializers
-   my-project-defenitions))
+   my-project-definitions))
 
 (toggle-frame-maximized)
 (global-auto-complete-mode t)
+
+(defun auto-complete-mode-maybe ()
+  "No maybe for you. Only AC!"
+  (unless (minibufferp (current-buffer))
+    (auto-complete-mode 1)))

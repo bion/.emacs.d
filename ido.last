@@ -2,18 +2,134 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/bion/dev/hero_scope/app/assets/" . "stylesheets/")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/" . "lib/")
+ ("/Users/bion/Documents/war_on_drugs/presentation/" . "slides/")
+ ("/Users/bion/Documents/war_on_drugs/" . "presentation/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/passport-wsfed-saml2/lib/" . "passport-wsfed-saml2/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/passport-wsfed-saml2/" . "lib/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/" . "passport-wsfed-saml2/")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-wsfed-saml2/lib/" . "passport-wsfed-saml2/")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-wsfed-saml2/" . "lib/")
+ ("/deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/" . "routes/")
+ ("/deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/" . "config/")
+ ("/deploy@labkit-s1:/var/www/deloitte-lab-kit/current/" . "server/")
+ ("/deploy@labkit-s1:/var/www/deloitte-lab-kit/" . "current/")
+ ("/deploy@labkit-s1:/var/www/" . "deloitte-lab-kit/")
+ ("/deploy@labkit-s1:/var/" . "www/")
+ ("/deploy@labkit-s1:/" . "var/")
+ ("/deploy@labkit-s1:" . "uploads/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/" . "routes/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/" . "config/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/" . "server/")
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/" . "current/")
+ ("/ssh:deploy@labkit-s1:/var/www/" . "deloitte-lab-kit/")
+ ("/ssh:deploy@labkit-s1:/var/" . "www/")
+ ("/ssh:deploy@labkit-s1:/" . "var/")
+ ("/Users/bion/Pictures/" . "stupid/")
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/" . "reducers/")
+ ("/Users/bion/Downloads/assets/" . "javascripts/")
+ ("/Users/bion/dev/deloitte-lab-kit/spec/" . "factories/")
+ ("/Users/bion/Documents/" . "wed/")
+ ("/Users/bion/dev/hero_scope/lib/" . "tasks/")
+ ("/Users/bion/hiring/react-soccer/" . "bin/")
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/" . "migrations/")
+ ("/Users/bion/dev/deloitte-lab-kit/test/" . "client/")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/" . "officegen/")
+ ("/Users/bion/dev/drum-engine/src/" . "drum_engine/")
+ ("/Users/bion/dev/drum-engine/" . "src/")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/" . "lab_kit_methods/")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/" . "middleware/")
+ ("/Users/bion/dev/deloitte-lab-kit/server/" . "lib/")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/" . "javascripts/")
+ ("/Users/bion/dev/deloitte-lab-kit/" . "assets/")
+ ("/Users/bion/dev/citizen-node-safe/server/db/" . "migrations/")
+ ("/Users/bion/dev/citizen-node-safe/server/" . "db/")
+ ("/" . "Users/")
+ ("/ssh:larkin:/home/bion/" . ".ssh/")
+ ("/ssh:larkin:/home/" . "bion/")
+ ("/Users/bion/dev/superdelegation/app/lib/delegates/" . "wa/")
+ ("/Users/bion/dev/superdelegation/spec/" . "features/")
+ ("/Users/bion/dev/hero_scope/app/" . "assets/")
+ ("/Users/bion/dev/superdelegation/app/assets/" . "stylesheets/")
+ ("/Users/bion/dev/superdelegation/app/views/" . "delegates/")
+ ("/Users/bion/dev/superdelegation/app/lib/" . "delegates/")
+ ("/Users/bion/dev/superdelegation/app/" . "lib/")
+ ("/Users/bion/dev/superdelegation/" . "app/")
+ ("/Users/bion/dev/hero_scope/" . "lib/")
+ ("/Users/bion/dev/heroku-buildpacks-rake-assets-clobber-recompile/" . "bin/")
+ ("/Users/bion/dev/global-iq/app/assets/" . "stylesheets/")
+ ("/Users/bion/dev/global-iq/app/" . "assets/")
+ ("/Users/bion/dev/global-iq/spec/app/lib/" . "export/")
+ ("/Users/bion/dev/global-iq/spec/app/" . "lib/")
+ ("/Users/bion/dev/global-iq/spec/" . "app/")
+ ("/Users/bion/dev/global-iq/" . "spec/")
+ ("/Users/bion/src/activeadmin/" . "lib/")
+ ("/Users/bion/dev/citizen-node-safe/src/db/" . "migrations/")
+ ("/Users/bion/dev/citizen-node-safe/src/" . "db/")
+ ("/Users/bion/dev/citizen-node-safe/" . "bin/")
+ ("/Users/bion/art/withd/checkouts/" . "ko/")
+ ("/Users/bion/Downloads/" . "assets/")
+ ("/Users/bion/.m2/repository/overtone/overtone/0.9.1/overtone-0.9.1.jar:overtone/" . "libs/")
+ ("/Users/bion/.m2/repository/overtone/overtone/0.9.1/" . "overtone-0.9.1.jar:overtone/")
+ ("/Users/bion/dev/ko/test/ko/" . "fixtures/")
+ ("/Users/bion/.m2/repository/" . "overtone/")
+ ("/Users/bion/dev/citizen-node/assets/" . "javascripts/")
+ ("/Users/bion/dev/citizen-node/" . "server/")
+ ("/Users/bion/hiring/" . "react-soccer/")
+ ("/Users/bion/dev/coasst/app/views/surveys/data/debris/" . "large/")
+ ("/Users/bion/art/withd/src/" . "withd/")
+ ("/Users/bion/art/withd/" . "target/")
+ ("/Users/bion/art/" . "withd/")
+ ("/Users/bion/dev/coasst/spec/controllers/" . "surveys/")
+ ("/Users/bion/dev/coasst/app/controllers/surveys/data/" . "debris/")
+ ("/Users/bion/dev/coasst/app/controllers/surveys/" . "data/")
+ ("/Users/bion/dev/ko/checkouts/overtone/checkouts/" . "osc-clj/")
+ ("/Users/bion/dev/ko/checkouts/overtone/" . "src/")
+ ("/Users/bion/dev/ko/checkouts/overtone/src/" . "overtone/")
+ ("/Users/bion/dev/ko/checkouts/" . "overtone/")
+ ("/Users/bion/dev/synth-frontend/src/" . "js/")
+ ("/Users/bion/dev/synth-frontend/" . "src/")
+ ("/Users/bion/dev/midi-synth-mapper/" . "src/")
+ ("/Users/bion/dev/brunchlotto/" . "src/")
+ ("/Users/bion/dev/MemePrism/src/" . "adaptor/")
+ ("/Users/bion/dev/MemePrism/" . "test/")
+ ("/Users/bion/src/overtone/src/overtone/" . "sc/")
+ ("/Users/bion/dev/advent-of-code/" . "8/")
+ ("/Users/bion/dev/tsssite/db/" . "migrate/")
+ ("/Users/bion/dev/tsssite/spec/" . "support/")
+ ("/Users/bion/dev/tssproduction/app/views/" . "layouts/")
+ ("/Users/bion/dev/tssproduction/app/" . "views/")
+ ("/Users/bion/dev/tssproduction/" . "app/")
+ ("/Users/bion/dev/tsssite/app/assets/javascripts/" . "lib/")
+ ("/Users/bion/dev/tsssite/app/assets/" . "fonts/")
+ ("/Users/bion/dev/citizen-rails/" . "app/")
+ ("/Users/bion/dev/tsssite/" . "app/")
+ ("/Users/bion/dev/tsssite/app/views/" . "conversations/")
+ ("/Users/bion/dev/tsssite/app/" . "models/")
+ ("/Users/bion/dev/citizensite2/app/assets/images/" . "icons/")
+ ("/Users/bion/dev/citizensite2/app/views/" . "shared/")
+ ("/Users/bion/dev/citizencode/app/assets/" . "images/")
+ ("/Users/bion/dev/citizencode/app/" . "assets/")
+ ("/Users/bion/dev/citizensite2/" . "app/")
+ ("/Users/bion/dev/citizensite2/app/assets/" . "javascripts/")
+ ("/Users/bion/dev/citizensite2/app/" . "views/")
+ ("/Users/bion/dev/citizen-rails/app/assets/" . "stylesheets/")
+ ("/Users/bion/dev/citizen-rails/app/" . "assets/")
+ ("/Users/bion/dev/coasst/app/views/surveys/data/" . "image_association/")
+ ("/Users/bion/dev/coasst/config/" . "locales/")
  ("/Users/bion/dev/coasst/app/views/admin/" . "volunteers/")
  ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/" . "components/")
  ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/" . "foundation/")
  ("/Users/bion/src/overtone/src/overtone/sc/" . "machinery/")
  ("/Users/bion/dev/cautionary-vigilance/static/foundation/" . "scss/")
  ("/Users/bion/dev/cautionary-vigilance/cvapp/management/" . "commands/")
- ("/Users/bion/dev/cautionary-vigilance/static/" . "fonts/")
+ ("/Users/bion/dev/cautionary-vigilance/static/" . "images/")
  ("/Users/bion/dev/soundfyle/" . "public/")
  ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/" . "discussions/")
  ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/" . "cvapp/")
  ("/Users/bion/dev/cautionary-vigilance/cvapp/" . "templates/")
- ("/Users/bion/dev/cautionary-vigilance/" . "templates/")
+ ("/Users/bion/dev/cautionary-vigilance/" . "static/")
  ("/Users/bion/dev/cautionary_vigilance/" . "cv_app/")
  ("/Users/bion/dev/ko/src/ko/" . "gestures/")
  ("/Users/bion/src/overtone/src/" . "overtone/")
@@ -23,18 +139,18 @@
  ("/Users/bion/dev/coasst/app/assets/javascripts/" . "initializers/")
  ("/Users/bion/dev/coasst/app/views/surveys/" . "data/")
  ("/Users/bion/dev/ko/src/" . "ko/")
- ("/Users/bion/dev/coasst/app/views/" . "admin/")
- ("/Users/bion/dev/coasst/spec/" . "controllers/")
+ ("/Users/bion/dev/coasst/app/views/" . "surveys/")
+ ("/Users/bion/dev/coasst/spec/" . "models/")
  ("/Users/bion/dev/blindtiger/app/" . "models/")
  ("/Users/bion/dev/blindtiger/" . "app/")
- ("/Users/bion/dev/coasst/app/controllers/" . "admin/")
+ ("/Users/bion/dev/coasst/app/controllers/" . "surveys/")
  ("/Users/bion/dev/ko/test/" . "ko/")
  ("/Users/bion/dev/ko/" . "src/")
  ("/Users/bion/dev/coasst/lib/" . "tasks/")
- ("/Users/bion/dev/coasst/app/assets/" . "javascripts/")
+ ("/Users/bion/dev/coasst/app/assets/" . "stylesheets/")
  ("/Users/bion/dev/coasst/app/" . "views/")
  ("/Users/bion/dev/coasst/db/" . "migrate/")
- ("/Users/bion/dev/coasst/" . "lib/")
+ ("/Users/bion/dev/coasst/" . "spec/")
  ("/Users/bion/dev/beagift/app/views/api/" . "chat_messages/")
  ("/Users/bion/dev/beagift/app/views/" . "api/")
  ("/Users/bion/dev/levelup/spec/javascripts/" . "helpers/")
@@ -66,280 +182,280 @@
  ("/Users/bion/dev/beagift/app/controllers/" . "api/")
  ("/Users/bion/dev/beagift/app/" . "models/")
  ("/Users/bion/dev/beagift/" . "app/")
- ("/Users/bion/dev/" . "cautionary-vigilance/")
- ("/Users/bion/" . "dev/")
- ("/Users/bion/.emacs.d/" . "packages/")
+ ("/Users/bion/dev/" . "hero_scope/")
+ ("/Users/bion/" . "re5et-emacsd/")
+ ("/Users/bion/.emacs.d/" . "my/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/bion/dev/coasst/app/lib/admin/"
- "/Users/bion/dev/coasst/app/admin/"
- "/Users/bion/dev/coasst/app/views/admin/volunteers/"
- "/Users/bion/dev/cautionary-vigilance/"
- "/Users/bion/dev/cautionary-vigilance/templates/"
- "/Users/bion/dev/cautionary-vigilance/static/"
- "/Users/bion/"
- "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/"
- "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/"
- "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/"
- "/Users/bion/dev/"
- "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/"
- "/Users/bion/dev/cautionary-vigilance/cvapp/management/commands/"
- "/Users/bion/dev/cautionary-vigilance/static/CACHE/"
- "/Users/bion/dev/foundation/"
- "/Users/bion/dev/cautionary-vigilance/cvapp/"
- "/Users/bion/dev/soundfyle/public/stylesheets/"
- "/Users/bion/dev/soundfyle/app/"
- "/Users/bion/dev/soundfyle/"
- "/Users/bion/dev/soundfyle/public/javascripts/"
- "/Users/bion/dev/soundfyle/views/"
- "/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/"
- "/Users/bion/dev/cautionary-vigilance/cvapp/migrations/"
- "/Users/bion/dev/cautionary-vigilance/templates/account/"
- "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/"
- "/Users/bion/dev/cautionary_vigilance/"
- "/Users/bion/dev/cautionary_vigilance/cv_app/"
- "/Users/bion/dev/ko/src/ko/gestures/"
- "/Users/bion/dev/ko/src/ko/"
- "/Users/bion/dev/ko/src/ko/synth_defs/"
- "/Users/bion/.lein/"
- "/Users/bion/dev/coasst/app/services/"
- "/Users/bion/dev/coasst/app/queries/"
- "/Users/bion/dev/coasst/app/views/verifications/surveys/"
- "/Users/bion/dev/coasst/app/views/"
- "/Users/bion/dev/coasst/app/views/surveys/"
- "/Users/bion/dev/coasst/app/controllers/"
- "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/"
- "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/"
- "/Users/bion/dev/coasst/app/assets/stylesheets/"
- "/Users/bion/dev/ko/test/ko/"
- "/Users/bion/dev/ko/"
- "/Users/bion/dev/coasst/app/controllers/verifications/"
- "/Users/bion/dev/coasst/app/views/verifications/beaches/"
- "/Users/bion/dev/coasst/app/controllers/surveys/"
- "/Users/bion/dev/coasst/app/policies/"
- "/Users/bion/dev/coasst/config/"
+ "/Users/bion/.emacs.d/my/"
  "/Users/bion/.emacs.d/"
- "/Users/bion/dev/coasst/spec/controllers/"
- "/Users/bion/Documents/"
+ "/Users/bion/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/"
+ "/Users/bion/dev/deloitte-lab-kit/vendor/"
+ "/Users/bion/dev/deloitte-lab-kit/build/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/middleware/"
+ "/Users/bion/dev/deloitte-lab-kit/"
+ "/Users/bion/Downloads/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/"
+ "/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/lib/"
+ "/Users/bion/dev/deloitte-lab-kit/server/lib/"
+ "/Users/bion/dev/deloitte-lab-kit/spec/integration/"
+ "/Users/bion/dev/deloitte-lab-kit/spec/factories/"
+ "/Users/bion/Documents/wed/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/"
+ "/Users/bion/Documents/investments/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/"
+ "/Users/bion/dev/get_woke/"
+ "/Users/bion/dev/drum-engine/src/drum_engine/"
+ "/Users/bion/dev/deloitte-lab-kit/config/"
+ "/Users/bion/Documents/war_on_drugs/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/molecules/"
+ "/Users/bion/dev/deloitte-lab-kit/test/client/lib/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/"
+ "/Users/bion/Documents/war_on_drugs/presentation/slides/"
+ "/Users/bion/dev/dos/"
+ "/Users/bion/.ssh/"
+ "/Users/bion/Documents/war_on_drugs/presentation/"
+ "/Users/bion/Documents/war_on_drugs/css/"
+ "/Users/bion/Documents/war_on_drugs/js/"
+ "/Users/bion/dev/deloitte-lab-kit/server/controllers/"
+ "/Users/bion/dev/deloitte-lab-kit/test/lib/"
+ "/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/"
+ "/deploy@labkit-s1:"
+ "/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/passport-wsfed-saml2/lib/passport-wsfed-saml2/"
+ "/Users/bion/dev/deloitte-lab-kit/node_modules/passport-wsfed-saml2/lib/passport-wsfed-saml2/"
+ "/deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/routes/"
+ "/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/"
+ "/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/routes/"
+ "/Users/bion/dev/deloitte-lab-kit/test/controllers/"
+ "/Users/bion/bin/"
+ "/Users/bion/dev/deloitte-lab-kit/test/models/"
+ "/Users/bion/dev/deloitte-lab-kit/server/validators/"
+ "/Users/bion/dev/deloitte-lab-kit/server/models/"
+ "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/"
+ "/Users/bion/Pictures/stupid/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "volunteer_params.rb"
- "create_volunteer.rb"
- "new_account_volunteer.rb"
- "new.html.rb"
- "issues.org"
- "_account_bar.html"
- "app.js"
- "javascript.js"
- "foundation.scss"
- "_settings.scss"
+ "my-autoloads.el"
+ "init.el"
+ "http"
+ "api_request.js"
+ "sitecatalyst.js"
+ "rev-manifest.json"
+ "sitecatalyst_tracking.js"
+ "report_navigation.js"
+ "transform_action_to_map.js"
+ "test.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/bion/dev/coasst/" (22048 10750 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "Rakefile" "public/" "Procfile" "log/" "LICENSE" "lib/" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "db/" "config.ru" "config/" "coast_db.sql" "bin/" "app/" ".ruby-version" ".rspec" ".pairs" ".gitignore" ".git/" ".envrc.example" ".envrc" ".ackrc" "../" "./")
+ ("/Users/bion/re5et-emacsd/" (22432 16677 0 0) "packages/" "my/" "init.el" "http.el" "ediff-git-timemachine.el" ".gitignore" ".git/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/lib/admin/" (22048 6911 0 0) "../" "./")
+ ("/Users/bion/" (22432 17141 0 0) "todo.org" "tmp/" "tattoo" "src/" "remember" "re5et-emacsd/" "python_envs/" "Public/" "prices" "Pictures/" "NOTES.org" "Music/" "Movies/" "Library/" "keysnail.xpi" "just_prices" "http" "hiring/" "Dropbox (Old)/" "Dropbox (Old (1))/" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "dev/" "Desktop/" "creds" "coasst_dump_03_18_16.sql" "Calibre Library/" "bin/" "art/" "Applications/" "algo.html" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-ccode-5.0.8" ".zcompdump-ccode-5.0.5" ".zcompdump-bion’s MacBook Pro-5.0.5" ".viminfo" ".vim/" ".v8flags.5.0.71.35.bion.json" ".v8flags.4.6.85.31.bion.json" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".slack/" ".rvm/" ".ruby-version" ".rbenv/" ".psql_history" ".pry_history" ".profile" ".phantomjs/" ".pairs" ".overtone/" ".oracle_jre_usage/" ".oh-my-zsh/" ".nvm/" ".npm/" ".node_repl_history" ".node-gyp/" ".ngrok2/" ".netrc" ".mkshrc" ".midi-sample-manager-storage.db" ".m2/" ".local/" ".lldb/" ".lesshst" ".lein/" ".keysnail.js" ".irb-history" ".heroku/" ".gnupg/" ".gitignore" ".gitconfig" ".gem/" ".erc/" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".creds" ".config/" ".coffee_history" ".cocoapods/" ".CFUserTextEncoding" ".cache/" ".byebug_hist" ".bundle/" ".bashrc" ".bash_profile" ".bash_history" ".babel.json" ".android/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/lib/" (22007 19577 0 0) "metrics.rb" "account_lifecycle.rb" "../" "./")
+ ("/Users/bion/.emacs.d/" (22432 17040 0 0) "var/" "url/" "tramp" "supercollider/" "smex-items" "recentf" "places" "packages/" "network-security.data" "my/" "init.el" "ido.last" "games/" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" ".backups/" "#!Users!bion!Downloads!lemon!Lemonade - Video!Lemonade-Video.mp4#" "#!Users!bion!Downloads!assets!javascripts!actions.jsx#" "#!Users!bion!Documents!war_on_drugs!presentation!slides!rights-lost-as-felon.md#" "#!Users!bion!Documents!war_on_drugs!presentation!slides!historical-parallels-symbolic-race.md#" "#!Users!bion!dev!tsssite!spec!controllers!jobs_controller_spec.rb#" "#!Users!bion!dev!superdelegation!app!views!layouts!application.html.rb#" "#!Users!bion!dev!superdelegation!.git!rebase-merge!git-rebase-todo#" "#!Users!bion!dev!deloitte!technical_requirements.org#" "#!Users!bion!dev!coasst!.git!MERGE_MSG#" "#!Users!bion!.emacs.d!tramp#" "../" "./")
 
- ("/Users/bion/dev/coasst/ap/" (22048 6703 0 0) "volunteer_params.rb" "../" "./")
+ ("/Users/bion/.emacs.d/my/" (22432 15503 0 0) "my-settings.el" "my-project-definitions.el" "my-package.el" "my-keybindings.el" "my-isearch.el" "my-initializers.el" "my-hooks.el" "my-functions.el" "my-customizations.el" "my-bookmarks.el" "my-backup.el" "my-autoloads.el" "my-advice.el" "my-add-to-lists.el" "../" "./")
 
- ("/Users/bion/dev/coasst/lib/admin/" (22048 6703 0 0) "volunteer_params.rb" "../" "./")
+ ("/Users/bion/.emacs.d/packages/" (22432 16028 0 0) "zop-to-char-readme.txt" "yari-20151127.2339/" "yaml-mode-20160426.138/" "with-editor-20160408.201/" "window-face-focus.el" "wgrep-20141016.1656/" "web-mode-20160717.1201/" "vlf-20150101.718/" "visible-mark-20150623.2150/" "thesaurus-20121125.1937/" "systemd-readme.txt" "systemd-20160514.715/" "stumpwm-mode-20140130.1816/" "spinner-1.7.1.signed" "spinner-1.7.1/" "smex-20151212.1409/" "smartparens-20160411.719/" "smart-indent-rigidly-20141205.1615/" "slime-20160419.858/" "slime-20150329.831/" "slim-mode-20140611.950/" "simp-20160315.924/" "seq-20151121.1017/" "scss-mode-20150107.1400/" "scratch-20120830.1028/" "sclang-extensions-readme.txt" "sass-mode-20150508.2012/" "s-20160429.727/" "rvm-readme.txt" "rvm-20150402.742/" "ruby-tools-readme.txt" "rspec-mode-20160425.1457/" "react-snippets-readme.txt" "queue-0.1.1/" "powerline-20160224.2052/" "popup-20160409.2133/" "pkg-info-20150517.443/" "pcache-20151109.639/" "paredit-20160324.1215/" "nvm-20151113.55/" "multiple-cursors-20160427.1933/" "multi-term-20150220.1320/" "move-dup-20140925.808/" "motion-mode-20140919.1856/" "mode-compile-2.29/" "mmm-mode-20150828.1716/" "markdown-mode-20160428.827/" "magit-readme.txt" "magit-popup-20160801.1519/" "magit-20160724.858/" "macrostep-20151213.145/" "logito-20120225.2155/" "link-20140717.2029/" "kill-ring-search-20140422.855/" "jsx-mode-20130908.1024/" "json-snatcher-20150511.2047/" "json-reformat-20160212.53/" "json-mode-20160710.1637/" "js3-mode-readme.txt" "js2-mode-20160707.723/" "js2-highlight-vars-20150914.108/" "js-comint-20160220.350/" "jinja2-mode-20141128.207/" "javascript-2.2.1/" "jade-mode-20150801.944/" "itail-20151113.835/" "isearch-symbol-at-point-20130728.1521/" "inflections-20121016.957/" "import-js-readme.txt" "import-js-20160103.1431/" "ido-ubiquitous-20160319.2338/" "ido-completing-read+-20160319.2338/" "highline-7.2.2/" "haml-mode-20150508.2011/" "google-this-20150522.240/" "gnupg/" "git-timemachine-20151004.2229/" "git-commit-20160519.950/" "gist-20150906.954/" "gh-20150906.848/" "fm-20130612.1/" "flymake-ruby-20121104.1859/" "flymake-easy-20140818.55/" "flymake-cursor-20130822.1032/" "flymake-coffee-20140809.324/" "f-20151113.123/" "expand-region-20150902.558/" "evil-rails-readme.txt" "epl-20150517.433/" "enh-ruby-mode-readme.txt" "enh-ruby-mode-20151123.141/" "emms-readme.txt" "dockerfile-mode-20160128.951/" "django-mode-20150207.517/" "dired-efap-20140122.856/" "dictionary-20140717.2029/" "dash-functional-20150828.413/" "dash-20160619.611/" "css-mode-1.0/" "connection-20140717.2029/" "color-theme-20080305.834/" "coffee-mode-20151019.2009/" "cm-mode-20141112.1715/" "clojure-mode-extra-font-locking-readme.txt" "clojure-mode-20160725.652/" "cider-readme.txt" "cider-20160418.2329/" "builtin-packages" "auto-indent-mode-20140505.655/" "auto-complete-20151112.2030/" "async-20160711.2235/" "archives/" "archive-contents" "ac-dabbrev-20130906.518/" "ac-cider-20151012.308/" "4clojure-readme.txt" "../" "./")
 
- ("/Users/bion/dev/coasst/lib/" (22048 6683 0 0) "volunteer_params.rb" "tasks/" "assets/" "application_responder.rb" "../" "./")
+ ("/Users/bion/.emacs.d/url/" (22432 12435 0 0) "cookies" "../" "./")
 
- ("/Users/bion/dev/coasst/app/admin/" (22048 6683 0 0) "volunteer.rb" "subgroup.rb" "sorcery_role.rb" "region.rb" "protocol.rb" "plumage.rb" "metrics.rb" "guide.rb" "group.rb" "foot_type_family.rb" "exports.rb" "event.rb" "dashboard.rb" "county.rb" "beach.rb" "account.rb" "../" "./")
+ ("/Users/bion/art/withd/" (22432 4734 0 0) "test/" "target/" "src/" "project.clj" "not_a_pad.wav" "checkouts/" ".nrepl-port" ".gitignore" ".git/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/controllers/surveys/" (22048 5097 0 0) "uploads_controller.rb" "turnaround_controller.rb" "start_controller.rb" "return_controller.rb" "photos_controller.rb" "mapping_controller.rb" "data_controller.rb" "data/" "base_controller.rb" "../" "./")
+ ("/Users/bion/art/withd/src/withd/" (22432 10768 0 0) "util.clj" "synths.clj" "core.clj" "cgens.clj" "../" "./")
 
- ("/Users/bion/dev/coasst/app/policies/" (22048 964 0 0) "survey_policy.rb" "application_policy.rb" "account_policy.rb" "../" "./")
+ ("/Users/bion/dev/ko/src/ko/" (22432 8743 0 0) "todo.org" "synth_args.clj" "score.clj" "schemas.clj" "scheduling.clj" "gesture.clj" "curve.clj" "core.clj" "../" "./")
 
- ("/Users/bion/dev/coasst/spec/" (22031 2823 0 0) "support/" "spec_helper.rb" "services/" "rails_helper.rb" "queries/" "models/" "mailers/" "integration/" "controllers/" "app/" "../" "./")
+ ("/Users/bion/art/withd/src/" (22210 42423 0 0) "withd/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/surveys/" (22047 55766 0 0) "turnaround/" "start/" "return/" "photos/" "participants.html.rb" "mapping/" "index.html.rb" "data/" "base.html.rb" "../" "./")
+ ("/Users/bion/src/overtone/" (22360 51351 0 0) "TODO.md" "test/" "target/" "src/" "script/" "resources/" "README.md" "project.clj" "native/" "LICENSE" "hs_err_pid4414.log" "docs/" "checkouts/" "CHANGELOG.md" ".nrepl-port" ".lein-repl-history" ".gitignore" ".git/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/controllers/admin/" (22046 52909 0 0) "metrics_controller.rb" "exports_controller.rb" "admin_controller.rb" "admin_base_controller.rb" "accounts_controller.rb" "../" "./")
+ ("/Users/bion/dev/ko/" (22432 4240 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "pom.xml" "LICENSE" "doc/" "checkouts-disable/" ".nrepl-port" ".lein-repl-history" ".lein-failures" ".gitignore" ".git/" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/" (22046 56496 0 0) "show.html" "index.html" "_issue_form.html" "_issue_curator_actions.html" "_evidence_listing.html" "_evidence_form.html" "../" "./")
+ ("/Users/bion/art/" (22404 2760 0 0) "withd/" "jeff.org" "eband/" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/" (22046 54406 0 0) "views.pyc" "views.py" "urls.pyc" "urls.py" "tests.py" "templates/" "models.pyc" "models.py" "migrations/" "management/" "forms.pyc" "forms.py" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" "../" "./")
+ ("/Users/bion/dev/hero_scope/" (22431 51042 0 0) "vendor/" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".zeus.sock" ".ruby-version" ".ruby-gemset" ".rspec" ".powrc" ".gitignore" ".git/" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/" (22046 55188 0 0) "index.html" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/views/concern_reviews/" (22431 49345 0 0) "new.html.haml" "_form.html.haml" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/" (22046 54277 0 0) "components/" "_settings.scss" "_functions.scss" "_fonts.scss" "../" "./")
+ ("/Users/bion/dev/hero_scope/db/migrate/" (22431 49345 0 0) "20141015041357_add_verbal_column_to_comments.rb" "20141015041220_allow_nulls_in_comment_columns.rb" "20140915005721_add_remaining_quality_reviews_to_comment.rb" "20140915001055_add_concern_reviews_remaining_to_comment.rb" "20140914223613_create_quality_reviews.rb" "20140914210610_drop_counter_cache_from_comments.rb" "20140914205941_rename_review_tags_to_concern_review_tags.rb" "20140914205624_rename_reviews_to_concern_reviews.rb" "20140909044337_add_user_throttling_fields.rb" "20140901160849_add_reviews_count_to_comment.rb" "20140822020737_add_columns_to_comments.rb" "20140810050218_remove_other_tag_name_index.rb" "20140810045611_add_unique_index_on_tags.rb" "20140810010629_add_group_and_sub_group_to_tags.rb" "20140810003341_add_expertise_level_to_reviews.rb" "20140810001701_create_review_tags.rb" "20140810001003_create_reviews.rb" "20140802062412_remove_is_image_from_comments.rb" "20140719013036_add_lockable_fields_to_users.rb" "20140719012121_devise_invitable_add_to_users.rb" "20140719010605_add_admin_flag_to_users.rb" "20140715024914_devise_create_users.rb" "20140715020003_create_tags.rb" "20140715013742_create_comments.rb" "../" "./")
 
- ("/Users/bion/dev/coasst/app/controllers/" (22029 30505 0 0) "volunteers_controller.rb" "verifications/" "surveys_controller.rb" "surveys/" "sessions_controller.rb" "password_resets_controller.rb" "logged_out_controller.rb" "logged_in_controller.rb" "concerns/" "application_controller.rb" "admin/" "accounts_controller.rb" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/stencils/" (22431 51805 0 0) "comments_statistics_stencil.rb" "comments_statistics_stencil.html.haml" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/active_admin/new_volunteer/" (22046 50569 0 0) "_new.html.rb" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/views/admin/comments/" (22431 51174 0 0) "show.html.haml" "index.html.haml" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/active_admin/" (22046 50511 0 0) "volunteers/" "new.html.rb" "metrics/" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/assets/stylesheets/" (22431 50782 0 0) "application.css.sass" "_table.css.sass" "_reviews.css.sass" "_page.css.sass" "_navbar.css.sass" "_mobile.css.sass" "_inputs.css.sass" "_home.css.sass" "_font.css.sass" "_columns.css.sass" "_colors.css.sass" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/admin/volunteers/" (22046 50488 0 0) "new.html.rb" "form.rb" "edit.html.rb" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/assets/" (22431 49345 0 0) "stylesheets/" "javascripts/" "images/" "fonts/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/active_admin/volunteers/" (22046 36906 0 0) "_stats.html.erb" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/" (22431 49345 0 0) "views/" "stencils/" "scopes/" "queries/" "policies/" "models/" "mailers/" "interactions/" "inputs/" "helpers/" "decorators/" "controllers/" "assets/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/admin/accounts/" (22046 38276 0 0) "show.html.rb" "new.html.rb" "index.html.rb" "form.rb" "edit.html.rb" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/views/" (22431 49345 0 0) "users/" "quality_reviews/" "layouts/" "home/" "devise/" "concern_reviews/" "admin/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/" (22046 36906 0 0) "views/" "uploaders/" "services/" "queries/" "policies/" "models/" "mailers/" "lib/" "helpers/" "decorators/" "controllers/" "assets/" "admin/" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/views/home/" (22431 50370 0 0) "index.html.haml" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/" (22046 36906 0 0) "volunteers/" "verifications/" "surveys/" "shared/" "sessions/" "password_resets/" "logged_out/" "logged_in/" "layouts/" "email_base.rb" "base.rb" "admin/" "active_admin/" "accounts_mailer/" "accounts/" "../" "./")
+ ("/Users/bion/dev/hero_scope/app/views/quality_reviews/" (22431 49954 0 0) "new.html.haml" "_form.html.haml" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/admin/admin/" (22046 36906 0 0) "index.html.rb" "../" "./")
+ ("/Users/bion/dev/hero_scope/spec/acceptance/" (22431 49993 0 0) "users_comment_spec.rb" "user_account_spec.rb" "quality_review_creation_spec.rb" "navigation_spec.rb" "home_page_spec.rb" "admin/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/admin/" (22046 36906 0 0) "volunteers/" "exports/" "beaches/" "admin/" "accounts/" "../" "./")
+ ("/Users/bion/dev/hero_scope/spec/models/" (22431 49345 0 0) "user_spec.rb" "tag_spec.rb" "quality_review_spec.rb" "concern_review_tag_spec.rb" "concern_review_spec.rb" "comment_spec.rb" "../" "./")
 
- ("/Users/bion/" (22046 37087 0 0) "understand_method.rb" "src/" "python_envs/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "keysnail.xpi" "javascript.js" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "dev/" "Desktop/" "bin/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-ccode-5.0.5" ".zcompdump-bion’s MacBook Pro-5.0.5" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rvm/" ".ruby-version" ".rbenv/" ".psql_history" ".pry_history" ".profile" ".phantomjs/" ".pairs" ".overtone/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".ngrok2/" ".netrc" ".mkshrc" ".m2/" ".lldb/" ".lesshst" ".lein/" ".keysnail.js" ".heroku/" ".gnupg/" ".gitignore" ".gitconfig" ".gem/" ".erc/" ".emacs.d/" ".DS_Store" ".dropbox/" ".creds" ".config/" ".coffee_history" ".cocoapods/" ".CFUserTextEncoding" ".bashrc" ".bash_profile" ".bash_history" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/" (22431 1483 0 0) "webpack.config.js" "views/" "vendor.webpack.config.js" "uploads/" "tmp/" "test-uploads/" "test/" "spec/" "server/" "README.md" "public/" "package.json" "node_modules/" "logs/" "log/" "install_deps" "gulpfile.js" "Gemfile.lock" "Gemfile" "config/" "circle.yml" "Capfile" "build/" "bin/" "assets/" ".ruby-version" ".ruby-gemset" ".rspec" ".pairs" ".nvmrc" ".gitignore" ".git/" ".eslintrc.js" ".eslintignore" ".envrc" ".DS_Store" ".console_history" ".babelrc" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/" (22045 33668 0 0) "templates/" "staticfiles.json" "static/" "requirements.txt" "README.md" "Procfile" "manage.py" "issues.org" "cvapp/" "cautionary_vigilance/" ".sass-cache/" ".gitignore" ".git/" "../" "./")
+ ("/Users/bion/dev/" (22431 49314 0 0) "validations/" "Theo_Simple_Data/" "synth-frontend-om/" "synth-frontend/" "superdelegation/" "soundfyle/" "racial-justice-site/" "prez/" "midi-synth-mapper/" "ko/" "hero_scope/" "global-iq/" "frankendank/" "drum-engine/" "deloitte-lab-kit/" "coasst-old/" "coasst/" "citizensite2/" "citizen-rails/" "citizen-node-safe/" "citizen-node/" "century_link" "brunchlotto/" "beagift/" "bd/" "backblaze-backup-restore/" "advent-of-code/" ".DS_Store" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/" (22045 12413 0 0) "js/" "images/" "foundation/" "fonts/" "CACHE/" "app.js" "app.css.map" "app.css" "admin/" "../" "./")
+ ("/Users/bion/dev/ko/src/" (22210 42322 0 0) "ko/" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/" (22044 17558 0 0) "_visibility.scss" "_type.scss" "_top-bar.scss" "_tooltips.scss" "_toolbar.scss" "_thumbs.scss" "_tabs.scss" "_tables.scss" "_switches.scss" "_sub-nav.scss" "_split-buttons.scss" "_side-nav.scss" "_reveal.scss" "_range-slider.scss" "_progress-bars.scss" "_pricing-tables.scss" "_panels.scss" "_pagination.scss" "_orbit.scss" "_offcanvas.scss" "_magellan.scss" "_labels.scss" "_keystrokes.scss" "_joyride.scss" "_inline-lists.scss" "_icon-bar.scss" "_grid.scss" "_global.scss" "_forms.scss" "_flex-video.scss" "_dropdown.scss" "_dropdown-buttons.scss" "_clearing.scss" "_buttons.scss" "_button-groups.scss" "_breadcrumbs.scss" "_block-grid.scss" "_alert-boxes.scss" "_accordion.scss" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/" (22427 62670 0 0) "server_unreachable_modal.jsx" "lab_kit_form_modal.jsx" "index.js" "filter_categories_modal.jsx" "categories_modal.jsx" "add_method_to_kit_form_modal.jsx" "add_activity_to_kit_form_modal.jsx" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/templates/" (22044 19639 0 0) "signup.html" "base.html" "account/" "_top_bar.html" "_log_in_required_modal.html" "_account_bar.html" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/" (22427 62733 0 0) "store.jsx" "session.js" "server_routes.js" "selectors.js" "report_navigation.js" "report_errors.js" "reducers/" "middleware/" "lib/" "constants.js" "components/" "application.jsx" "api_request.js" "actions/" ".eslintrc.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/" (22044 6278 0 0) "normalize.scss" "foundation.scss" "foundation/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/" (22427 60487 0 0) "user_sessions.js" "modal.js" "materials.js" "lab_kits.js" "lab_kit_methods_index.js" "lab_kit_methods.js" "lab_kit_items.js" "file_inputs.js" "fetch_categories.js" "favorites.js" "dashboard.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/fonts/" (22044 6264 0 0) "Montserrat-UltraLight.otf" "Montserrat-SemiBold.otf" "Montserrat-Regular.otf" "Montserrat-Light.otf" "Montserrat-Hairline.otf" "Montserrat-ExtraBold.otf" "Montserrat-Bold.otf" "Montserrat-Black.otf" ".DS_Store" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/" (22427 41395 0 0) "uploader.js" "server.js" "routes/" "application.js" "../" "./")
 
- ("/Users/bion/dev/ko/src/ko/" (22042 63109 0 0) "synth_defs/" "scheduling.clj" "gestures/" "gesture.clj" "core.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/routes/" (22427 41835 0 0) "server.js" "passport.js" "manifest.js" "generator.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/" (22040 14919 0 0) "__init__.pyc" "__init__.py" "0010_issue_approved.pyc" "0010_issue_approved.py" "0009_evidence_reference_date.pyc" "0009_evidence_reference_date.py" "0008_auto_20151009_1656.pyc" "0008_auto_20151009_1656.py" "0007_issue_photo_url.pyc" "0007_issue_photo_url.py" "0006_comment.pyc" "0006_comment.py" "0005_auto_20151008_2252.pyc" "0005_auto_20151008_2252.py" "0004_debate.pyc" "0004_debate.py" "0003_evidence_approved.pyc" "0003_evidence_approved.py" "0002_evidence.pyc" "0002_evidence.py" "0001_initial.pyc" "0001_initial.py" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/public/" (22427 38682 0 0) "sitecatalyst.js" "favicon.ico" "../" "./")
 
- ("/Users/bion/dev/" (22040 10107 0 0) "thoughts.org" "soundfyle/" "scratch.rb" "rhythm_coach.org" "portfolio/" "pianochords/" "old/" "notes" "levelup/" "ko/" "ios_audio_notes/" "foundation/" "foo" "coasst/" "citizen-rails/" "cautionary-vigilance/" "blindtiger/" "beagift/" ".DS_Store" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/vendor/" (22427 36632 0 0) "sitecatalyst.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/templates/account/" (22040 4906 0 0) "signup.html" "login.html" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/build/" (22427 36471 0 0) "vendor-33488fe7b8.bundle.js" "rev-manifest.json" "index.html" "images/" "fonts/" "favicon.ico" "application-ed5a5d31b9.js.map" "application-e44d73a281.css.map" "application-cc3f0d0e0c.js" "application-abce104a6a.js" "application-a1e791a327.css" "application-895e8c7a73.js.map" "application-723193119d.js" "application-58a0fd5ec6.js.map" "application-34794691bc.js" "application-1bdee6f6bc.js.map" "../" "./")
 
- ("/Users/bion/src/overtone/src/overtone/helpers/" (22039 22930 0 0) "zip.clj" "system.clj" "synth.clj" "string.clj" "stereo.clj" "seq.clj" "sc_lang.clj" "ref.clj" "old_contrib.clj" "ns.clj" "math.clj" "map.clj" "lib.clj" "hash.clj" "file.clj" "doc.clj" "audio_file.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/" (22427 35398 0 0) "session_reducer.js" "modal_reducer.js" "material_reducer.js" "lab_kit_reducer.js" "lab_kit_method_reducer.js" "lab_kit_method_index_reducer.js" "index.js" "file_input_reducer.js" "dashboard_reducer.js" "category_reducer.js" "../" "./")
 
- ("/Users/bion/src/overtone/src/overtone/libs/" (22015 11442 0 0) "event.clj" "deps.clj" "counters.clj" "boot_msg.clj" "binary_file_io.clj" "asset.clj" "asset/" "app_icon.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/middleware/" (22427 35389 0 0) "sitecatalyst_tracking.js" "../" "./")
 
- ("/Users/bion/src/overtone/src/overtone/sc/" (22039 22236 0 0) "vbap.clj" "util.clj" "ugens.clj" "trig.clj" "synth.clj" "server.clj" "sample.clj" "protocols.clj" "node.clj" "machinery/" "info.clj" "foundation_groups.clj" "examples/" "example.clj" "envelope.clj" "dyn_vars.clj" "defcgen.clj" "defaults.clj" "clock.clj" "cgens/" "bus.clj" "buffer.clj" "bindings.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/" (22427 34128 0 0) "show.jsx" "lab_kit_method_card.jsx" "lab_kit_method.jsx" "index.jsx" "admin_index.jsx" "../" "./")
 
- ("/Users/bion/src/overtone/src/overtone/sc/machinery/" (22015 11442 0 0) "ugen/" "synthdef.clj" "server/" "defexample.clj" "allocator.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/" (22426 28408 0 0) "starter_kits/" "side_navigation.jsx" "modals/" "modal_root.jsx" "materials_list.jsx" "markdown.jsx" "main_navigation.jsx" "login.jsx" "loader.jsx" "lab_kits/" "lab_kit_methods/" "lab_kit_items/" "input_time.jsx" "image_upload.jsx" "icon.jsx" "handle_auth.jsx" "file_upload.jsx" "file_input.jsx" "file_download_link.jsx" "dashboard.jsx" "app_routes.jsx" "app.jsx" "admin/" "../" "./")
 
- ("/Users/bion/src/overtone/src/overtone/" (22037 63150 0 0) "version.clj" "synth/" "studio/" "speech.clj" "sc/" "samples/" "repl/" "protocols.clj" "music/" "live.clj" "libs/" "jna_path.clj" "inst/" "helpers/" "examples/" "device/" "core.clj" "config/" "api.clj" "algo/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/" (22426 35301 0 0) "summary_header.sass" "side_navigation.sass" "modal_root.sass" "materials_edit.sass" "main_navigation.sass" "lab_kits.sass" "lab_kit_methods_index.sass" "lab_kit_methods.sass" "lab_kit_method_details.sass" "lab_kit_method_card.sass" "lab_kit_detail.sass" "filter_categories.sass" "dashboard.sass" "application_container.sass" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/" (22039 466 0 0) "issues/" "index.html" "discussions/" "../" "./")
+ ("/Users/bion/Downloads/" (22426 32821 0 0) "Y7VQ9DMpfZAxKQ6ESfjaPQ" "x10-09integrativedesign.pdf" "wkhtmltox-0.12.3_osx-cocoa-x86-64.pkg" "well-actually.jpg" "Waders.html" "volunteers.csv" "volunteers-03-17-2016.csv" "volunteers (2).csv" "volunteers (1).csv" "volunteer_stats.csv" "Volunteer CSVs.xlsx" "Volunteer CSVs-1.xlsx" "var/" "valid.ppt" "valid.pdf" "valid (6).pdf" "valid (5).pdf" "valid (4).pdf" "valid (3).pdf" "valid (2).pdf" "valid (1).pdf" "US_energy_efficiency_exc_summary.pdf" "tssproduction_2015-12-03_212555_2015-12-03_214555.log" "tsetup.0.9.28.dmg" "Transactions.csv" "tito-cognitect-clojure-west-2016-4F3C-receipt.pdf" "Thursday Club - Energy.key" "TheEveoftheSpiritFestival.docx" "The-Simpsons---Season-07-w%2F-commentary-%5BDVDRip%2C-x264%5D.torrent" "The-Simpsons---Season-06-w%2F-commentary-%5BDVDRip%2C-x264%5D.torrent" "The-Simpsons---Season-04-w%2F-commentary-%5BDVDRip%2C-x264%5D.torrent" "The Simpsons - Season 07/" "The Simpsons - Season 06/" "The Lab Kit_Headlines - Website - PS.pdf" "Textual-5-Trial.zip" "Telegram Desktop/" "Syllabus2016spring.pages" "svg.zip" "surprise.pptx" "SpotifyInstaller.zip" "Soundflower.zip" "Sonic_Set_Theory_A_Tonal_Music_Theory_fo.pdf" "soccer.zip" "soccer/" "slack-2.0.0.zip" "sharing-economy.jpg" "sgf-heart-attack-v92.mp3" "Serenity.2005.Blu-ray.x264.MKV.115301.torrent" "SelfControl-2.0.2.zip" "Screen Shot 2016-05-12 at 09.59.06.png" "Screen Shot 2015-11-19 at 9.33.17 AM.png" "Screen Shot 2015-09-21 at 16.47.19.png" "scott_macpherson_resume.pdf" "Ron  Howard.vcf" "renters_insurance_proof.pdf" "refw41525thavee_seattle.zip" "REDLINES.png" "README.md" "react-soccer-mod.zip" "react-soccer/" "Prince - Sign “☮” the Times (Sign 'O' the Times) - 1987 (Vinyl - MP3 - V0 (VBR))-30201370.torrent" "PRG_BQus_noMAP.pdf" "Polymail-v075.zip" "PoliceReport-2016203688.pdf" "PoliceReport-2016160951.pdf" "PoliceReport-2016141129.pdf" "PoliceReport-2016141129-1.pdf" "Photos.zip" "Photos/" "Passacaglia.scd" "PageControl.zip" "page_code.docx" "Owner_App.doc" "other_headshot" "OSBA_Management_of_Nucs.ppt" "OnlinePayroll20160327170244.pdf" "OmnitureDeveloperGSK.zip" "OmnitureDeveloperGSK/" "OilUTKNr3ifoBraxMJkI6A_i-5a6b209e.tar.gz" "ngrok_2.0.19_darwin_amd64.zip" "never_go_camping.png" "NASA's Eyes.pkg" "MySisterandI.pdf" "MusicMouse212_Try_Me.sit" "Mold FAQ.pdf" "MGO3CSwh7S6n2X6xI5v8NA_i-df9bd01b.tar.gz" "MGO3CSwh7S6n2X6xI5v8NA_i-de9bd01a.tar.gz" "mastering-emacs.pdf" "mastering-emacs.epub" "marine debris diagramC.jpg" "MacLean KfW Paper on EE-RE Finance Final Nov 21.pdf" "MacLean KfW Paper on EE-RE Finance Final Nov 21(1).pdf" "mac_inspectionhost.pkg" "LWAPluginInstaller.pkg" "lps_application.pdf" "LimeChat_2.42/" "Letter.docx" "Laurie Spiegel - The Expanding Universe.zip" "keysnail.xpi" "Karabiner-10.18.0.dmg" "Karabiner-10.18.0(1).dmg" "International-Claim-Form-US-fillable.pdf" "Info forTenants - City of Seattle.pdf" "IMSLP02907-Debussy-L075.pdf" "IMSLP01109-Bartok_microcosmos_Book1.pdf" "IMG_0533.JPG" "image010.png" "Idle Cars.zip" "Idle Cars/" "i-9.pdf" "i-9 copy.pdf" "Hotaru no haka AKA Grave of the Fireflies.1988.Blu-ray.x264.MKV.294359.torrent" "Hillary K Burgess _ COASST.html" "heroku-toolbelt.pkg" "Goose, Duck, Duck.pptx" "glyphs-assesment.zip" "glyphs-assesment/" "Gary Antonacci - Dual Momentum Investing [EPUB].torrent" "Game.of.Thrones.S06E10.720p.HDTV.x264-AVS.torrent" "Game.of.Thrones.S06E09.720p.HDTV.x264-AVS.torrent" "Game.of.Thrones.S06E08.720p.HDTV.x264-AVS.torrent" "Game.of.Thrones.S06E07.720p.HDTV.x264-AVS.torrent" "Game.of.Thrones.S06E06.720p.HDTV.x264-AVS.torrent" "fw4.pdf" "fooooo.wav" "foo.pptx" "foo.html" "fmma.jnlp" "fmm.jnlp" "Flux34-3.zip" "firesheep-0.1-1.xpi" "facebook-bionjohnson.zip" "Eyes Nose Teeth d2.docx" "export.csv" "export 2.numbers" "Exercise N°2 in C.pdf" "Exercise N°1 in C.pdf" "emailreceipt_20150713R0726021787.pdf" "Dual Momentum Investing - Gary Antonacci.epub" "DTTADFSTokenSigningCertStage.atrame.deloitte.com.cer.txt" "DockerToolbox-1.11.1.pkg" "DIX1.0Universal.dmg" "diurnalis.tar" "diurnalis/" "DiscrepencyExamples.09.14.csv" "Deloitte The Lab Kit PPT Template - TIMELINE.pptx" "Crows.html" "credentials.csv" "corporate-ipsum-1-1.zip" "Copy of Citizen Code - 18MFProposal.pages" "ConservationTrack_Demo.zip" "ConservationTrack_Demo.ppt" "comments_scraping.zip" "CMA_1_Line_Portrait_3816.pdf" "cljs.jar" "Climate Change Economics & finance lecture Apr 2012.ppt" "Citizen Code Benefits (export 2016-03-24).xlsx" "calibre-2.63.0.dmg" "calibre-2.62.0.dmg" "bug_eyes.tiff" "Biz-Chem-20-Questions.pptx" "bions-pics.tar.gz" "bions-pics/" "Bion_Johnson_Resume.html" "bion_headshot" "Bion Johnson W2's.zip" "Bion Johnson Termination of Coverage Letter.pdf" "BIGIPMacEdgeClient.zip" "BIGIPMacEdgeClient/" "BBSpeciesTableRecordofChangesHBCW.xlsx" "banana.gif" "AvantGarde-Book-th.ttf" "applicant_discloser.pdf" "Applicant Disclosure.doc" "apache-jmeter-2.13.tgz" "andrew_jacobson_resume.pdf" "Amazon.com - Online Return Center.pdf" "AKWF.zip" "airhost.zip" "AdobeFlashPlayer_22au_a_install.dmg" "AdobeFlashPlayer_22au_a_install-1.dmg" "AccountStatementMarch312016.pdf" "AccountStatementApril302016.pdf" "Accounts.20151210_231113.OFX" "Accounts.20151210_230504.OFX" "Accounts.20151209_143439.OFX" "Accounts.20151209_142715.OFX" "ABC Co. Benefits (export 2016-03-28).xlsx" "ABC Co. Benefits (export 2016-03-28) (5).xlsx" "ABC Co. Benefits (export 2016-03-28) (4).xlsx" "ABC Co. Benefits (export 2016-03-28) (3).xlsx" "ABC Co. Benefits (export 2016-03-28) (2).xlsx" "ABC Co. Benefits (export 2016-03-28) (1).xlsx" "A_Compelling_Global_Resource.pdf" "[Client Name] - Citizen Code Proposal.pages" "6fT1pYyg8ITakZwLIai0Kw" "2016_password.pdf" "2008 e Marion st.pdf" "2008 e Marion st(1).pdf" "1Password Emergency Kit A3-B2SJ97-citizencode.pdf" "11 Luciano Cilio - 4ª Sonata - Trascrizione E PF G.D.S..flac" "09 Luciano Cilio - Liebesleid - Frammento - Inedito - Pianoforte G.D.S..flac" "06 Luciano Cilio - Della Conoscenza - Originale Versione Inedita.flac" "05 Luciano Cilio - Interludio Da ''Dialoghi Dal Presente''.flac" "04557487f265479d97604422a13a3714.pdf" "04 Luciano Cilio - Quarto Quadro ''Dell'Universo Assente'' Da ''Dialoghi Dal Presente''.flac" "03 Luciano Cilio - Terzo Quadro Da ''Dialoghi Dal Presente''.flac" "02 Luciano Cilio - Secondo Quadro Da ''Dialoghi Dal Presente''.flac" "01 Luciano Cilio - Primo Quadro ''Della conoscenza'' Da ''Dialoghi Dal Presente''.flac" "01 Luciano Cilio - Primo Quadro ''Della conoscenza'' Da ''Dialoghi Dal Presente''(1).flac" ".localized" ".DS_Store" "-0210Food menu-back.jpg.pdf" "(collected shells)clambeachN05282009_.JPG" "../" "./")
 
- ("/Users/bion/.emacs.d/" (22038 63269 0 0) "var/" "url/" "supercollider/" "smex-items" "recentf" "places" "packages/" "my/" "init.el" "ido.last" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" ".backups/" "#!Users!bion!src!overtone!src!overtone!examples!compositions!bells.clj#" "#!Users!bion!dev!coasst!db!schema.rb#" "#!Users!bion!.emacs.d!places#" "#!Users!bion!.emacs.d!my!my-project-defenitions.el#" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/" (22426 32218 0 0) "view_kit_spec.rb" "upload_pdf_spec.rb" "upload_image_spec.rb" "update_kit_spec.rb" "starter_kit_spec.rb" "stale_session_spec.rb" "show_method_spec.rb" "reordering_lab_kit_items_spec.rb" "login_redirection_spec.rb" "listing_lab_kit_methods.rb" "home_page_spec.rb" "favorites_spec.rb" "edit_method_spec.rb" "deleting_pdf_spec.rb" "deleting_kit_spec.rb" "delete_methods_from_lab_kit_spec.rb" "delete_material_spec.rb" "create_starter_kit_spec.rb" "create_method_spec.rb" "create_material_spec.rb" "create_kit_spec.rb" "add_methods_to_lab_kit_spec.rb" "add_activity_lab_kit_spec.rb" "../" "./")
 
- ("/Users/bion/dev/ko/src/ko/synth_defs/" (22037 63179 0 0) "single_signal.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/views/" (22426 15681 0 0) "index.pug" "../" "./")
 
- ("/Users/bion/dev/ko/src/ko/gestures/" (22037 54580 0 0) "single_signal.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/" (22425 16424 0 0) "material_controller.js" "lab_kit_method_controller.js" "lab_kit_item_controller.js" "lab_kit_controller.js" "index.js" "file_controller.js" "favorite_method_controller.js" "error_controller.js" "current_user_controller.js" "category_controller.js" "auth_controller.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/" (22038 54822 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/lib/" (22425 7699 0 0) "tmpl/" "pptxshapes.js" "pptxfields.js" "openofficegen.js" "officechart.js" "msofficegen.js" "msexcel-builder.js" "index.js" "genxlsx.js" "genpptx.js" "genofficetable.js" "gendocx.js" "docxtable.js" "charts.js" "basicgen.js" "../" "./")
 
- ("/Users/bion/dev/soundfyle/app/" (22036 31911 0 0) "index.js" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/" (22369 49156 0 0) "stylesheets/" "javascripts/" "images/" "fonts/" ".DS_Store" "../" "./")
 
- ("/Users/bion/dev/soundfyle/public/stylesheets/" (22036 32286 0 0) "style.css" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/" (22425 3126 0 0) "timed.js" "time_conversions.js" "present_error.jsx" "lab_kit_total_duration.js" "form_data_for_file.js" "duration.js" "dedupe_materials.js" "create_file.js" "cookies.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/CACHE/" (22038 43165 0 0) "css/" ".gitignore" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/lib/" (22425 709 0 0) "profile_attrs.js" "middleware.js" "lab_kit_to_ppt.js" "get_error_messages.js" "filter_params.js" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/management/commands/" (22038 55939 0 0) "compile_scss.pyc" "compile_scss.py" "__init__.pyc" "__init__.py" "../" "./")
+ ("/Users/bion/dev/global-iq/" (22301 21093 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "Rakefile" "public/" "Procfile" "package.json" "node_modules/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "db/" "config.ru" "config/" "bower.json" "bin/" "app/" ".ruby-version" ".rspec" ".pairs" ".gitignore" ".git/" ".env" ".buildpacks" ".ackrc" "../" "./")
 
- ("/Users/bion/.emacs.d/my/" (22038 55554 0 0) "my-settings.el" "my-project-defenitions.el" "my-package.el" "my-keybindings.el" "my-isearch.el" "my-initializers.el" "my-hooks.el" "my-functions.el" "my-customizations.el" "my-bookmarks.el" "my-backup.el" "my-autoloads.el" "my-advice.el" "my-add-to-lists.el" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/" (22424 57539 0 0) "tools/" "tmp/" "test_files/" "test/" "README.md" "plugins/" "package.json" "node_modules/" "LICENSE-MIT" "lib/" "examples/" "CHANGELOG" ".travis.yml" ".npmignore" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/management/" (22038 54921 0 0) "commands/" "__init__.py" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/" (22424 57539 0 0) "zip-stream/" "yauzl/" "yargs/" "yallist/" "xtend/" "xregexp/" "xpath.js/" "xpath/" "xmldom/" "xmlbuilder/" "xml2js/" "xml-name-validator/" "xml-encryption/" "xml-crypto/" "xdg-basedir/" "write-file-atomic/" "write/" "wrappy/" "wrap-fn/" "wordwrap/" "with/" "winston/" "window-size/" "which/" "whet.extend/" "when/" "whatwg-url-compat/" "whatwg-fetch/" "webpack-stream/" "webpack-sources/" "webpack-core/" "webpack/" "webidl-conversions/" "watchpack/" "warning/" "ware/" "void-elements/" "vm-browserify/" "vinyl-sourcemaps-apply/" "vinyl-fs/" "vinyl-file/" "vinyl-assign/" "vinyl/" "verror/" "vary/" "validate-npm-package-license/" "vali-date/" "v8flags/" "uuid/" "utils-merge/" "util-deprecate/" "util/" "user-home/" "url-regex/" "url-parse-lax/" "url/" "urix/" "update-notifier/" "unzip-response/" "unpipe/" "unique-stream/" "uniqs/" "uniqid/" "uniq/" "uniloc/" "underscore/" "undefsafe/" "uid2/" "uglify-to-browserify/" "uglify-js/" "ua-parser-js/" "typedarray/" "type-is/" "type-detect/" "type-check/" "tweetnacl/" "tv4/" "tunnel-agent/" "tty-browserify/" "tryit/" "trim-repeated/" "trim-newlines/" "tr46/" "tough-cookie/" "touch/" "token-stream/" "to-iso-string/" "to-fast-properties/" "to-absolute-glob/" "timers-browserify/" "timed-out/" "time-stamp/" "tildify/" "through2-filter/" "through2-concurrent/" "through2/" "through/" "throttleit/" "text-table/" "ternary-stream/" "tempfile/" "tar-stream/" "tar/" "tapable/" "table/" "symbol-tree/" "symbol-observable/" "svgo/" "supports-color/" "sum-up/" "style-loader/" "strip-outer/" "strip-json-comments/" "strip-indent/" "strip-dirs/" "strip-bom-stream/" "strip-bom/" "strip-ansi/" "stringstream/" "string_decoder/" "string-width/" "string-length/" "strict-uri-encode/" "streamsearch/" "stream-to-array/" "stream-consume/" "stream-combiner2/" "stream-combiner/" "stream-buffers/" "stream-browserify/" "statuses/" "stat-mode/" "startpoint/" "stacktrace-js/" "stacktrace-gps/" "stackframe/" "stack-trace/" "stack-generator/" "sshpk/" "squeak/" "sprintf-js/" "split/" "spdx-license-ids/" "spdx-expression-parse/" "spdx-exceptions/" "spdx-correct/" "sparkles/" "source-map-url/" "source-map-support/" "source-map-resolve/" "source-map/" "source-list-map/" "sort-keys/" "sntp/" "slide/" "slice-ansi/" "slash/" "sinon-chai/" "sinon/" "simple-backoff/" "signal-exit/" "sigmund/" "shelljs/" "shebang-regex/" "sha.js/" "setimmediate/" "set-immediate-shim/" "serve-static/" "sequencify/" "send/" "semver-truncate/" "semver-regex/" "semver-diff/" "semver/" "seek-bzip/" "sax/" "sass-loader/" "sass-graph/" "samsam/" "rx-lite/" "run-sequence/" "run-async/" "ripemd160/" "rimraf/" "right-align/" "rev-path/" "rev-hash/" "restore-cursor/" "resolve-url/" "resolve-from/" "resolve/" "reselect/" "require-uncached/" "request-progress/" "request/" "replace-ext/" "repl.history/" "repeating/" "repeat-string/" "repeat-element/" "regjsparser/" "regjsgen/" "registry-url/" "regexpu-core/" "regex-cache/" "regenerator-runtime/" "regenerate/" "redux/" "reduce-function-call/" "reduce-css-calc/" "redent/" "rechoir/" "readline2/" "readdirp/" "readable-stream/" "read-pkg-up/" "read-pkg/" "read-json-sync/" "read-all-stream/" "react-style-normalizer/" "react-router-redux/" "react-router/" "react-redux/" "react-notify-resize/" "react-inline-block/" "react-flex/" "react-field/" "react-dom/" "react-date-picker/" "react-class/" "react-addons-css-transition-group/" "react/" "rc/" "raw-body/" "range-parser/" "randomatic/" "raf/" "querystring-es3/" "querystring/" "query-string/" "qs/" "q/" "punycode/" "pug-walk/" "pug-strip-comments/" "pug-runtime/" "pug-parser/" "pug-load/" "pug-linker/" "pug-lexer/" "pug-filters/" "pug-error/" "pug-code-gen/" "pug-attrs/" "pug/" "pseudomap/" "ps-tree/" "prr/" "proxy-addr/" "promise/" "progress/" "process-nextick-args/" "process/" "private/" "pretty-hrtime/" "pretty-bytes/" "preserve/" "prepend-http/" "prelude-ls/" "postgres-interval/" "postgres-date/" "postgres-bytea/" "postgres-array/" "postcss-zindex/" "postcss-value-parser/" "postcss-unique-selectors/" "postcss-svgo/" "postcss-selector-parser/" "postcss-reduce-transforms/" "postcss-reduce-initial/" "postcss-reduce-idents/" "postcss-ordered-values/" "postcss-normalize-url/" "postcss-normalize-charset/" "postcss-modules-values/" "postcss-modules-scope/" "postcss-modules-local-by-default/" "postcss-modules-extract-imports/" "postcss-minify-selectors/" "postcss-minify-params/" "postcss-minify-gradients/" "postcss-minify-font-values/" "postcss-message-helpers/" "postcss-merge-rules/" "postcss-merge-longhand/" "postcss-merge-idents/" "postcss-filter-plugins/" "postcss-discard-unused/" "postcss-discard-overridden/" "postcss-discard-empty/" "postcss-discard-duplicates/" "postcss-discard-comments/" "postcss-convert-values/" "postcss-colormin/" "postcss-calc/" "postcss/" "pool2/" "pluralize/" "plur/" "pkginfo/" "pinkie-promise/" "pinkie/" "pify/" "phantomjs-prebuilt/" "pgpass/" "pg-types/" "pg-connection-string/" "pg/" "performance-now/" "pend/" "pbkdf2-compat/" "pause-stream/" "pause/" "path-type/" "path-to-regexp/" "path-is-inside/" "path-is-absolute/" "path-exists/" "path-browserify/" "path-array/" "passport-wsfed-saml2/" "passport-strategy/" "passport-saml/" "passport-oauth2/" "passport-oauth1/" "passport-oauth/" "passport-http-bearer/" "passport-google-oauth20/" "passport/" "parseurl/" "parse5/" "parse-json/" "parse-glob/" "pako/" "packet-reader/" "package-json/" "osenv/" "os-tmpdir/" "os-homedir/" "os-filter-obj/" "os-browserify/" "ordered-read-streams/" "orchestrator/" "optipng-bin/" "optionator/" "optional/" "optimist/" "onetime/" "once/" "on-finished/" "officegen/" "object.omit/" "object-keys/" "object-assign/" "oauth-sign/" "oauth/" "nwmatcher/" "number-is-nan/" "num2fraction/" "nth-check/" "npmlog/" "normalize.css/" "normalize-url/" "normalize-range/" "normalize-path/" "normalize-package-data/" "nopt/" "noncharacters/" "nodemon/" "node-uuid/" "node-status-codes/" "node-sass/" "node-phantom-simple/" "node-libs-browser/" "node-int64/" "node-horseman/" "node-gyp/" "node-forge/" "node-fetch/" "nested-error-stacks/" "negotiator/" "nan/" "mute-stream/" "multipipe/" "multer/" "ms/" "moment/" "modify-filename/" "mocha/" "mkdirp/" "minimist/" "minimatch/" "mime-types/" "mime-db/" "mime/" "micromatch/" "methods/" "merge-stream/" "merge-descriptors/" "meow/" "memory-fs/" "media-typer/" "marked/" "map-stream/" "map-obj/" "map-async/" "lru-cache/" "lpad-align/" "lpad/" "lowercase-keys/" "loud-rejection/" "loose-envify/" "longest/" "lolex/" "logalot/" "log-symbols/" "lodash.words/" "lodash.uniq/" "lodash.tostring/" "lodash.toplainobject/" "lodash.throttle/" "lodash.templatesettings/" "lodash.template/" "lodash.some/" "lodash.restparam/" "lodash.pairs/" "lodash.padstart/" "lodash.padend/" "lodash.pad/" "lodash.omit/" "lodash.merge/" "lodash.keysin/" "lodash.keys/" "lodash.istypedarray/" "lodash.isplainobject/" "lodash.isequal/" "lodash.isarray/" "lodash.isarguments/" "lodash.escape/" "lodash.defaults/" "lodash.deburr/" "lodash.debounce/" "lodash.compact/" "lodash.clone/" "lodash.camelcase/" "lodash.assign/" "lodash._stringtopath/" "lodash._root/" "lodash._reinterpolate/" "lodash._reevaluate/" "lodash._reescape/" "lodash._pickbycallback/" "lodash._pickbyarray/" "lodash._isiterateecall/" "lodash._getnative/" "lodash._createcompounder/" "lodash._createcache/" "lodash._createassigner/" "lodash._cacheindexof/" "lodash._bindcallback/" "lodash._basevalues/" "lodash._baseuniq/" "lodash._basetostring/" "lodash._baseslice/" "lodash._baseiteratee/" "lodash._baseisequal/" "lodash._baseindexof/" "lodash._basefor/" "lodash._baseflatten/" "lodash._baseeach/" "lodash._basedifference/" "lodash._basecopy/" "lodash._baseclone/" "lodash._basecallback/" "lodash._baseassign/" "lodash._arraymap/" "lodash._arrayeach/" "lodash._arraycopy/" "lodash-es/" "lodash/" "loader-utils/" "load-json-file/" "liftoff/" "levn/" "leasot/" "lazystream/" "lazy-req/" "lazy-cache/" "latest-version/" "knex/" "klaw/" "kind-of/" "kew/" "jws/" "jwa/" "jstransformer/" "jsprim/" "jsonwebtoken/" "jsonpointer/" "jsonify/" "jsonfile/" "json5/" "json2xml/" "json-stringify-safe/" "json-stable-stringify/" "json-schema/" "jsesc/" "jsdom/" "jsbn/" "js-yaml/" "js-tokens/" "js-stringify/" "js-base64/" "jquery/" "jpegtran-bin/" "jodid25519/" "jade/" "isstream/" "isomorphic-fetch/" "isobject/" "isexe/" "isarray/" "is-zip/" "is-valid-glob/" "is-utf8/" "is-url/" "is-typedarray/" "is-tar/" "is-svg/" "is-stream/" "is-retry-allowed/" "is-resolvable/" "is-relative/" "is-regex/" "is-redirect/" "is-property/" "is-promise/" "is-primitive/" "is-posix-bracket/" "is-png/" "is-plain-obj/" "is-path-inside/" "is-path-in-cwd/" "is-path-cwd/" "is-object/" "is-obj/" "is-number/" "is-npm/" "is-natural-number/" "is-my-json-valid/" "is-jpg/" "is-gzip/" "is-glob/" "is-gif/" "is-fullwidth-code-point/" "is-finite/" "is-extglob/" "is-extendable/" "is-expression/" "is-equal-shallow/" "is-dotfile/" "is-bzip2/" "is-builtin-module/" "is-buffer/" "is-binary-path/" "is-arrayish/" "is-absolute-url/" "is-absolute/" "is/" "irregular-plurals/" "ipaddr.js/" "ip-regex/" "invariant/" "interpret/" "inquirer/" "ini/" "inherits/" "inflight/" "inflection/" "infinity-agent/" "indexof/" "indexes-of/" "indent-string/" "in-publish/" "imurmurhash/" "immutable/" "imagemin-svgo/" "imagemin-optipng/" "imagemin-jpegtran/" "imagemin-gifsicle/" "imagemin/" "ignore-by-default/" "ignore/" "ieee754/" "icss-replace-symbols/" "iconv-lite/" "https-browserify/" "http-signature/" "http-errors/" "http-browserify/" "htmlparser2/" "html-comment-regex/" "hosted-git-info/" "home-or-tmp/" "hoist-non-react-statics/" "hoek/" "history/" "hawk/" "hashmap/" "hasha/" "has-unicode/" "has-own/" "has-gulplog/" "has-flag/" "has-color/" "has-ansi/" "har-validator/" "gulplog/" "gulp-util/" "gulp-todo/" "gulp-svgstore/" "gulp-sourcemaps/" "gulp-sass-glob/" "gulp-sass/" "gulp-rev/" "gulp-rename/" "gulp-pug/" "gulp-plumber/" "gulp-match/" "gulp-inject/" "gulp-imagemin/" "gulp-if/" "gulp-eslint/" "gulp-decompress/" "gulp-autoprefixer/" "gulp/" "growl/" "group-array/" "graceful-readlink/" "graceful-fs/" "got/" "glogg/" "globule/" "globby/" "globals/" "glob2base/" "glob-watcher/" "glob-stream/" "glob-parent/" "glob-base/" "glob/" "gifsicle/" "getpass/" "get-value/" "get-stdin/" "get-proxy/" "get-line-from-pos/" "generic-pool/" "generate-object-property/" "generate-function/" "gaze/" "gauge/" "fstream/" "fsevents/" "fs.realpath/" "fs-extra/" "from/" "fresh/" "forwarded/" "formatio/" "form-data/" "fork-stream/" "forever-agent/" "foreach/" "for-own/" "for-in/" "flatten/" "flat-cache/" "flagged-respawn/" "first-chunk-stream/" "findup-sync/" "find-versions/" "find-up/" "find-index/" "finalhandler/" "fill-range/" "filenamify/" "filename-reserved-regex/" "filename-regex/" "file-type/" "file-entry-cache/" "figures/" "fd-slicer/" "fbjs/" "fastparse/" "fast-levenshtein/" "fast-image-size/" "fancy-log/" "eyes/" "extsprintf/" "extract-zip/" "extract-text-webpack-plugin/" "extglob/" "extend-shallow/" "extend/" "express-winston/" "express/" "expand-range/" "expand-brackets/" "exit-hook/" "executable/" "exec-series/" "exec-buffer/" "events/" "event-stream/" "event-emitter/" "etag/" "esutils/" "estraverse/" "esrecurse/" "esprima/" "espree/" "eslint-plugin-react/" "eslint/" "escope/" "escodegen/" "escape-string-regexp/" "escape-html/" "es6-weak-map/" "es6-symbol/" "es6-set/" "es6-promise/" "es6-map/" "es6-iterator/" "es5-ext/" "error-stack-parser/" "error-ex/" "errno/" "entities/" "enhanced-resolve/" "end-of-stream/" "encoding/" "emojis-list/" "ejs/" "ee-first/" "ecdsa-sig-formatter/" "ecc-jsbn/" "each-async/" "duplexify/" "duplexer2/" "duplexer/" "download/" "double-ended-queue/" "domutils/" "domhandler/" "domelementtype/" "domain-browser/" "dom-serializer/" "doctypes/" "doctrine/" "diff/" "dicer/" "detect-newline/" "detect-indent/" "destroy/" "deprecated/" "depd/" "delegates/" "delayed-stream/" "del/" "defined/" "defaults/" "deep-is/" "deep-extend/" "deep-equal/" "deep-eql/" "decompress-unzip/" "decompress-targz/" "decompress-tarbz2/" "decompress-tar/" "decompress/" "decamelize/" "debug/" "dateformat/" "date-now/" "data-uri-to-buffer/" "dashdash/" "d/" "cycle/" "cssstyle/" "cssom/" "csso/" "cssnano/" "cssesc/" "css-what/" "css-selector-tokenizer/" "css-select/" "css-loader/" "css-color-names/" "css/" "crypto-browserify/" "crypto/" "cryptiles/" "cross-spawn-async/" "create-error-class/" "create-error/" "crc32-stream/" "core-util-is/" "core-js/" "cookies.txt/" "cookie-signature/" "cookie-parser/" "cookie/" "convert-source-map/" "content-type/" "content-disposition/" "constants-browserify/" "constantinople/" "console-stream/" "console-browserify/" "configstore/" "concat-stream/" "concat-map/" "compress-commons/" "commander/" "combined-stream/" "colors/" "colormin/" "color-string/" "color-name/" "color-convert/" "color/" "code-point-at/" "coa/" "co/" "clone-stats/" "clone/" "cliui/" "cli-width/" "cli-cursor/" "clean-css/" "classnames/" "clap/" "chokidar/" "cheerio/" "checkit/" "character-parser/" "chalk/" "chai-immutable/" "chai/" "center-align/" "caw/" "caseless/" "capture-stack-trace/" "caniuse-db/" "camelcase-keys/" "camelcase/" "callsites/" "caller-path/" "bytes/" "busboy/" "builtin-modules/" "bufferstreams/" "buffer-writer/" "buffer-to-vinyl/" "buffer-shims/" "buffer-equal-constant-time/" "buffer-crc32/" "buffer/" "browserslist/" "browserify-zlib/" "braces/" "brace-expansion/" "boom/" "boolbase/" "bookshelf-cascade-delete/" "bookshelf/" "body-parser/" "bluebird/" "block-stream/" "bl/" "binary-extensions/" "bin-wrapper/" "bin-version-check/" "bin-version/" "bin-check/" "bin-build/" "big.js/" "beeper/" "base64url/" "base64-url/" "base64-js/" "Base64/" "balanced-match/" "babylon/" "babel-types/" "babel-traverse/" "babel-template/" "babel-runtime/" "babel-register/" "babel-preset-react/" "babel-preset-es2015/" "babel-plugin-transform-strict-mode/" "babel-plugin-transform-regenerator/" "babel-plugin-transform-react-jsx-source/" "babel-plugin-transform-react-jsx/" "babel-plugin-transform-react-display-name/" "babel-plugin-transform-inline-environment-variables/" "babel-plugin-transform-flow-strip-types/" "babel-plugin-transform-es2015-unicode-regex/" "babel-plugin-transform-es2015-typeof-symbol/" "babel-plugin-transform-es2015-template-literals/" "babel-plugin-transform-es2015-sticky-regex/" "babel-plugin-transform-es2015-spread/" "babel-plugin-transform-es2015-shorthand-properties/" "babel-plugin-transform-es2015-parameters/" "babel-plugin-transform-es2015-object-super/" "babel-plugin-transform-es2015-modules-commonjs/" "babel-plugin-transform-es2015-literals/" "babel-plugin-transform-es2015-function-name/" "babel-plugin-transform-es2015-for-of/" "babel-plugin-transform-es2015-duplicate-keys/" "babel-plugin-transform-es2015-destructuring/" "babel-plugin-transform-es2015-computed-properties/" "babel-plugin-transform-es2015-classes/" "babel-plugin-transform-es2015-block-scoping/" "babel-plugin-transform-es2015-block-scoped-functions/" "babel-plugin-transform-es2015-arrow-functions/" "babel-plugin-syntax-jsx/" "babel-plugin-syntax-flow/" "babel-plugin-syntax-async-functions/" "babel-plugin-check-es2015-constants/" "babel-messages/" "babel-loader/" "babel-helpers/" "babel-helper-replace-supers/" "babel-helper-regex/" "babel-helper-optimise-call-expression/" "babel-helper-hoist-variables/" "babel-helper-get-function-arity/" "babel-helper-function-name/" "babel-helper-define-map/" "babel-helper-call-delegate/" "babel-helper-builder-react-jsx/" "babel-generator/" "babel-core/" "babel-code-frame/" "aws4/" "aws-sign2/" "autoprefixer/" "atob/" "async-foreach/" "async-each-series/" "async-each/" "async/" "assets-webpack-plugin/" "assertion-error/" "assert-plus/" "assert/" "asn1/" "asap/" "arrify/" "array-unique/" "array-uniq/" "array-union/" "array-index/" "array-flatten/" "array-find-index/" "array-differ/" "arr-flatten/" "arr-diff/" "argparse/" "are-we-there-yet/" "archy/" "archiver-utils/" "archiver/" "archive-type/" "append-field/" "ap/" "anymatch/" "any-promise/" "ansi-styles/" "ansi-regex/" "ansi-escapes/" "ansi/" "amdefine/" "alphanum-sort/" "align-text/" "acorn-jsx/" "acorn-globals/" "acorn/" "accepts/" "abbrev/" "abab/" ".bin/" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/css/" (22035 5728 0 0) "normalize.css" "foundation.min.css" "foundation.css" "foundation-icons.woff" "foundation-icons.ttf" "foundation-icons.svg" "foundation-icons.eot" "foundation-icons.css" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/" (22351 13102 0 0) "variables/" "templates/" "organisms/" "molecules/" "mixins/" "atoms/" "application.sass" "../" "./")
 
- ("/Users/bion/dev/foundation/" (22035 4613 0 0) "spec/" "scss/" "sache.json" "run-tests.sh" "robots.txt" "README.md" "package.json" "LICENSE" "lib/" "karma.conf.js" "js/" "Gruntfile.js" "grunt/" "Gemfile.lock" "Gemfile" "doc/" "CONTRIBUTING.md" "composer.json" "bower.json" ".travis.yml" ".gitignore" ".git/" ".editorconfig" ".bowerrc" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/" (22418 32619 0 0) "typography.scss" "dimensions.sass" "colors.scss" "animation.sass" "../" "./")
 
- ("/Users/bion/dev/ko/" (22036 44196 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "hope.clj" "doc/" ".nrepl-port" ".lein-repl-history" ".gitignore" ".git/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/" (22423 57804 0 0) "user.js" "material.js" "lab_kit_method.js" "lab_kit_item.js" "lab_kit.js" "index.js" "file.js" "category.js" "../" "./")
 
- ("/Users/bion/dev/soundfyle/" (22036 38538 0 0) "views/" "public/" "Procfile" "package.json" "node_modules/" "index.js" "Gruntfile.js" "app/" ".gitignore" ".git/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/spec/factories/" (22417 23096 0 0) "users.rb" "materials.rb" "lab_kits.rb" "lab_kit_methods.rb" "lab_kit_items.rb" "categories.rb" "../" "./")
 
- ("/Users/bion/dev/soundfyle/public/" (22036 31500 0 0) "javascripts/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/" (22417 22846 0 0) "yell_about_the_database.rb" "wait_for_modal.rb" "wait_for_ajax.rb" "sign_in.rb" "polyfills/" "path_helpers.rb" "node_server.rb" "models/" "factory_girl.rb" "database_cleaner.rb" "capybara.rb" "admin_restrictions.rb" "active_record.rb" "../" "./")
 
- ("/Users/bion/dev/soundfyle/public/javascripts/" (22036 31824 0 0) "recorderWorker.js" "recorder.js" "jquery-1.11.13.min.js" "index.js" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/test-uploads/" (22423 47822 0 0) "c10c033bc190ff5746bdaa51343e7008" "b8ef8df45f1501033a37a8b258f247a4" "../" "./")
 
- ("/Users/bion/dev/soundfyle/views/" (22036 31352 0 0) "index.jade" "../" "./")
+ ("/Users/bion/Documents/" (22417 42560 0 0) "Zoom/" "wed/" "war_on_drugs/" "walkinshaw_campaign/" "starvation_alley_farms.mp3" "SoulsofWhiteFolk.pdf" "RESTORE/" "overheard.mp3" "olykraut_interview.mp3" "old_ballard_distillery.mp3" "Music Mouse 2.1.2 Try Me ƒ/" "Load Deets.pdf" "Lean_Customer_Development.pdf" "investments/" "housing/" "honest_biscuits_interview.mp3" "here is the church here is the steeple_data/" "here is the church here is the steeple.aup" "Hacking_Japanese_Supercourse_-_Version1.1.pdf" "Eyes Nose Teeth d2.pdf" "dejavu-fonts-ttf-2.35/" "clojure_for_machine_learning/" "Bion_Johnon_Dandan_Xin_Mortgage_Documents/" "Anki/" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/" (22035 928 0 0) "cvapp/" "../" "./")
+ ("/Users/bion/dev/ko/test/ko/" (22417 46244 0 0) "synth_args_test.clj" "score_test.clj" "scheduling_test.clj" "nrt_test.clj" "gesture_test.clj" "curve_test.clj" "acceptance_test.clj" "../" "./")
 
- ("/Users/bion/dev/citizen-rails/" (22011 13253 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "Rakefile" "public/" "Procfile" "log/" "LICENSE" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "db/" "config.ru" "config/" "bin/" "app/" ".ruby-version" ".rspec" ".gitignore" ".git/" ".env" ".ackrc" "../" "./")
+ ("/Users/bion/Documents/investments/" (22417 42590 0 0) "to_read.org" "../" "./")
 
- ("/Users/bion/dev/coasst/spec/services/" (22017 59462 0 0) "export_surveys_spec.rb" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/" (22417 26445 0 0) "wildcard.sass" "typography.sass" "selects.sass" "lists.sass" "labels.sass" "inputs.sass" "inline_svg.sass" "images.sass" "icons.sass" "horizontal_rules.sass" "fieldsets.sass" "buttons.sass" "body.sass" "anchors.sass" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/" (22035 5728 0 0) "scss/" "js/" "css/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_items/" (22415 63245 0 0) "lab_kit_item_list.jsx" "lab_kit_item.jsx" "lab_kit_activity.jsx" "../" "./")
 
- ("/Users/bion/dev/cautionary_vigilance/topic/" (22034 59048 0 0) "views.py" "tests.py" "models.py" "migrations/" "admin.py" "__init__.py" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/" (22416 62465 0 0) "show.jsx" "lab_kit_list.jsx" "lab_kit.jsx" "index.jsx" "../" "./")
 
- ("/Users/bion/dev/cautionary_vigilance/" (22034 58044 0 0) "manage.py" "cautionary_vigilance/" "../" "./")
+ ("/Users/bion/dev/superdelegation/app/assets/stylesheets/" (22416 25852 0 0) "main.scss" "foundation_and_overrides.scss" "application.css" "_settings.scss" "../" "./")
 
- ("/Users/bion/dev/cautionary_vigilance/cv_app/" (22034 57684 0 0) "views.py" "urls.py" "tests.py" "models.py" "migrations/" "admin.py" "__init__.py" "../" "./")
+ ("/Users/bion/dev/racial-justice-site/" (22416 25396 0 0) "index.html" "../" "./")
 
- ("/Users/bion/dev/beagift/spec/controllers/api/" (22024 49523 0 0) "sessions_controller_spec.rb" "photos_controller_spec.rb" "gifts_controller_spec.rb" "favorites_controller_spec.rb" "devices_controller_spec.rb" "base_controller_spec.rb" "accounts_controller_spec.rb" "../" "./")
+ ("/Users/bion/dev/prez/" (22416 21013 0 0) "prez.json" "index.html" "app.js" "../" "./")
 
- ("/Users/bion/dev/beagift/app/views/api/inbox/" (21954 36638 0 0) "index.json.jbuilder" "_message.json.jbuilder" "../" "./")
+ ("/Users/bion/dev/get_woke/" (22416 20928 0 0) "../" "./")
 
- ("/Users/bion/dev/beagift/app/views/api/chat_messages/" (22024 49523 0 0) "index.json.jbuilder" "_chat_message.json.jbuilder" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/bin/" (22415 63440 0 0) "test_prepare" "test" "start" "runemall" "rspec" "psql_dev" "knex" "gulp" "eslint" "doctor" "db_reset" "db_list_tables" "db_describe_table" "console" "build" "../" "./")
 
- ("/Users/bion/dev/levelup/app/assets/javascripts/common/" (21955 53872 0 0) "validators/" "util.coffee" "models/" "collections/" "app.coffee" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/starter_kits/" (22415 62060 0 0) "index.jsx" "../" "./")
 
- ("/Users/bion/dev/levelup/" (21956 56365 0 0) "vendor/" "tmp/" "spec/" "README.markdown" "README-setup.markdown" "Rakefile" "public/" "Procfile" "logs" "log/" "lib/" "Gemfile.lock" "Gemfile" "fig.yml" "Dockerfile" "doc/" "db/" "config.ru" "config/" "circle.yml" "bin/" "app/" ".ruby-version" ".rspec" ".pairs" ".gitignore" ".git/" ".env" ".buildpacks" ".ackrc" "../" "./")
+ ("/Users/bion/dev/drum-engine/src/drum_engine/" (22414 21305 0 0) "storage.clj" "sample_library.clj" "play.clj" "pad_sample_seeds.clj" "gui.clj" "core.clj" "../" "./")
 
- ("/Users/bion/dev/beagift/config/" (22024 49523 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+ ("/Users/bion/dev/drum-engine/" (22316 13951 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" ".nrepl-port" ".lein-repl-history" ".hgignore" ".gitignore" ".git/" "../" "./")
 
- ("/Users/bion/dev/beagift/app/services/" (22024 49523 0 0) "service.rb" "give_gratitude.rb" "find_nearby_gift_givers.rb" "create_photo.rb" "collate_conversation_history.rb" "broadcast_gift.rb" "broadcast_chat.rb" "../" "./")
+ ("/Users/bion/dev/ko/test/" (22122 20645 0 0) "ko/" "../" "./")
 
- ("/Users/bion/dev/beagift/app/models/" (22024 49523 0 0) "zip_code.rb" "role.rb" "photo.rb" "payment_transaction.rb" "gift.rb" "flag.rb" "favorite.rb" "device.rb" "chat_message.rb" "account_role.rb" "account.rb" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/" (22409 27206 0 0) "selectors_test.js" "reducers/" "lib/" "../" "./")
 
- ("/Users/bion/dev/beagift/ios/app/stylesheets/" (22024 49523 0 0) "select_beneficiary_screen_stylesheet.rb" "profile_view_stylesheet.rb" "profile_screen_stylesheet.rb" "info_screen_stylesheet.rb" "inbox_screen_stylesheet.rb" "gratitude_screen_stylesheet.rb" "gifts_screen_stylesheet.rb" "flag_screen_stylesheet.rb" "favorites_screen_stylesheet.rb" "favorite_screen_stylesheet.rb" "credit_card_screen_stylesheet.rb" "chat_screen_stylesheet.rb" "bank_account_screen_stylesheet.rb" "authentication_screen_stylesheet.rb" "application_stylesheet.rb" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/" (22409 27160 0 0) "20160715140323_add_is_starter_kit_col_to_lab_kits.js" "20160713180737_remove_profile_photo_url_from_users.js" "20160708125926_remove_association_null_constraint_from_items.js" "20160708121225_add_title_and_description_to_lab_kit_items.js" "20160629165614_add_start_time_to_lab_kit.js" "20160629102649_add_file_purpose.js" "20160617142044_create_lab_kit_items.js" "20160614145125_create_lab_kits.js" "20160609150436_addTypeToMaterials.js" "20160602115044_add_published_to_methods.js" "20160531141242_add_admin_flag_to_users.js" "20160527141137_add_profile_photo_url.js" "20160526140220_create_files.js" "20160525151730_add_bearer_token.js" "20160525112504_add_oauth2_user_id.js" "20160524112354_add_oauth2_token_to_users.js" "20160521045153_add_url_to_material.js" "20160518054525_remove_materials_columns_from_lab_kit_method.js" "20160518053826_create_materials.js" "20160511094208_add_category_id_to_lab_kit_methods.js" "20160511093406_create_categories.js" "20160428154406_create_lab_kit_methods.js" "20160418140219_create_users.js" "../" "./")
 
- ("/Users/bion/dev/beagift/spec/services/" (22024 49523 0 0) "give_gratitude_spec.rb" "find_nearby_gift_givers_spec.rb" "create_photo_spec.rb" "collate_conversation_history_spec.rb" "broadcast_gift_spec.rb" "broadcast_chat_spec.rb" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/models/" (22409 22299 0 0) "user.rb" "material.rb" "lab_kit_method.rb" "lab_kit_item.rb" "lab_kit.rb" "category.rb" "../" "./")
 
- ("/Users/bion/dev/beagift/spec/requests/api/" (22024 49523 0 0) "sessions_spec.rb" "photos_spec.rb" "inbox_spec.rb" "gratitude_spec.rb" "gifts_spec.rb" "favorites_spec.rb" "credit_cards_spec.rb" "cloudinary_authorization_spec.rb" "chat_messages_spec.rb" "bank_accounts_spec.rb" "accounts_spec.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend/src/js/components/" (22408 22376 0 0) "range_selector.js" "options_selector.js" "../" "./")
 
- ("/Users/bion/dev/beagift/app/controllers/api/" (22024 49523 0 0) "sessions_controller.rb" "photos_controller.rb" "inbox_controller.rb" "gratitudes_controller.rb" "gifts_controller.rb" "favorites_controller.rb" "devices_controller.rb" "credit_cards_controller.rb" "cloudinary_authorizations_controller.rb" "chat_messages_controller.rb" "base_controller.rb" "bank_accounts_controller.rb" "accounts_controller.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend-om/" (22408 15187 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" "dev/" ".gitignore" "../" "./")
 
- ("/Users/bion/dev/ios_audio_notes/" (22014 64185 0 0) "ios_audio_notes.md" "../" "./")
+ ("/Users/bion/dev/synth-frontend-om/src/" (22408 15142 0 0) "synth_frontend_om/" "../" "./")
 
- ("/Users/bion/src/" (22015 11430 0 0) "SwipeView/" "rmq/" "ProMotion/" "probot/" "poplife-hubot/" "overtone/" "moticons/" "bookmarker/" "../" "./")
+ ("/Users/bion/dev/synth-frontend-om/src/synth_frontend_om/" (22408 15267 0 0) "core.cljs" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/logged_in/" (22029 30505 0 0) "landing.html.rb" "_unverified_surveys_by_region.html.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend/" (22396 22484 0 0) "webpack.config.js" "test/" "src/" "runit.clj" "README.md" "package.json" "node_modules/" "index.html" "build/" "bin/" "AUTHORS" ".nvmrc" ".gitignore" ".git/" ".babelrc" "../" "./")
 
- ("/Users/bion/Documents/" (22025 58860 0 0) "Zoom/" "SoulsofWhiteFolk.pdf" "overheard.mp3" "Hacking_Japanese_Supercourse_-_Version1.1.pdf" "Eyes Nose Teeth d2.pdf" "dejavu-fonts-ttf-2.35/" "Anki/" ".localized" ".DS_Store" "../" "./")
+ ("/Users/bion/dev/synth-frontend/src/" (22396 22942 0 0) "synth-frontend/" "js/" "css/" "cljs.jar" "../" "./")
 
- ("/Users/bion/dev/coasst/spec/controllers/" (22029 30505 0 0) "sessions_controller_spec.rb" "password_resets_controller_spec.rb" "logged_out_controller_spec.rb" "logged_in_controller_spec.rb" "concerns/" "admin/" "accounts_controller_spec.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend/src/js/" (22333 29367 0 0) "util/" "reducers.js" "entry.js" "containers/" "constants.js" "components/" "../" "./")
 
- ("/Users/bion/dev/coasst/config/" (22031 5693 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend/src/js/util/" (22220 60992 0 0) "range_mapper.js" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/verifications/beaches/" (22029 30505 0 0) "index.html.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend/src/js/containers/" (22408 15002 0 0) "patch_app.js" "../" "./")
 
- ("/Users/bion/dev/coasst/app/controllers/verifications/" (22029 30505 0 0) "surveys_controller.rb" "beaches_controller.rb" "base_controller.rb" "../" "./")
+ ("/Users/bion/dev/synth-frontend/src/synth-frontend/" (22408 14985 0 0) "core.cljs" "../" "./")
 
- ("/Users/bion/dev/ko/test/ko/" (22027 24411 0 0) "core_test.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/config/" (22408 8363 0 0) "server_provisioning.txt" "labkit.service" "keys/" "hosts" "deployment.md" "deploy.rb" "deploy/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/assets/stylesheets/" (22031 5693 0 0) "typeahead.scss" "surveys.scss" "partials/" "foundation_and_overrides.scss" "email_ink.css" "email_custom.css" "application.css" "active_admin.css.scss" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/" (22408 4273 0 0) "material_controller_test.js" "lab_kit_method_controller_test.js" "lab_kit_item_controller_test.js" "lab_kit_controller_test.js" "file_controller_test.js" "category_controller_test.js" "../" "./")
 
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/" (22029 35884 0 0) "debris/" "birds.coffee" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/uploads/" (22398 53121 0 0) "f2e99d80bad595f7f6a17b4b35939d89" "eef0a566c11bc5c2555b2330b78ca9ab" "e3aae68b70968321246db762ec396ae3" "d0965d8ae10e1f8e0512400029377591" "c50a77e2fa969875fc75face1902aead" "c45b67342917d648d338e8a625a89379" "be3ac107121160ad61ed9bf7600e89d9" "bcdcfbd5aa01c439ce99d237642244e7" "b1aa4953f572d2407056bf9f4ef13312" "ad958bad1054b7639529256fdfcfd690" "aca79d782d7c7b1f1d0772356fe3ee72" "a54e636d894e2a1129fd9fcef6fcc84d" "9eaa548ed0f2fe01bd58fcb7aa95b1ed" "9e09864dd5301fa9ef5f608b4b4f11a0" "98e7fc4212fa46660a486e0e6fb79b84" "9818467ffcbbb1f9a14dfc727153017f" "927de5522e8834214989dc62b7f8d0b3" "908c993ca9c2e3c3b0bc5861fb023a7e" "8ba709e3a01aefbb8f960a8ad81f3749" "7b8974ad66446f68ec8ae2a45a30899e" "745ad4759c6651b1fba7c66cc1d444a2" "6c73f7cee41407d7c0442c5291baf2e7" "5aea2fd01d0bbdefb6159d66b00de690" "5a2100c9de53addba0b579117c305dc0" "59b0dd435a5111bd78a6db1280d3fa77" "5926b83ec13168f44f7bf0b9c4a94348" "546a56a7ff0ff6c1f2f802590dfdef74" "535f23f5c4a7c56cc0d9575a3d06ce7b" "43bea723b0268faf6fbf025e53f77305" "40bc6eb0793065902913918b22e1bdc9" "3d1ac6523839a404a038775baa4f6383" "38dd97ebe5e7547997128dbcb7d3fcda" "3610f6157a98d345fce7327983f8e5c0" "30852709fa27ed163c540ec0d0ed9208" "1692cc0b360702c6a54e8eefc35c0dc5" "0ea3a65a39e4f2774cfe50fb2477db06" "0912a999a9b32fece01c1647c0e9e355" "010acdf21bb38cf4a7c7a5b458e79538" "../" "./")
 
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/" (22029 48145 0 0) "turnaround.coffee" "start.coffee" "photos.coffee" "mapping.coffee" "data/" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/" (22398 54209 0 0) "new_form.jsx" "new.jsx" "edit_materials.jsx" "edit_form_actions.jsx" "edit_form.jsx" "edit.jsx" "../" "./")
 
- ("/Users/bion/dev/coasst/app/views/verifications/surveys/" (22029 30505 0 0) "index.html.rb" "../" "./")
+ ("/Users/bion/Documents/wed/" (22354 13109 0 0) "guests.rb" "../" "./")
 
- ("/Users/bion/dev/coasst/app/queries/" (22031 10406 0 0) "volunteer_last_survey_info.sql" "unverified_survey_counts.rb" "survey_export_query.rb" "../" "./")
+ ("/Users/bion/Documents/housing/" (22372 20230 0 0) "wishlist" "listings" "lenders.org" "index.html" "housing_costs_breakdown.xlsx" ".git/" "../" "./")
 
- ("/Users/bion/dev/coasst/app/services/" (22031 5693 0 0) "export_surveys.rb" "../" "./")
+ ("/Users/bion/art/withd/test/withd/" (22377 29139 0 0) "synths_test.clj" "../" "./")
 
- ("/Users/bion/.lein/" (22030 8789 0 0) "repl-history" "profiles.clj" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/.git/hooks/" (22360 27756 0 0) "update.sample" "prepare-commit-msg.sample" "pre-rebase.sample" "pre-push.sample" "pre-commit.sample" "pre-applypatch.sample" "post-update.sample" "post-receive" "commit-msg.sample" "applypatch-msg.sample" "../" "./")
 
- ("/Users/bion/dev/cautionary-vigilance/deploy/" (22034 53039 0 0) "supervisor.conf.template" "nginx.conf.template" "local_settings.py.template" "gunicorn.conf.py.template" "crontab.template" "../" "./")
+ ("/Users/bion/.lein/" (22398 39491 0 0) "self-installs/" "repl-history" "profiles.clj" "../" "./")
 
- ("/Users/bion/python_envs/" (22034 49990 0 0) "prermvirtualenv" "premkvirtualenv" "premkproject" "predeactivate" "preactivate" "postrmvirtualenv" "postmkvirtualenv" "postmkproject" "postdeactivate" "postactivate" "initialize" "get_env_details" "cv/" "../" "./")
+ ("/Users/bion/hiring/" (22368 32959 0 0) "soccer_league_exercise/" "react-soccer/" ".DS_Store" "../" "./")
 
- ("/Users/bion/python_envs/cv/" (22034 50065 0 0) "pip-selfcheck.json" "lib/" "include/" "bin/" ".Python" "../" "./")
+ ("/Users/bion/Pictures/stupid/" (22405 11660 0 0) "well-actually.jpg" "toilet_placement.gif" "this_is_fine.jpg" "The_more_you_know_banner.jpg" "someone_else_do_it.jpg" "shave_a_yak.jpg" "scared-cat-masked-dog.gif" "programmed_for_fun.gif" "penguin-jam.gif" "ooooooh.gif" "oldenburg-with-toothpaste.jpg" "nuts_and_gum.jpg" "nothing-is-true.jpg" "never_go_camping.png" "mymachine.jpeg" "move-goal-post.jpg" "lunch.jpg" "ignoring_deprecation_warnings.jpg" "humpty.gif" "happy-penguin.jpg" "go_down_with_the_ship.gif" "electronic-music.gif" "eat-taco.gif" "delete-my-browser-history.jpg" "david-arora-morels.jpg" "cash-cannon.png" "butts.gif" "buscemi.jpg" "bigthumb.png" "big-room.jpg" "because_computer.jpg" ".DS_Store" "../" "./")
 
- ("/Users/bion/python_envs/cv/bin/" (22034 50206 0 0) "wheel" "viewer.pyc" "viewer.py" "thresholder.pyc" "thresholder.py" "python2.7" "python2" "python" "predeactivate" "preactivate" "postdeactivate" "postactivate" "player.pyc" "player.py" "pip2.7" "pip2" "pip" "pilprint.pyc" "pilprint.py" "pilfont.pyc" "pilfont.py" "pilfile.pyc" "pilfile.py" "pildriver.pyc" "pildriver.py" "pilconvert.pyc" "pilconvert.py" "pasteurize" "painter.pyc" "painter.py" "mezzanine-project" "gifmaker.pyc" "gifmaker.py" "get_env_details" "futurize" "explode.pyc" "explode.py" "enhancer.pyc" "enhancer.py" "easy_install-2.7" "easy_install" "django-admin.pyc" "django-admin.py" "django-admin" "createfontdatachunk.pyc" "createfontdatachunk.py" "chardetect" "activate_this.py" "activate.fish" "activate.csh" "activate" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/server/validators/" (22406 47910 0 0) "user_validator.js" "material_validator.js" "lab_kit_validator.js" "lab_kit_method_validator.js" "lab_kit_item_validator.js" "file_validator.js" "custom_validators.js" "category_validator.js" "../" "./")
 
- ("/Users/bion/python_envs/cv-env/bin/" (22034 49099 0 0) "wheel" "viewer.pyc" "viewer.py" "thresholder.pyc" "thresholder.py" "python2.7" "python2" "python" "predeactivate" "preactivate" "postdeactivate" "postactivate" "player.pyc" "player.py" "pip2.7" "pip2" "pip" "pilprint.pyc" "pilprint.py" "pilfont.pyc" "pilfont.py" "pilfile.pyc" "pilfile.py" "pildriver.pyc" "pildriver.py" "pilconvert.pyc" "pilconvert.py" "pasteurize" "painter.pyc" "painter.py" "mezzanine-project" "gifmaker.pyc" "gifmaker.py" "get_env_details" "futurize" "explode.pyc" "explode.py" "enhancer.pyc" "enhancer.py" "easy_install-2.7" "easy_install" "django-admin.pyc" "django-admin.py" "django-admin" "createfontdatachunk.pyc" "createfontdatachunk.py" "chardetect" "activate_this.py" "activate.fish" "activate.csh" "activate" "../" "./")
+ ("/Users/bion/dev/deloitte-lab-kit/test/models/" (22406 47910 0 0) "user_test.js" "material_test.js" "lab_kit_test.js" "lab_kit_method_test.js" "lab_kit_item_test.js" "category_test.js" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

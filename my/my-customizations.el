@@ -18,6 +18,7 @@
  '(bookmark-default-file "~/.emacs.d/my/my-bookmarks.el")
  '(buffer-offer-save t)
  '(clean-buffer-list-delay-general 1)
+ '(clojure-use-backtracking-indent t)
  '(column-highlight-mode t)
  '(column-number-mode t)
  '(compilation-ask-about-save nil)
@@ -46,7 +47,7 @@
  '(global-auto-complete-mode t)
  '(global-auto-revert-mode t)
  '(global-auto-revert-non-file-buffers t)
- '(global-highline-mode t)
+ '(global-hl-line-mode t)
  '(global-linum-mode nil)
  '(global-visible-mark-mode t)
  '(global-whitespace-mode nil)
@@ -60,7 +61,6 @@
  '(grep-template "grep <X> <C> -nH -e <R> <F>")
  '(grep-use-null-device nil)
  '(highlight-indentation-offset 2)
- '(highline-selected-window t)
  '(hippie-expand-try-functions-list
    (quote
     (try-complete-file-name-partially try-complete-file-name try-expand-all-abbrevs try-expand-list try-expand-line try-expand-dabbrev try-expand-dabbrev-all-buffers try-expand-dabbrev-from-kill try-complete-lisp-symbol-partially try-complete-lisp-symbol)))
@@ -89,8 +89,10 @@
  '(js2-auto-indent-p nil)
  '(js2-basic-offset 2)
  '(js2-bounce-indent-p t)
+ '(js2-indent-switch-body t)
  '(js2-mirror-mode nil)
  '(js2-missing-semi-one-line-override t)
+ '(js2-pretty-multiline-declarations nil)
  '(js2-strict-missing-semi-warning nil)
  '(js2-strict-trailing-comma-warning nil)
  '(kill-ring-max 1000)
@@ -108,6 +110,9 @@
  '(mumamo-chunk-coloring 10)
  '(nxml-child-indent 2)
  '(nxml-outline-child-indent 2)
+ '(package-selected-packages
+   (quote
+    (clojure-mode json-mode js2-highlight-vars js2-mode magit)))
  '(package-user-dir "~/.emacs.d/packages")
  '(proced-auto-update-flag t)
  '(proced-auto-update-interval 1)
@@ -138,6 +143,7 @@
  '(term-default-fg-color "#FFFFFF")
  '(term-unbind-key-list (quote ("C-z" "C-x" "C-c" "C-h" "C-l" "<ESC>")))
  '(text-mode-hook (quote (turn-on-auto-fill text-mode-hook-identify)))
+ '(tls-checktrust nil)
  '(transient-mark-mode t)
  '(uniquify-buffer-name-style (quote forward) nil (uniquify))
  '(vc-handled-backends (quote (RCS CVS SVN SCCS Bzr Hg Mtn Arch)))
@@ -180,6 +186,7 @@
  '(fringe ((t (:background "black"))))
  '(mode-line ((t (:background "#a5baf1" :foreground "black"))))
  '(isearch ((t (:background "#555" :foreground "#77f"))))
+ '(js2-function-param ((t (:foreground "green"))))
  '(default ((t (:inherit nil
                 :stipple nil
                 :background "Black"
@@ -200,8 +207,6 @@
  '(italic ((((supports :slant italic)) (:slant italic)) (((supports :underline t)) (:underline t)) (t (:slant italic))))
  '(underline ((((supports :underline t)) (:underline t)) (((supports :weight bold)) (:weight bold)) (t (:underline t))))
  '(linum ((t (:background "#272821" :foreground "White")))))
-
-(set-face-background 'highline-face "#272821")
 
 (provide-theme 'vivid-chalk)
 (custom-set-faces

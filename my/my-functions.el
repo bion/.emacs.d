@@ -286,6 +286,16 @@ uses pp if there is a prefix argument"
   (let ((command (concat "~sampleBuffer.value(\"" path "\")")))
     (sclang-eval-string command)))
 
+(defun endless/visit-pull-request-url ()
+  "Visit the current branch's PR on Github."
+  (interactive)
+  (browse-url (format "https://github.com/%s/pull/new/%s"
+                      (replace-regexp-in-string "\\`.+github\\.com:\\(.+\\)\\.git\\'" "\\1"
+                                                (magit-get "remote"
+                                                           (magit-get-push-remote)
+                                                           "url"))
+                      (magit-get-current-branch))))
+
 ;; (defun dired-overtone-preview-waveform ()
 ;;  (interactive)
 ;;  (overtone-preview-waveform (dired-get-filename)))

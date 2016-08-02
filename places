@@ -1,542 +1,616 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/bion/dev/coasst/spec/integration/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/integration/.."))
- ("/Users/bion/dev/coasst/spec/controllers/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/controllers/admin"))
- ("/Users/bion/dev/coasst/spec/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/controllers"))
- ("/Users/bion/dev/coasst/spec/controllers/admin/" . 269)
- ("/Users/bion/dev/coasst/app/views/admin/admin/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/admin/admin/index.html.rb"))
- ("/Users/bion/dev/coasst/app/views/admin/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/admin/beaches"))
- ("/Users/bion/dev/coasst/app/views/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/admin"))
- ("/Users/bion/dev/coasst/app/views/active_admin/volunteers/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/active_admin/volunteers/.."))
- ("/Users/bion/dev/coasst/app/views/active_admin/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/active_admin/metrics"))
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_evidence_form.html" . 11)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_evidence_listing.html" . 1350)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_issue_form.html" . 107)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/forms.py" . 538)
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/_settings.scss" . 56215)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/index.html" . 2397)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/show.html" . 3432)
- ("/Users/bion/dev/coasst/app/controllers/admin/"
-	(dired-filename . "/Users/bion/dev/coasst/app/controllers/admin/.."))
- ("/Users/bion/dev/coasst/config/routes.rb" . 782)
- ("/Users/bion/dev/coasst/app/views/surveys/index.html.rb" . 409)
- ("/Users/bion/dev/coasst/app/views/surveys/start/edit.html.rb" . 2206)
- ("/Users/bion/dev/coasst/app/views/surveys/participants.html.rb" . 3471)
- ("/Users/bion/dev/coasst/app/controllers/surveys/base_controller.rb" . 368)
- ("/Users/bion/dev/coasst/app/policies/survey_policy.rb" . 402)
- ("/Users/bion/dev/coasst/app/controllers/surveys/start_controller.rb" . 397)
- ("/Users/bion/dev/coasst/app/controllers/surveys/" . 806)
- ("/Users/bion/dev/coasst/lib/"
-	(dired-filename . "/Users/bion/dev/coasst/lib/.."))
- ("/Users/bion/dev/coasst/app/admin/" . 1141)
- ("/Users/bion/dev/coasst/"
-	(dired-filename . "/Users/bion/dev/coasst/app"))
- ("/Users/bion/dev/coasst/app/"
-	(dired-filename . "/Users/bion/dev/coasst/app/lib"))
- ("/Users/bion/dev/coasst/app/lib/"
-	(dired-filename . "/Users/bion/dev/coasst/app/lib/admin"))
- ("/Users/bion/dev/coasst/app/lib/admin/"
-	(dired-filename . "/Users/bion/dev/coasst/app/lib/admin/.."))
- ("/Users/bion/dev/coasst/config/application.rb" . 1676)
- ("/Users/bion/dev/coasst/app/lib/admin/volunteer_params.rb" . 1494)
- ("/Users/bion/dev/coasst/spec/integration/volunteer_profile_spec.rb" . 4752)
- ("/Users/bion/dev/cautionary-vigilance/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static"))
+(("/Users/bion/dev/ko/"
+	(dired-filename . "/Users/bion/dev/ko/project.clj"))
+ ("/Users/bion/art/withd/"
+	(dired-filename . "/Users/bion/art/withd/src"))
+ ("/Users/bion/dev/hero_scope/db/migrate/"
+	(dired-filename . "/Users/bion/dev/hero_scope/db/migrate/20140715013742_create_comments.rb"))
+ ("/Users/bion/dev/hero_scope/app/stencils/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/stencils/comments_statistics_stencil.html.haml"))
+ ("/Users/bion/dev/hero_scope/spec/acceptance/"
+	(dired-filename . "/Users/bion/dev/hero_scope/spec/acceptance/quality_review_creation_spec.rb"))
+ ("/Users/bion/dev/hero_scope/app/models/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/models/quality_review.rb"))
+ ("/Users/bion/dev/hero_scope/app/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/controllers"))
+ ("/Users/bion/dev/hero_scope/app/controllers/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/controllers/admin"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/api_request.js" . 835)
+ ("/Users/bion/dev/hero_scope/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app"))
+ ("/Users/bion/dev/hero_scope/app/views/quality_reviews/new.html.haml" . 207)
+ ("/Users/bion/dev/hero_scope/spec/models/quality_review_spec.rb" . 50)
+ ("/Users/bion/dev/hero_scope/spec/models/"
+	(dired-filename . "/Users/bion/dev/hero_scope/spec/models/quality_review_spec.rb"))
+ ("/Users/bion/dev/hero_scope/spec/"
+	(dired-filename . "/Users/bion/dev/hero_scope/spec/acceptance"))
+ ("/Users/bion/dev/hero_scope/spec/acceptance/quality_review_creation_spec.rb" . 526)
+ ("/Users/bion/dev/hero_scope/app/assets/stylesheets/_home.css.sass" . 152)
+ ("/Users/bion/dev/hero_scope/app/assets/stylesheets/_reviews.css.sass" . 282)
+ ("/Users/bion/dev/hero_scope/app/assets/stylesheets/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/assets/stylesheets/_page.css.sass"))
+ ("/Users/bion/dev/hero_scope/app/assets/stylesheets/_page.css.sass" . 294)
+ ("/Users/bion/dev/hero_scope/app/interactions/quality_review_creator.rb" . 116)
+ ("/Users/bion/dev/hero_scope/app/controllers/quality_reviews_controller.rb" . 844)
+ ("/Users/bion/dev/hero_scope/Gemfile" . 813)
+ ("/Users/bion/dev/hero_scope/app/queries/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/queries/comment_statistics_query.rb"))
+ ("/Users/bion/dev/hero_scope/app/queries/comment_statistics_query.rb" . 126)
+ ("/Users/bion/dev/hero_scope/app/views/admin/comments/show.html.haml" . 235)
+ ("/Users/bion/dev/hero_scope/app/views/admin/comments/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/views/admin/comments/index.html.haml"))
+ ("/Users/bion/dev/hero_scope/app/controllers/admin/comments_controller.rb" . 420)
+ ("/Users/bion/dev/hero_scope/app/stencils/comments_statistics_stencil.rb" . 213)
+ ("/Users/bion/dev/hero_scope/app/stencils/comments_statistics_stencil.html.haml" . 79)
+ ("/Users/bion/dev/hero_scope/db/migrate/20140715013742_create_comments.rb" . 95)
+ ("/Users/bion/dev/hero_scope/app/queries/random_comment_for_quality_review_query.rb" . 160)
+ ("/Users/bion/dev/hero_scope/app/models/comment.rb" . 59)
+ ("/Users/bion/dev/hero_scope/app/views/admin/comments/index.html.haml" . 69)
+ ("/Users/bion/dev/hero_scope/app/views/layouts/_navbar.html.haml" . 307)
+ ("/Users/bion/dev/hero_scope/app/scopes/comment_scopes.rb" . 376)
+ ("/Users/bion/dev/hero_scope/app/models/quality_review.rb" . 83)
+ ("/Users/bion/dev/hero_scope/app/views/concern_reviews/_form.html.haml" . 319)
+ ("/Users/bion/dev/hero_scope/app/views/concern_reviews/new.html.haml" . 639)
+ ("/Users/bion/dev/hero_scope/app/views/concern_reviews/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/views/concern_reviews/new.html.haml"))
+ ("/Users/bion/dev/hero_scope/app/views/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/views/quality_reviews"))
+ ("/Users/bion/dev/hero_scope/app/views/quality_reviews/"
+	(dired-filename . "/Users/bion/dev/hero_scope/app/views/quality_reviews/_form.html.haml"))
+ ("/Users/bion/dev/hero_scope/app/views/quality_reviews/_form.html.haml" . 957)
+ ("/Users/bion/dev/hero_scope/app/views/home/index.html.haml" . 431)
+ ("/Users/bion/dev/ko/project.clj" . 441)
+ ("/Users/bion/art/withd/project.clj" . 265)
+ ("/Users/bion/art/withd/src/withd/util.clj" . 57)
+ ("/Users/bion/art/withd/src/withd/"
+	(dired-filename . "/Users/bion/art/withd/src/withd/synths.clj"))
+ ("/Users/bion/dev/ko/src/"
+	(dired-filename . "/Users/bion/dev/ko/src/ko"))
+ ("/Users/bion/dev/ko/src/ko/"
+	(dired-filename . "/Users/bion/dev/ko/src/ko/curve.clj"))
+ ("/Users/bion/art/withd/src/withd/cgens.clj" . 134)
+ ("/Users/bion/dev/ko/src/ko/curve.clj" . 110)
+ ("/Users/bion/art/withd/src/withd/synths.clj" . 1578)
+ ("/Users/bion/dev/ko/src/ko/gesture.clj" . 180)
+ ("/Users/bion/dev/ko/test/ko/acceptance_test.clj" . 209)
+ ("/Users/bion/src/overtone/"
+	(dired-filename . "/Users/bion/src/overtone/.git"))
+ ("/Users/bion/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:clojure/core.clj" . 113296)
+ ("/Users/bion/src/overtone/src/overtone/sc/defcgen.clj" . 10228)
+ ("/Users/bion/.emacs.d/recentf" . 71247)
+ ("/Users/bion/.emacs.d/url/cookies" . 231)
+ ("/Users/bion/dev/ko/src/ko/core.clj" . 73)
+ ("/Users/bion/http" . 36)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/server_unreachable_modal.jsx" . 434)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/user_sessions.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/public/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/public/favicon.ico"))
+ ("/Users/bion/dev/deloitte-lab-kit/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/public"))
+ ("/Users/bion/dev/deloitte-lab-kit/build/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/build/favicon.ico"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/show.jsx" . 7653)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/index.jsx"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/admin_index.jsx" . 771)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/report_errors.js" . 346)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/middleware/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/middleware/sitecatalyst_tracking.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/store.jsx" . 215)
+ ("/Users/bion/dev/deloitte-lab-kit/.eslintrc.js" . 266)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/index.js" . 862)
+ ("/Users/bion/dev/deloitte-lab-kit/build/rev-manifest.json" . 272)
+ ("/Users/bion/dev/deloitte-lab-kit/install_deps" . 1022)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/middleware/sitecatalyst_tracking.js" . 374)
+ ("/Users/bion/dev/deloitte-lab-kit/webpack.config.js" . 604)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/application.jsx" . 178)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts"))
+ ("/Users/bion/dev/deloitte-lab-kit/views/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/views/index.pug"))
+ ("/Users/bion/dev/deloitte-lab-kit/.gitignore" . 144)
+ ("/Users/bion/dev/deloitte-lab-kit/server/app.js" . 62)
+ ("/Users/bion/dev/deloitte-lab-kit/server/server.js" . 297)
+ ("/Users/bion/dev/deloitte-lab-kit/server/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/config"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/config/server.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/server.js" . 837)
+ ("/Users/bion/dev/deloitte-lab-kit/vendor.webpack.config.js" . 365)
+ ("/Users/bion/dev/deloitte-lab-kit/views/index.pug" . 432)
+ ("/Users/bion/dev/deloitte-lab-kit/.eslintignore" . 57)
+ ("/Users/bion/dev/deloitte-lab-kit/gulpfile.js" . 3811)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/handle_auth.jsx" . 1069)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/dashboard.js" . 172)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/favorites.js" . 1788)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/fetch_categories.js" . 7)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/lab_kit_items.js" . 2769)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/lab_kit_methods.js" . 7)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/lab_kit_methods_index.js" . 408)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/lab_kits.js" . 7)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/materials.js" . 7)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/user_sessions.js" . 9)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/session.js" . 2336)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/session.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/routes/server.js" . 612)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/lab_kit_form_modal.jsx" . 1875)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/server_unreachable_modal.jsx"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/index.js" . 562)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/actions/modal.js" . 286)
  ("/Users/bion/.emacs.d/"
 	(dired-filename . "/Users/bion/.emacs.d/my"))
  ("/Users/bion/.emacs.d/my/"
-	(dired-filename . "/Users/bion/.emacs.d/my/my-settings.el"))
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/index.html" . 2822)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/urls.py" . 302)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/views.py" . 1739)
- ("/Users/bion/.emacs.d/my/my-settings.el" . 987)
- ("/Users/bion/.emacs.d/recentf" . 44870)
- ("/usr/local/Cellar/emacs-mac/emacs-24.5-z-mac-5.8/share/emacs/24.5/etc/NEWS" . 157)
- ("/Users/bion/dev/ko/src/ko/core.clj" . 206)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/models.py" . 1422)
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation.scss" . 197)
- ("/Users/bion/dev/cautionary-vigilance/static/fonts/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/fonts/Montserrat-Black.otf"))
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/_type.scss" . 7705)
- ("/Users/bion/dev/cautionary-vigilance/templates/_log_in_required_modal.html" . 348)
- ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/settings.py" . 2112)
- ("/Users/bion/dev/cautionary-vigilance/static/app.js" . 265)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/_issue_curator_actions.html" . 706)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues/show.html"))
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/issues"))
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp"))
- ("/Users/bion/dev/cautionary-vigilance/cvapp/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/__init__.pyc"))
- ("/Users/bion/dev/cautionary-vigilance/static/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/images"))
- ("/Users/bion/dev/cautionary-vigilance/static/images/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/images/oval-activity.png"))
- ("/Users/bion/dev/cautionary-vigilance/templates/_account_bar.html" . 41)
- ("/Users/bion/dev/cautionary-vigilance/templates/_top_bar.html" . 147)
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/_fonts.scss" . 315)
- ("/Users/bion/dev/cautionary-vigilance/templates/signup.html" . 1033)
- ("/Users/bion/dev/cautionary-vigilance/Procfile" . 66)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/index.html" . 102)
- ("/Users/bion/dev/cautionary-vigilance/templates/base.html" . 1466)
- ("/Users/bion/dev/cautionary-vigilance/static/app.css" . 1628)
- ("/Users/bion/"
-	(dired-filename . "/Users/bion/keysnail.xpi"))
- ("/Users/bion/dev/ko/src/ko/synth_defs/single_signal.clj" . 326)
- ("/Users/bion/.emacs.d/my/my-autoloads.el" . 449)
- ("/Users/bion/dev/ko/src/ko/scheduling.clj" . 2021)
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/_reveal.scss" . 6744)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/migrations/__init__.py"))
- ("/Users/bion/src/overtone/src/overtone/helpers/sc_lang.clj" . 3033)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0009_evidence_reference_date.py" . 560)
- ("/Users/bion/dev/cautionary-vigilance/templates/account/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/templates/account/.."))
- ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/urls.py" . 722)
+	(dired-filename . "/Users/bion/.emacs.d/my/my-add-to-lists.el"))
+ ("/Users/bion/.emacs.d/my/my-add-to-lists.el" . 897)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/selectors.js" . 846)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/session_reducer.js" . 197)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/app.jsx" . 433)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/modal_reducer.js" . 307)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/new.jsx" . 712)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/show.jsx" . 9144)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/side_navigation.jsx" . 269)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/lab_kit_method_reducer.js" . 5067)
+ ("/Users/bion/dev/deloitte-lab-kit/README.md" . 907)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/lab_kit_reducer.js" . 3805)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/lab_kit_method_reducer.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/home_page_spec.rb" . 581)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/lab_kit_method_card.sass" . 914)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/lab_kit_method.jsx" . 1868)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_methods/lab_kit_method_card.jsx" . 654)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/dimensions.sass" . 205)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/report_navigation.js" . 330)
+ ("/Users/bion/Downloads/Bion_Johnson_Resume.html" . 19908)
+ ("/Users/bion/.emacs.d/packages/web-mode-20160717.1201/web-mode-autoloads.el" . 354)
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/lib/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/lib/genofficetable.js"))
+ ("/Users/bion/dev/global-iq/"
+	(dired-filename . "/Users/bion/dev/global-iq/Gemfile"))
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/tmp"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/spec/integration"))
+ ("/Users/bion/dev/superdelegation/app/views/layouts/application.html.rb" . 268)
+ ("/Users/bion/Documents/wed/guests.rb" . 1422)
+ ("/Users/bion/dev/ko/src/ko/score.clj" . 6367)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/user.js" . 256)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/factories/users.rb" . 192)
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/routes/passport.js" . 1424)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/dashboard_reducer.js" . 696)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/main_navigation.jsx" . 276)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/create_kit_spec.rb" . 619)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/add_methods_to_lab_kit_spec.rb" . 1713)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/factories/lab_kit_items.rb" . 293)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/lab_kit.js" . 592)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/models/lab_kit_item.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/lab_kit_item.js" . 358)
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/file_controller.js" . 334)
+ ("/Users/bion/dev/deloitte-lab-kit/package.json" . 1926)
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/routes/manifest.js" . 1656)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/duration.js" . 629)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/lab_kit_total_duration.js" . 212)
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/lib/genpptx.js" . 44686)
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/officegen/lib/genofficetable.js" . 1429)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/cookies.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/constants.js" . 2149)
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/lab_kit_method_controller.js" . 3328)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/app_routes.jsx" . 1174)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/cookies.js" . 59)
+ ("/Users/bion/dev/global-iq/Gemfile" . 58)
+ ("/Users/bion/dev/ko/src/ko/scheduling.clj" . 815)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/edit_materials.jsx" . 6221)
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/selectors_test.js" . 1366)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/lab_kit_method_index_reducer.js" . 261)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/listing_lab_kit_methods.rb" . 763)
  ("/Users/bion/dev/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance"))
- ("/Users/bion/dev/cautionary-vigilance/templates/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/templates/.."))
- ("/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cvapp/templates/cvapp/discussions/.."))
- ("/Users/bion/dev/cautionary-vigilance/README.md" . 699)
- ("/Users/bion/dev/cautionary-vigilance/manage.py" . 264)
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation.scss"))
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss"))
- ("/Users/bion/dev/cautionary-vigilance/static/CACHE/.gitignore" . 3)
- ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/.."))
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/components/.."))
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/scss/foundation/.."))
- ("/Users/bion/dev/cautionary-vigilance/static/CACHE/css/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/CACHE/css/.."))
- ("/Users/bion/dev/cautionary-vigilance/static/CACHE/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/CACHE/.."))
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/css/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/css/.."))
- ("/Users/bion/dev/cautionary-vigilance/cautionary_vigilance/wsgi.py" . 466)
- ("/Users/bion/.emacs.d/my/my-functions.el" . 8993)
- ("/Users/bion/.emacs.d/my/my-keybindings.el" . 240)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/management/commands/compile_scss.py" . 275)
- ("/Users/bion/dev/cautionary-vigilance/.gitignore" . 48)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0004_debate.py" . 1053)
- ("/Users/bion/dev/ko/src/ko/gestures/single_signal.clj" . 862)
- ("/Users/bion/dev/ko/src/ko/gesture.clj" . 624)
- ("/Users/bion/src/overtone/"
-	(dired-filename . "/Users/bion/src/overtone/.git"))
- ("/Users/bion/src/overtone/project.clj" . 3072)
- ("/Users/bion/src/overtone/src/overtone/helpers/lib.clj" . 12425)
- ("/Users/bion/src/overtone/src/overtone/sc/synth.clj" . 12261)
- ("/Users/bion/src/overtone/src/overtone/libs/app_icon.clj" . 364)
- ("/Users/bion/dev/cautionary-vigilance/staticfiles.json" . 8025)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0008_auto_20151009_1656.py" . 325)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0007_issue_photo_url.py" . 310)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0001_initial.py" . 992)
- ("/Users/bion/src/overtone/docs/cheatsheet/overtone-cheat-sheet.tex" . 9250)
- ("/Users/bion/dev/cautionary-vigilance/cvapp/migrations/0005_auto_20151008_2252.py" . 545)
- ("/Users/bion/dev/foo" . 2670)
- ("/Users/bion/dev/cautionary-vigilance/static/admin/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/admin/css"))
- ("/Users/bion/dev/cautionary-vigilance/static/foundation/js/"
-	(dired-filename . "/Users/bion/dev/cautionary-vigilance/static/foundation/js/foundation"))
- ("/Users/bion/dev/cautionary-vigilance/static/js/" . 195)
- ("/Users/bion/src/overtone/src/overtone/protocols.clj" . 2979)
- ("/Users/bion/dev/soundfyle/public/javascripts/"
-	(dired-filename . "/Users/bion/dev/soundfyle/public/javascripts/jquery-1.11.13.min.js"))
- ("/Users/bion/dev/soundfyle/Procfile" . 20)
- ("/Users/bion/dev/soundfyle/views/"
-	(dired-filename . "/Users/bion/dev/soundfyle/views/index.jade"))
- ("/Users/bion/dev/soundfyle/Gruntfile.js" . 471)
- ("/Users/bion/dev/soundfyle/package.json" . 287)
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/molecules/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/molecules/file_input.sass"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/labels.sass"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/mixins/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/mixins/colors.sass"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/animation.sass" . 2)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/colors.scss"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/colors.scss" . 660)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/mixins/colors.sass" . 263)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/filter_categories.sass" . 32)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/buttons.sass" . 601)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/lab_kit_detail.sass"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/lab_kit_methods_index.sass" . 80)
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/reducers/lab_kit_method_reducer_test.js" . 7518)
+ ("/Users/bion/art/withd/src/"
+	(dired-filename . "/Users/bion/art/withd/src/withd"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/controllers/category_controller.js"))
+ ("/Users/bion/dev/racial-justice-site/index.html" . 653)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/lab_kit_controller_test.js" . 6792)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/node_server.rb" . 477)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/spec_helper.rb" . 587)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/spec/support/capybara.rb"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/upload_image_spec.rb" . 520)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/capybara.rb" . 263)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/add_method_to_kit_form_modal.jsx" . 2921)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/path_helpers.rb" . 295)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modal_root.jsx" . 467)
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/category_controller.js" . 229)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/modals/add_activity_to_kit_form_modal.jsx" . 3003)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/index.jsx" . 904)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/index.jsx"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_items/lab_kit_item_list.jsx" . 755)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_items/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_items/lab_kit_item_list.jsx"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/materials_list.jsx" . 254)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/summary_header.sass" . 1094)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/edit.jsx" . 2115)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/horizontal_rules.sass" . 314)
+ ("/Users/bion/Documents/"
+	(dired-filename . "/Users/bion/Documents/investments"))
+ ("/Users/bion/Documents/investments/"
+	(dired-filename . "/Users/bion/Documents/investments/to_read.org"))
+ ("/Users/bion/Documents/investments/to_read.org" . 31)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/view_kit_spec.rb" . 1949)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/molecules/markdown.sass" . 713)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/markdown.jsx" . 350)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/lab_kits.sass" . 322)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/dashboard.jsx" . 721)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/side_navigation.sass" . 1121)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/lab_kit.jsx" . 667)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kits/lab_kit_list.jsx" . 247)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/starter_kits/index.jsx" . 815)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/starter_kits/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/starter_kits/index.jsx"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_items/lab_kit_item.jsx" . 1996)
+ ("/Users/bion/dev/deloitte-lab-kit/bin/check_build" . 93)
+ ("/Users/bion/dev/prez/index.html" . 2180)
+ ("/Users/bion/dev/prez/"
+	(dired-filename . "/Users/bion/dev/prez/index.html"))
+ ("/Users/bion/dev/superdelegation/"
+	(dired-filename . "/Users/bion/dev/superdelegation/app"))
+ ("/Users/bion/dev/racial-justice-site/"
+	(dired-filename . "/Users/bion/dev/racial-justice-site/index.html"))
+ ("/Users/bion/dev/superdelegation/app/assets/"
+	(dired-filename . "/Users/bion/dev/superdelegation/app/assets/stylesheets"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/factories/lab_kit_methods.rb" . 145)
+ ("/Users/bion/dev/drum-engine/src/drum_engine/gui.clj" . 1883)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/dashboard.sass" . 143)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/organisms/main_navigation.sass" . 237)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/seeds/seeds.js" . 3304)
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/application.js" . 1491)
+ ("/Users/bion/dev/superdelegation/app/assets/stylesheets/_settings.scss" . 989)
+ ("/Users/bion/dev/drum-engine/"
+	(dired-filename . "/Users/bion/dev/drum-engine/src"))
+ ("/Users/bion/dev/drum-engine/test/"
+	(dired-filename . "/Users/bion/dev/drum-engine/test/drum_engine"))
+ ("/Users/bion/dev/drum-engine/test/drum_engine/"
+	(dired-filename . "/Users/bion/dev/drum-engine/test/drum_engine/core_test.clj"))
+ ("/Users/bion/dev/drum-engine/test/drum_engine/core_test.clj" . 111)
+ ("/Users/bion/dev/drum-engine/src/"
+	(dired-filename . "/Users/bion/dev/drum-engine/src/drum_engine"))
+ ("/Users/bion/dev/drum-engine/src/drum_engine/pad_sample_seeds.clj" . 584)
+ ("/Users/bion/dev/drum-engine/src/drum_engine/core.clj" . 305)
+ ("/Users/bion/dev/drum-engine/src/drum_engine/"
+	(dired-filename . "/Users/bion/dev/drum-engine/src/drum_engine/storage.clj"))
+ ("/Users/bion/dev/drum-engine/src/drum_engine/play.clj" . 212)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/factories/lab_kits.rb" . 119)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/create_material_spec.rb" . 1490)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/lab_kit_items/lab_kit_activity.jsx" . 1556)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/icon.jsx" . 75)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/image_upload.jsx" . 396)
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/lab_kit_item_controller.js" . 244)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/lab_kit_item_controller_test.js" . 1080)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/models/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/spec/support/models/lab_kit_item.rb"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/models/lab_kit_item.rb" . 61)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/models/lab_kit.rb" . 54)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160418140219_create_users.js" . 250)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160715140323_add_is_starter_kit_col_to_lab_kits.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160715140323_add_is_starter_kit_col_to_lab_kits.js" . 144)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/show_method_spec.rb" . 1187)
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/routes/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/config/routes/manifest.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/deleting_pdf_spec.rb" . 23)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/wait_for_ajax.rb" . 227)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/lab_kit_method_controller_test.js" . 1550)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/controllers/file_controller_test.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/test/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/controllers"))
+ ("/Users/bion/dev/deloitte-lab-kit/config/deployment.md" . 838)
+ ("/Users/bion/dev/synth-frontend/src/js/util/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src/js/util/range_mapper.js"))
+ ("/Users/bion/dev/synth-frontend/src/synth-frontend/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src/synth-frontend/core.cljs"))
+ ("/Users/bion/dev/synth-frontend/src/synth-frontend/core.cljs" . 95)
+ ("/Users/bion/dev/synth-frontend-om/src/"
+	(dired-filename . "/Users/bion/dev/synth-frontend-om/src/synth_frontend_om"))
+ ("/Users/bion/dev/synth-frontend/node_modules/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/node_modules/.bin"))
+ ("/Users/bion/dev/synth-frontend-om/src/synth_frontend_om/"
+	(dired-filename . "/Users/bion/dev/synth-frontend-om/src/synth_frontend_om/core.cljs"))
+ ("/Users/bion/dev/synth-frontend/src/js/containers/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src/js/containers/patch_app.js"))
+ ("/Users/bion/dev/synth-frontend/src/js/components/options_selector.js" . 450)
+ ("/Users/bion/dev/synth-frontend/src/js/containers/patch_app.js" . 496)
+ ("/Users/bion/dev/synth-frontend/src/js/components/range_selector.js" . 511)
+ ("/Users/bion/dev/synth-frontend/src/js/components/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src/js/components/options_selector.js"))
+ ("/Users/bion/dev/synth-frontend/src/js/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src/js/components"))
+ ("/Users/bion/dev/synth-frontend/src/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src/js"))
+ ("/Users/bion/dev/synth-frontend/"
+	(dired-filename . "/Users/bion/dev/synth-frontend/src"))
+ ("/Users/bion/dev/synth-frontend-om/src/synth_frontend_om/core.cljs" . 1748)
+ ("/Users/bion/dev/synth-frontend-om/"
+	(dired-filename . "/Users/bion/dev/synth-frontend-om/src"))
  ("/Users/bion/dev/soundfyle/"
-	(dired-filename . "/Users/bion/dev/soundfyle/app"))
- ("/Users/bion/dev/soundfyle/app/"
-	(dired-filename . "/Users/bion/dev/soundfyle/app/index.js"))
- ("/Users/bion/dev/soundfyle/public/"
-	(dired-filename . "/Users/bion/dev/soundfyle/public/stylesheets"))
- ("/Users/bion/dev/soundfyle/public/stylesheets/"
-	(dired-filename . "/Users/bion/dev/soundfyle/public/stylesheets/style.css"))
- ("/Users/bion/dev/soundfyle/public/javascripts/recorder.js" . 22)
- ("/Users/bion/dev/soundfyle/public/javascripts/index.js" . 1595)
- ("/Users/bion/dev/soundfyle/app/index.js" . 368)
- ("/Users/bion/dev/soundfyle/views/index.jade" . 348)
- ("/Users/bion/dev/ko/src/ko/gestures/"
-	(dired-filename . "/Users/bion/dev/ko/src/ko/gestures/single_signal.clj"))
- ("/Users/bion/dev/ko/src/ko/"
-	(dired-filename . "/Users/bion/dev/ko/src/ko/gesture.clj"))
- ("/Users/bion/.emacs.d/packages/jade-mode-20150801.944/jade-mode-autoloads.el" . 428)
- ("/Users/bion/.emacs.d/packages/django-mode-20150207.517/django-mode-autoloads.el" . 1016)
- ("/Users/bion/.keysnail.js" . 9282)
- ("/Users/bion/.zshrc" . 2349)
- ("/Users/bion/python_envs/"
-	(dired-filename . "/Users/bion/python_envs/cv"))
- ("/Users/bion/python_envs/cv/"
-	(dired-filename . "/Users/bion/python_envs/cv/bin"))
- ("/Users/bion/python_envs/cv/bin/postactivate" . 72)
- ("/Users/bion/python_envs/cv/bin/"
-	(dired-filename . "/Users/bion/python_envs/cv/bin/postdeactivate"))
- ("/Users/bion/python_envs/cv/bin/postdeactivate" . 74)
- ("/Users/bion/src/overtone/src/overtone/music/rhythm.clj" . 5650)
- ("/Users/bion/src/overtone/src/overtone/speech.clj" . 68)
- ("/Users/bion/src/overtone/src/overtone/sc/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/sc/.."))
- ("/Users/bion/src/overtone/src/overtone/" . 1308)
- ("/Users/bion/src/overtone/src/overtone/live.clj" . 63)
- ("/Users/bion/src/overtone/LICENSE" . 1166)
- ("/Users/bion/src/overtone/src/overtone/api.clj" . 671)
- ("/Users/bion/src/overtone/src/overtone/core.clj" . 63)
- ("/Users/bion/dev/ko/src/ko/synth_defs/"
-	(dired-filename . "/Users/bion/dev/ko/src/ko/synth_defs/.."))
- ("/Users/bion/src/overtone/src/overtone/helpers/ns.clj" . 110)
- ("/Users/bion/src/overtone/src/overtone/sc/bindings.clj" . 102)
- ("/Users/bion/dev/coasst/app/assets/javascripts/survey-participants.coffee" . 4275)
- ("/Users/bion/dev/coasst/app/assets/stylesheets/partials/_participants.scss" . 47)
- ("/Users/bion/dev/coasst/Gemfile" . 51)
- ("/Users/bion/dev/coasst/app/decorators/survey_volunteer_decorator.rb" . 83)
- ("/Users/bion/dev/coasst/spec/support/mom.rb" . 2509)
- ("/Users/bion/dev/coasst/spec/support/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/support/mom.rb"))
- ("/Users/bion/dev/coasst/spec/queries/survey_export_query_spec.rb" . 476)
- ("/Users/bion/dev/coasst/spec/rails_helper.rb" . 1391)
- ("/Users/bion/dev/coasst/spec/integration/survey_collection_spec.rb" . 4836)
- ("/Users/bion/.lein/"
-	(dired-filename . "/Users/bion/.lein/profiles.clj"))
- ("/Users/bion/.lein/profiles.clj" . 177)
- ("/Users/bion/dev/coasst/app/models/survey_volunteer.rb" . 481)
- ("/Users/bion/.emacs.d/packages/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/cider-20151001.1254"))
- ("/Users/bion/.emacs.d/packages/cider-20151001.1254/cider-autoloads.el" . 6551)
- ("/Users/bion/dev/coasst/app/assets/javascripts/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers"))
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys"))
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/start.coffee"))
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/start.coffee" . 1165)
- ("/Users/bion/dev/coasst/app/views/admin/exports/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/admin/exports/export.html.rb"))
- ("/Users/bion/dev/coasst/app/queries/"
-	(dired-filename . "/Users/bion/dev/coasst/app/queries/survey_export_query.rb"))
- ("/Users/bion/dev/coasst/app/queries/survey_export_query.rb" . 3207)
- ("/Users/bion/dev/coasst/app/services/export_surveys.rb" . 5237)
- ("/Users/bion/dev/coasst/app/views/admin/exports/export.html.rb" . 69)
- ("/Users/bion/dev/coasst/app/controllers/admin/exports_controller.rb" . 86)
- ("/Users/bion/src/overtone/src/overtone/examples/instruments/thx.clj" . 1185)
- ("/Users/bion/src/overtone/src/overtone/inst/drum.clj" . 13626)
- ("/Users/bion/src/overtone/src/overtone/synth/ixi.clj" . 1639)
- ("/Users/bion/src/overtone/src/overtone/synth/retro.clj" . 1181)
- ("/Users/bion/dev/coasst/app/controllers/surveys_controller.rb" . 400)
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/birds.coffee" . 1569)
- ("/Users/bion/.emacs.d/init.el" . 664)
- ("/Users/bion/.emacs.d/my/my-hooks.el" . 1814)
- ("/Users/bion/.emacs.d/packages/s-20150924.406/s-autoloads.el" . 210)
- ("/Users/bion/dev/coasst/app/assets/stylesheets/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/stylesheets/partials"))
- ("/Users/bion/dev/coasst/spec/models/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/models/survey_spec.rb"))
- ("/Users/bion/dev/coasst/app/views/layouts/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/layouts/.."))
- ("/Users/bion/dev/coasst/app/assets/stylesheets/partials/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/stylesheets/partials/.."))
- ("/Users/bion/dev/coasst/app/assets/images/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/images/.."))
- ("/Users/bion/dev/coasst/app/assets/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/stylesheets"))
- ("/Users/bion/dev/coasst/app/assets/stylesheets/application.css" . 1127)
- ("/Users/bion/dev/coasst/app/assets/stylesheets/typeahead.scss" . 915)
- ("/Users/bion/dev/coasst/app/views/layouts/survey.rb" . 1131)
- ("/Users/bion/dev/coasst/app/controllers/surveys/mapping_controller.rb" . 179)
- ("/Users/bion/dev/coasst/app/controllers/surveys/return_controller.rb" . 771)
- ("/Users/bion/dev/coasst/app/views/surveys/base.html.rb" . 612)
- ("/Users/bion/dev/coasst/app/views/surveys/return/edit.html.rb" . 201)
- ("/Users/bion/dev/coasst/app/views/surveys/data/birds/edit.html.rb" . 81)
- ("/Users/bion/dev/coasst/app/views/surveys/data/birds/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/data/birds/.."))
- ("/Users/bion/dev/coasst/app/views/surveys/data/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/data/show.html.rb"))
- ("/Users/bion/dev/coasst/app/controllers/surveys/data_controller.rb" . 91)
- ("/Users/bion/dev/coasst/spec/models/survey_spec.rb" . 87)
- ("/Users/bion/dev/coasst/app/assets/stylesheets/surveys.scss" . 441)
- ("/Users/bion/dev/coasst/app/models/survey.rb" . 3589)
- ("/Users/bion/dev/coasst/app/controllers/surveys/photos_controller.rb" . 111)
- ("/Users/bion/dev/coasst/app/views/surveys/photos/edit.html.rb" . 45)
- ("/Users/bion/dev/coasst/app/views/surveys/data/show.html.rb" . 43)
- ("/Users/bion/dev/coasst/app/controllers/"
-	(dired-filename . "/Users/bion/dev/coasst/app/controllers/verifications"))
- ("/Users/bion/dev/coasst/app/controllers/verifications/beaches_controller.rb" . 453)
- ("/Users/bion/dev/coasst/app/controllers/verifications/"
-	(dired-filename . "/Users/bion/dev/coasst/app/controllers/verifications/surveys_controller.rb"))
- ("/Users/bion/dev/coasst/app/controllers/verifications/surveys_controller.rb" . 459)
- ("/Users/bion/dev/coasst/app/controllers/sessions_controller.rb" . 551)
- ("/Users/bion/dev/coasst/app/views/surveys/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/participants.html.rb"))
- ("/Users/bion/dev/coasst/app/controllers/accounts_controller.rb" . 151)
- ("/Users/bion/.emacs.d/packages/magit-20150928.1007/magit-autoloads.el" . 40497)
- ("/Users/bion/.emacs.d/packages/git-commit-20150903.1204/git-commit-autoloads.el" . 992)
- ("/Users/bion/.emacs.d/packages/with-editor-20150921.1018/with-editor-autoloads.el" . 260)
- ("/Users/bion/.emacs.d/packages/magit-popup-20150920.646/magit-popup-autoloads.el" . 260)
- ("/Users/bion/.emacs.d/packages/async-20150909.2257/async-autoloads.el" . 4111)
- ("/Users/bion/dev/coasst/app/views/logged_in/landing.html.rb" . 366)
- ("/Users/bion/dev/coasst/app/views/logged_in/_unverified_surveys_by_region.html.rb" . 530)
- ("/Users/bion/.emacs.d/my/my-customizations.el" . 6310)
- ("/Users/bion/dev/coasst/spec/controllers/logged_in_controller_spec.rb" . 445)
- ("/Users/bion/dev/coasst/spec/controllers/accounts_controller_spec.rb" . 206)
- ("/Users/bion/dev/portfolio/db/migrate/"
-	(dired-filename . "/Users/bion/dev/portfolio/db/migrate/.."))
- ("/Users/bion/src/overtone/src/overtone/sc/node.clj" . 28639)
- ("/Users/bion/dev/beagift/"
-	(dired-filename . "/Users/bion/dev/beagift/ios"))
- ("/Users/bion/dev/beagift/ios/"
-	(dired-filename . "/Users/bion/dev/beagift/ios/app"))
- ("/Users/bion/dev/beagift/ios/app/ext/object.rb" . 77)
- ("/Users/bion/dev/beagift/ios/app/ext/string.rb" . 729)
- ("/Users/bion/dev/beagift/ios/app/ext/"
-	(dired-filename . "/Users/bion/dev/beagift/ios/app/ext/.."))
- ("/Users/bion/dev/beagift/ios/app/ext/nil.rb" . 58)
- ("/Users/bion/dev/beagift/ios/app/screens/favorites_screen.rb" . 41)
- ("/Users/bion/dev/beagift/ios/app/screens/"
-	(dired-filename . "/Users/bion/dev/beagift/ios/app/screens/.."))
- ("/Users/bion/dev/beagift/ios/app/"
-	(dired-filename . "/Users/bion/dev/beagift/ios/app/lib"))
- ("/Users/bion/dev/beagift/ios/app/lib/list_view_controller.rb" . 26)
- ("/Users/bion/dev/beagift/ios/app/app_delegate.rb" . 1255)
- ("/Users/bion/dev/beagift/ios/app/lib/"
-	(dired-filename . "/Users/bion/dev/beagift/ios/app/lib/list_view_controller.rb"))
- ("/Users/bion/dev/coasst/spec/controllers/password_resets_controller_spec.rb" . 3657)
- ("/Users/bion/.emacs.d/packages/rvm-20150402.742/rvm-autoloads.el" . 828)
- ("/Users/bion/dev/coasst/.ruby-version" . 6)
- ("/Users/bion/src/overtone/src/overtone/music/time.clj" . 467)
- ("/Users/bion/dev/portfolio/app/controllers/comments_controller.rb" . 1543)
- ("/Users/bion/dev/portfolio/app/"
-	(dired-filename . "/Users/bion/dev/portfolio/app/.."))
- ("/Users/bion/dev/portfolio/db/schema.rb" . 2742)
- ("/Users/bion/dev/ko/src/"
-	(dired-filename . "/Users/bion/dev/ko/src/ko"))
- ("/Users/bion/dev/ko/hope.clj" . 1513)
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/"
-	(dired-filename . "/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/data/debris"))
- ("/Users/bion/dev/coasst/app/models/"
-	(dired-filename . "/Users/bion/dev/coasst/app/models/region.rb"))
- ("/Users/bion/dev/coasst/app/decorators/survey_decorator.rb" . 431)
- ("/Users/bion/dev/coasst/app/models/bird.rb" . 5616)
- ("/Users/bion/dev/coasst/app/views/surveys/start/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/start/.."))
- ("/Users/bion/dev/coasst/app/views/surveys/turnaround/edit.html.rb" . 766)
- ("/Users/bion/dev/coasst/app/views/surveys/turnaround/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/turnaround/.."))
- ("/Users/bion/dev/coasst/app/views/surveys/return/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/return/.."))
- ("/Users/bion/dev/coasst/app/views/surveys/data/debris/large/form.html.rb" . 6063)
- ("/Users/bion/dev/coasst/app/views/surveys/mapping/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/mapping/edit.html.rb"))
- ("/Users/bion/dev/coasst/app/views/surveys/mapping/edit.html.rb" . 39)
- ("/Users/bion/dev/coasst/app/assets/javascripts/application.coffee" . 792)
- ("/Users/bion/dev/coasst/app/views/surveys/photos/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/surveys/photos/.."))
- ("/Users/bion/dev/coasst/app/assets/stylesheets/foundation_and_overrides.scss" . 15763)
- ("/Users/bion/dev/coasst/app/controllers/surveys/uploads_controller.rb" . 732)
- ("/Users/bion/dev/coasst/app/assets/javascripts/initializers/surveys/photos.coffee" . 534)
- ("/Users/bion/dev/coasst/app/models/upload.rb" . 35)
- ("/Users/bion/dev/coasst/app/views/layouts/admin.rb" . 249)
- ("/Users/bion/dev/coasst/app/models/account.rb" . 798)
- ("/Users/bion/dev/coasst/app/controllers/surveys/turnaround_controller.rb" . 773)
- ("/Users/bion/dev/coasst/app/models/image.rb" . 68)
- ("/Users/bion/dev/rhythm_coach.org" . 1151)
- ("/Users/bion/dev/coasst/db/migrate/"
-	(dired-filename . "/Users/bion/dev/coasst/db/migrate/20150925010933_drop_column_original_data_from_birds.rb"))
- ("/Users/bion/dev/coasst/db/migrate/20150925010933_drop_column_original_data_from_birds.rb" . 78)
- ("/Users/bion/dev/coasst/app/controllers/surveys/data/"
-	(dired-filename . "/Users/bion/dev/coasst/app/controllers/surveys/data/base_controller.rb"))
- ("/Users/bion/dev/coasst/app/controllers/surveys/data/base_controller.rb" . 81)
- ("/Users/bion/src/overtone/src/overtone/examples/getting_started/melody.clj" . 1179)
- ("/Users/bion/src/overtone/src/overtone/examples/getting_started/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/getting_started/pragpub-article.clj"))
- ("/Users/bion/src/overtone/src/overtone/examples/getting_started/pragpub-article.clj" . 11005)
- ("/Users/bion/dev/ko/test/ko/core_test.clj" . 76)
- ("/Users/bion/src/overtone/src/overtone/examples/getting_started/rhythm.clj" . 682)
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/at_all.clj" . 2680)
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/bells.clj" . 3413)
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/extemp_piano.clj" . 1182)
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/clapping_music.clj" . 889)
- ("/Users/bion/src/overtone/src/overtone/examples/workshops/resonate2013/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/workshops/resonate2013/.."))
- ("/Users/bion/src/overtone/src/overtone/examples/workshops/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/workshops/.."))
- ("/Users/bion/src/overtone/src/overtone/examples/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/.."))
- ("/Users/bion/.emacs.d/packages/google-this-20150522.240/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/google-this-20150522.240/.."))
- ("/Users/bion/.emacs.d/packages/fm-20130612.1/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/fm-20130612.1/.."))
- ("/Users/bion/.emacs.d/packages/epl-20150517.433/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/epl-20150517.433/.."))
- ("/Users/bion/.emacs.d/packages/dash-20150829.433/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/dash-20150829.433/.."))
- ("/Users/bion/.emacs.d/packages/connection-20140717.2029/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/connection-20140717.2029/.."))
- ("/Users/bion/.emacs.d/packages/cm-mode-20141112.1715/cm-mode.el" . 1720)
- ("/Users/bion/.emacs.d/packages/cm-mode-20141112.1715/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/cm-mode-20141112.1715/.."))
- ("/Users/bion/.emacs.d/packages/cl-lib-0.5/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/cl-lib-0.5/.."))
- ("/Users/bion/.emacs.d/packages/ac-dabbrev-20130906.518/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/ac-dabbrev-20130906.518/.."))
- ("/Users/bion/.emacs.d/my/my-package.el" . 291)
- ("/Users/bion/src/overtone/src/overtone/examples/workshops/resonate2013/ex03_graph.clj" . 295)
- ("/Users/bion/.emacs.d/packages/ac-cider-20150306.254/ac-cider-autoloads.el" . 1306)
- ("/Users/bion/.emacs.d/var/pcache/"
-	(dired-filename . "/Users/bion/.emacs.d/var/pcache/.."))
- ("/Users/bion/.emacs.d/var/"
-	(dired-filename . "/Users/bion/.emacs.d/var/.."))
- ("/Users/bion/dev/coasst/app/policies/"
-	(dired-filename . "/Users/bion/dev/coasst/app/policies/application_policy.rb"))
- ("/Users/bion/dev/coasst/app/views/verifications/beaches/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/verifications/beaches/.."))
- ("/Users/bion/dev/coasst/app/views/verifications/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/verifications/.."))
- ("/Users/bion/dev/coasst/app/views/verifications/surveys/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/verifications/surveys/.."))
- ("/Users/bion/src/"
-	(dired-filename . "/Users/bion/src/.."))
- ("/Users/bion/dev/blindtiger/"
-	(dired-filename . "/Users/bion/dev/blindtiger/Procfile"))
- ("/Users/bion/dev/coasst/app/views/layouts/logged_in.rb" . 565)
- ("/Users/bion/dev/coasst/app/views/logged_in/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/logged_in/.."))
- ("/Users/bion/dev/coasst/app/controllers/admin/admin_controller.rb" . 81)
- ("/Users/bion/dev/coasst/app/controllers/admin/admin_base_controller.rb" . 164)
- ("/Users/bion/dev/coasst/app/queries/unverified_survey_counts.rb" . 843)
- ("/Users/bion/dev/coasst/app/models/beach.rb" . 3631)
- ("/Users/bion/dev/coasst/app/controllers/verifications/base_controller.rb" . 61)
- ("/Users/bion/dev/coasst/bin/rspect" . 37)
- ("/Users/bion/dev/coasst/app/models/survey_track.rb" . 613)
+	(dired-filename . "/Users/bion/dev/soundfyle/.git"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/factories/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/spec/factories/categories.rb"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/molecules/materials.sass" . 298)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/delete_methods_from_lab_kit_spec.rb" . 550)
+ ("/Users/bion/.emacs.d/games/tetris-scores" . 114)
+ ("/Users/bion/dev/deloitte-lab-kit/config/server_provisioning.txt" . 1604)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/admin_restrictions.rb" . 767)
+ ("/Users/bion/Documents/war_on_drugs/presentation/images/"
+	(dired-filename . "/Users/bion/Documents/war_on_drugs/presentation/images/missing-black-men.png"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/material_controller.js" . 1931)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/mixins/input_box.sass" . 201)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/inputs.sass" . 160)
+ ("/Users/bion/dev/deloitte-lab-kit/bin/console" . 100)
+ ("/Users/bion/dev/deloitte-lab-kit/server/logger.js" . 190)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/edit_form.jsx" . 124)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/file_download_link.jsx" . 445)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/material.js" . 265)
+ ("/Users/bion/Documents/war_on_drugs/"
+	(dired-filename . "/Users/bion/Documents/war_on_drugs/presentation"))
+ ("/Users/bion/Documents/war_on_drugs/presentation/"
+	(dired-filename . "/Users/bion/Documents/war_on_drugs/presentation/index.html"))
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/rights-lost-as-felon.md" . 339)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/legal-felon-descrim.md" . 324)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/policies-that-help.md" . 168)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/bacons-rebellion.md" . 45)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/getting-a-job.md" . 19)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/birth-of-a-nation.md" . 22)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/symptoms.md" . 15)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/book-title.md" . 88)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/concept-of-the-title.md" . 177)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/how-it-works-invisible.md" . 247)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/how-it-works-roundup.md" . 133)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/"
+	(dired-filename . "/Users/bion/Documents/war_on_drugs/presentation/slides/how-it-works-prosecuting.md"))
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/how-it-works-basic.md" . 67)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/how-it-works-prosecuting.md" . 166)
+ ("/Users/bion/Documents/war_on_drugs/presentation/slides/who-are-felons.md" . 244)
+ ("/Users/bion/Documents/war_on_drugs/presentation/index.html" . 1900)
+ ("/Users/bion/Documents/war_on_drugs/notes.org" . 1377)
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/reducers/lab_kit_reducer_test.js" . 1466)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/molecules/input_time.sass" . 141)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160629165614_add_start_time_to_lab_kit.js" . 270)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/input_time.jsx" . 475)
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/lib/time_conversions_test.js" . 862)
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/lib/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/client/lib/time_conversions_test.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/client/reducers"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/create_method_spec.rb" . 524)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/file_controller_test.js" . 757)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/edit.jsx"))
+ ("/Users/bion/dev/deloitte-lab-kit/.babelrc" . 38)
+ ("/Users/bion/dev/bd/"
+	(dired-filename . "/Users/bion/dev/bd/flockapp.org"))
+ ("/Users/bion/creds" . 26)
+ ("/Users/bion/Movies/"
+	(dired-filename . "/Users/bion/Movies/.localized"))
+ ("/Users/bion/Dropbox (Old)/"
+	(dired-filename . "/Users/bion/Dropbox (Old)/.DS_Store"))
+ ("/Users/bion/"
+	(dired-filename . "/Users/bion/Dropbox (Old (1))"))
+ ("/Users/bion/Dropbox (Old (1))/"
+	(dired-filename . "/Users/bion/Dropbox (Old (1))/pics.tar.gz"))
+ ("/Users/bion/Documents/war_on_drugs/presentation/lib/"
+	(dired-filename . "/Users/bion/Documents/war_on_drugs/presentation/lib/css"))
+ ("/Users/bion/Documents/war_on_drugs/presentation/package.json" . 215)
+ ("/Users/bion/.ssh/config" . 407)
+ ("/Users/bion/dev/deloitte-lab-kit/config/hosts" . 79)
+ ("/Users/bion/dev/deloitte-lab-kit/config/deploy.rb" . 200)
+ ("/Users/bion/dev/deloitte-lab-kit/server/controllers/auth_controller.js" . 140)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/login.jsx" . 190)
+ ("/Users/bion/dev/deloitte-lab-kit/server/lib/profile_attrs.js" . 262)
+ ("/Users/bion/dev/deloitte-lab-kit/test/lib/profile_attrs_test.js" . 1536)
+ ("/Users/bion/dev/deloitte-lab-kit/test/lib/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/lib/filter_params_test.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/seeds/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/db/seeds/seeds.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/db/seeds"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/validators/lab_kit_method_validator.js" . 127)
+ ("/Users/bion/dev/deloitte-lab-kit/server/validators/custom_validators.js" . 637)
+ ("/Users/bion/dev/deloitte-lab-kit/server/validators/material_validator.js" . 555)
+ ("/Users/bion/dev/deloitte-lab-kit/server/validators/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/validators/material_validator.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/.envrc" . 224)
+ (#("/ssh:deploy@labkit-s1:/home/deploy/" 1 4
+		(tramp-default t))
+	(dired-filename . "/ssh:deploy@labkit-s1:/home/deploy/.bash_history"))
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/lib/passport-saml/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/lib/passport-saml/saml.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/lib/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/lib/passport-saml"))
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/lib"))
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-saml/lib/passport-saml/saml.js" . 1634)
+ ("/Users/bion/dev/deloitte-lab-kit/test/models/user_test.js" . 673)
+ ("/Users/bion/dev/deloitte-lab-kit/test/models/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/models/lab_kit_method_test.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/test/models/lab_kit_method_test.js" . 1247)
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/routes/generator.js" . 15)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/server_routes.js" . 66)
+ (#("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/application.js" 1 4
+		(tramp-default t))
+	. 1485)
+ ("/Users/bion/dev/deloitte-lab-kit/node_modules/passport-wsfed-saml2/lib/passport-wsfed-saml2/strategy.js" . 1768)
+ (#("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/passport-wsfed-saml2/lib/passport-wsfed-saml2/" 1 4
+		(tramp-default t))
+	(dired-filename . "/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/passport-wsfed-saml2/lib/passport-wsfed-saml2/strategy.js"))
+ (#("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/config/routes/passport.js" 1 4
+		(tramp-default t))
+	. 3199)
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/node_modules/passport-wsfed-saml2/lib/passport-wsfed-saml2/strategy.js" . 1927)
+ (#("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/app.js" 1 4
+		(tramp-default t))
+	. 61)
+ (#("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/" 1 4
+		(tramp-default t))
+	(dired-filename . "/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/server.js"))
+ ("/ssh:deploy@labkit-s1:/var/www/deloitte-lab-kit/current/server/server.js" . 153)
+ ("/Users/bion/art/withd/test/withd/synths_test.clj" . 2154)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/category_controller_test.js" . 438)
+ ("/Users/bion/dev/deloitte-lab-kit/test/support/factory.js" . 163)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/lab_kit_method.js" . 280)
  ("/Users/bion/Downloads/"
-	(dired-filename . "/Users/bion/Downloads/coasst_07-16-15_09-30-15.csv"))
- ("/Users/bion/Downloads/coasst_07-16-15_09-30-15.csv" . 125)
- ("/Users/bion/dev/coasst/app/models/region.rb" . 410)
- ("/Users/bion/dev/coasst/app/controllers/logged_out_controller.rb" . 251)
- ("/Users/bion/dev/coasst/spec/controllers/logged_out_controller_spec.rb" . 346)
- ("/Users/bion/.emacs.d/packages/rspec-mode-20150727.1418/rspec-mode-autoloads.el" . 1132)
- ("/Users/bion/.emacs.d/packages/clojure-mode-20150910.1321/"
-	(dired-filename . "/Users/bion/.emacs.d/packages/clojure-mode-20150910.1321/.."))
- ("/Users/bion/dev/ios_audio_notes/"
-	(dired-filename . "/Users/bion/dev/ios_audio_notes/ios_audio_notes.md"))
- ("/Users/bion/dev/ios_audio_notes/ios_audio_notes.md" . 428)
- ("/Users/bion/src/overtone/src/overtone/sc/examples/osc.clj" . 618)
- ("/Users/bion/src/overtone/src/overtone/sc/examples/demand.clj" . 4106)
- ("/Users/bion/src/overtone/src/overtone/sc/examples/membrane.clj" . 1489)
- ("/Users/bion/src/overtone/src/overtone/sc/examples/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/sc/examples/.."))
- ("/Users/bion/src/overtone/src/overtone/sc/example.clj" . 926)
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/auto_dubstep.clj" . 3284)
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/"
-	(dired-filename . "/Users/bion/src/overtone/src/overtone/examples/compositions/funk.clj"))
- ("/Users/bion/src/overtone/src/overtone/examples/compositions/funk.clj" . 2774)
- ("/Users/bion/src/overtone/src/overtone/studio/inst.clj" . 11073)
- ("/Users/bion/src/overtone/src/overtone/sc/machinery/defexample.clj" . 2601)
- ("/Users/bion/src/overtone/src/overtone/sc/machinery/ugen/categories.clj" . 50)
- ("/Users/bion/src/overtone/src/overtone/sc/machinery/ugen/specs.clj" . 22005)
- ("/Users/bion/.emacs.d/packages/auto-complete-20150618.1949/auto-complete-autoloads.el" . 1688)
- ("/Users/bion/.emacs.d/packages/clojure-mode-20150910.1321/clojure-mode-autoloads.el" . 1145)
- ("/Users/bion/.emacs.d/packages/coffee-mode-20150906.2225/coffee-mode-autoloads.el" . 695)
- ("/Users/bion/.emacs.d/packages/dash-20150829.433/dash-autoloads.el" . 217)
- ("/Users/bion/.emacs.d/packages/epl-20150517.433/epl-autoloads.el" . 215)
- ("/Users/bion/.emacs.d/packages/expand-region-20150902.558/expand-region-autoloads.el" . 3485)
- ("/Users/bion/.emacs.d/packages/gh-20150906.848/gh-autoloads.el" . 3763)
- ("/Users/bion/.emacs.d/packages/gist-20150906.954/gist-autoloads.el" . 2316)
- ("/Users/bion/.emacs.d/packages/git-timemachine-20150624.1446/git-timemachine-autoloads.el" . 517)
- ("/Users/bion/.emacs.d/packages/google-this-20150522.240/google-this-autoloads.el" . 4073)
- ("/Users/bion/.emacs.d/packages/haml-mode-20150508.2011/haml-mode-autoloads.el" . 436)
- ("/Users/bion/.emacs.d/packages/ido-ubiquitous-20150914.1003/ido-ubiquitous-autoloads.el" . 1633)
- ("/Users/bion/.emacs.d/packages/ido-completing-read+-20150630.926/ido-completing-read+-autoloads.el" . 2921)
- ("/Users/bion/.emacs.d/packages/markdown-mode-20150910.836/markdown-mode-autoloads.el" . 697)
- ("/Users/bion/.emacs.d/packages/multiple-cursors-20150710.456/multiple-cursors-autoloads.el" . 8042)
- ("/Users/bion/.emacs.d/packages/pkg-info-20150517.443/pkg-info-autoloads.el" . 3738)
- ("/Users/bion/.emacs.d/packages/popup-20150626.711/popup-autoloads.el" . 219)
- ("/Users/bion/.emacs.d/packages/powerline-20150628.1957/powerline-autoloads.el" . 2229)
- ("/Users/bion/.emacs.d/packages/sass-mode-20150508.2012/sass-mode-autoloads.el" . 436)
- ("/Users/bion/.emacs.d/packages/simp-20150427.932/simp-autoloads.el" . 431)
- ("/Users/bion/.emacs.d/packages/slime-20150830.1446/slime-autoloads.el" . 1306)
- ("/Users/bion/.emacs.d/packages/smartparens-20150920.527/smartparens-autoloads.el" . 6469)
- ("/Users/bion/.emacs.d/packages/smex-20150822.1146/smex-autoloads.el" . 490)
- ("/Users/bion/.emacs.d/packages/visible-mark-20150623.2150/visible-mark-autoloads.el" . 1237)
- ("/Users/bion/.emacs.d/packages/yaml-mode-20150816.2235/yaml-mode-autoloads.el" . 560)
- ("/Users/bion/.emacs.d/packages/yari-20150804.2247/yari-autoloads.el" . 463)
- ("/Users/bion/.emacs.d/packages/spinner-1.4/spinner-autoloads.el" . 2403)
- ("/Users/bion/src/overtone/docs/sc-book/sc-one.clj" . 2647)
- ("/Users/bion/dev/blindtiger/app/views/layouts/"
-	(dired-filename . "/Users/bion/dev/blindtiger/app/views/layouts/.."))
- ("/Users/bion/dev/citizen-rails/db/"
-	(dired-filename . "/Users/bion/dev/citizen-rails/db/migrate"))
- ("/Users/bion/dev/citizen-rails/db/migrate/" . 1071)
- ("/Users/bion/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.2.1/"
-	(dired-filename . "/Users/bion/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/foundation-rails-5.5.2.1/app"))
- ("/Users/bion/dev/blindtiger/app/views/"
-	(dired-filename . "/Users/bion/dev/blindtiger/app/views/accounts"))
- ("/Users/bion/dev/coasst/db/migrate/20150720202248_remove_null_constraint_from_beach_id.rb" . 141)
- ("/Users/bion/dev/coasst/app/models/volunteer_notifier.rb" . 485)
- ("/Users/bion/dev/citizen-rails/db/schema.rb" . 2957)
- ("/Users/bion/dev/coasst/lib/tasks/"
-	(dired-filename . "/Users/bion/dev/coasst/lib/tasks/db.rake"))
- ("/Users/bion/dev/coasst/lib/tasks/db.rake" . 771)
- ("/Users/bion/dev/citizen-rails/lib/tasks/citizen_rails.rake" . 1335)
- ("/Users/bion/dev/citizen-rails/lib/tasks/"
-	(dired-filename . "/Users/bion/dev/citizen-rails/lib/tasks/.."))
- ("/Users/bion/dev/citizen-rails/lib/"
-	(dired-filename . "/Users/bion/dev/citizen-rails/lib/.."))
- ("/Users/bion/dev/citizen-rails/config/application.rb" . 974)
- ("/Users/bion/dev/blindtiger/README.markdown" . 143)
- ("/Users/bion/dev/blindtiger/db/seeds.rb" . 426)
- ("/Users/bion/dev/blindtiger/config/application.rb" . 1886)
- ("/Users/bion/dev/blindtiger/app/controllers/logged_out_controller.rb" . 188)
- ("/Users/bion/dev/blindtiger/app/views/layouts/logged_out.rb" . 95)
- ("/Users/bion/dev/blindtiger/app/assets/"
-	(dired-filename . "/Users/bion/dev/blindtiger/app/assets/stylesheets"))
- ("/Users/bion/dev/blindtiger/app/assets/stylesheets/"
-	(dired-filename . "/Users/bion/dev/blindtiger/app/assets/stylesheets/foundation_and_overrides.scss"))
- ("/Users/bion/dev/blindtiger/app/views/layouts/raw.rb" . 1483)
- ("/Users/bion/dev/blindtiger/app/views/logged_out/index.html.rb" . 2049)
- ("/Users/bion/dev/blindtiger/app/assets/javascripts/application.coffee" . 652)
- ("/Users/bion/dev/blindtiger/app/assets/stylesheets/foundation_and_overrides.scss" . 52280)
- ("/Users/bion/dev/blindtiger/app/views/shared/navigation.rb" . 834)
- ("/Users/bion/dev/coasst/config/"
-	(dired-filename . "/Users/bion/dev/coasst/config/.."))
- ("/Users/bion/dev/coasst/app/views/logged_out/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/logged_out/take_action.html.rb"))
- ("/Users/bion/dev/coasst/app/controllers/concerns/"
-	(dired-filename . "/Users/bion/dev/coasst/app/controllers/concerns/.."))
- ("/Users/bion/dev/coasst/app/views/logged_out/take_action.html.rb" . 374)
- ("/Users/bion/dev/coasst/db/migrate/20141001182642_sorcery_core.rb" . 323)
- ("/Users/bion/dev/coasst/db/migrate/20150721182115_create_zones.rb" . 316)
- ("/Users/bion/dev/coasst/db/migrate/20150722000700_add_turnaround_time_to_survey.rb" . 131)
- ("/Users/bion/dev/coasst/db/migrate/20150727190723_add_debris_presence_to_zone.rb" . 314)
- ("/Users/bion/dev/coasst/db/migrate/20150728231900_make_volunteer_admins_account_admins.rb" . 66)
- ("/Users/bion/dev/coasst/db/migrate/20150804185444_add_organization_categories.rb" . 624)
- ("/Users/bion/dev/citizen-rails/"
-	(dired-filename . "/Users/bion/dev/citizen-rails/.env"))
- ("/Users/bion/dev/citizen-rails/app/assets/javascripts/application.coffee" . 653)
- ("/Users/bion/dev/blindtiger/Gemfile.lock" . 2622)
- ("/Users/bion/dev/coasst/spec/app/lib/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/app/lib/.."))
- ("/Users/bion/dev/coasst/spec/app/"
-	(dired-filename . "/Users/bion/dev/coasst/spec/app/.."))
- ("/Users/bion/dev/coasst/app/models/start_zone.rb" . 74)
- ("/Users/bion/dev/coasst/app/views/admin/beaches/form.rb" . 3803)
- ("/Users/bion/dev/coasst/app/models/subgroup.rb" . 399)
- ("/Users/bion/dev/coasst/app/views/shared/"
-	(dired-filename . "/Users/bion/dev/coasst/app/views/shared/errors.rb"))
- ("/Users/bion/dev/coasst/app/models/debris.rb" . 177)
- ("/Users/bion/dev/coasst/app/views/sessions/new.html.rb" . 758))
+	(dired-filename . "/Users/bion/Downloads/lemon"))
+ ("/Users/bion/dev/deloitte-lab-kit/test/test_helper.js" . 475)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160614145125_create_lab_kits.js" . 189)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160609150436_addTypeToMaterials.js" . 112)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160526140220_create_files.js" . 380)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/file.js" . 213)
+ ("/Users/bion/dev/deloitte-lab-kit/Gemfile" . 190)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/loader.jsx" . 81)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/templates/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/templates/content_container.sass"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/mixins/typography.sass" . 947)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/atoms/body.sass" . 54)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/fonts/" . 1161)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/stylesheets/variables/typography.scss" . 523)
+ ("/Users/bion/Pictures/upload/"
+	(dired-filename . "/Users/bion/Pictures/upload/.DS_Store"))
+ ("/Users/bion/Pictures/stupid/"
+	(dired-filename . "/Users/bion/Pictures/stupid/because_computer.jpg"))
+ ("/Users/bion/Pictures/"
+	(dired-filename . "/Users/bion/Pictures/stupid"))
+ ("/Users/bion/hiring/"
+	(dired-filename . "/Users/bion/hiring/react-soccer"))
+ ("/Users/bion/dev/deloitte-lab-kit/spec/support/models/category.rb" . 117)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160518053826_create_materials.js" . 429)
+ ("/Users/bion/dev/deloitte-lab-kit/server/models/index.js" . 553)
+ ("/Users/bion/dev/deloitte-lab-kit/server/lib/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/server/lib/filter_params.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/reducers/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/test/client/reducers/category_reducer_test.js"))
+ ("/Users/bion/dev/deloitte-lab-kit/test/client/reducers/category_reducer_test.js" . 142)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/material_reducer.js" . 1060)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/file_input.jsx" . 1351)
+ ("/Users/bion/Downloads/react-soccer/views/"
+	(dired-filename . "/Users/bion/Downloads/react-soccer/views/.."))
+ ("/Users/bion/dev/deloitte-lab-kit/bin/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/bin/test_prepare"))
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/category_reducer.js" . 363)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/reducers/file_input_reducer.js" . 314)
+ ("/Users/bion/dev/deloitte-lab-kit/server/config/uploader.js" . 183)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160511094208_add_category_id_to_lab_kit_methods.js" . 118)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160521045153_add_url_to_material.js" . 276)
+ ("/Users/bion/dev/deloitte-lab-kit/test/controllers/material_controller_test.js" . 4958)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/application.jsx" . 392)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/"
+	(dired-filename . "/Users/bion/Downloads/react-soccer/assets/javascripts/store.jsx"))
+ ("/Users/bion/Downloads/react-soccer/assets/"
+	(dired-filename . "/Users/bion/Downloads/react-soccer/assets/javascripts"))
+ ("/Users/bion/Downloads/react-soccer/views/index.pug" . 377)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/components/league.jsx" . 2)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/components/game.js" . 691)
+ ("/Users/bion/Downloads/react-soccer/README.md" . 1224)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/components/team.js" . 215)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/components/"
+	(dired-filename . "/Users/bion/Downloads/react-soccer/assets/javascripts/components/league.js"))
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/components/league.js" . 1225)
+ ("/Users/bion/Downloads/react-soccer/assets/javascripts/components/league.spec.js" . 3135)
+ ("/Users/bion/Downloads/react-soccer/"
+	(dired-filename . "/Users/bion/Downloads/react-soccer/gulpfile.js"))
+ ("/Users/bion/art/"
+	(dired-filename . "/Users/bion/art/withd"))
+ ("/Users/bion/dev/deloitte-lab-kit/bin/start" . 22)
+ ("/Users/bion/dev/deloitte-lab-kit/.git/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/.git/hooks"))
+ ("/Users/bion/dev/deloitte-lab-kit/.git/hooks/post-update.sample" . 190)
+ ("/Users/bion/dev/deloitte-lab-kit/.git/hooks/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/.git/hooks/post-update.sample"))
+ ("/Users/bion/dev/deloitte-lab-kit/.git/hooks/post-receive" . 70)
+ ("/Users/bion/.lein/profiles.clj" . 38)
+ ("/Users/bion/src/overtone/src/overtone/sc/node.clj" . 4387)
+ ("/Users/bion/src/overtone/src/overtone/sc/"
+	(dired-filename . "/Users/bion/src/overtone/src/overtone/sc/bindings.clj"))
+ ("/Users/bion/src/overtone/src/overtone/sc/synth.clj" . 22092)
+ ("/Users/bion/src/overtone/project.clj" . 33)
+ ("/Users/bion/src/"
+	(dired-filename . "/Users/bion/src/overtone"))
+ ("/Users/bion/dev/ko/src/ko/schemas.clj" . 700)
+ ("/Users/bion/dev/deloitte-lab-kit/config/deploy/staging.rb" . 554)
+ (#("/ssh:bion.johnson@10.6.3.172:/home/US/bion.johnson/" 1 4
+		(tramp-default t))
+	(dired-filename . "/ssh:bion.johnson@10.6.3.172:/home/US/bion.johnson/.bash_history"))
+ ("/ssh:bion.johnson@10.6.3.172:/home/US/" . 42)
+ ("/ssh:bion.johnson@10.6.3.172:/home/"
+	(dired-filename . "/ssh:bion.johnson@10.6.3.172:/home/.."))
+ ("/ssh:bion.johnson@10.6.3.172:/var/"
+	(dired-filename . "/ssh:bion.johnson@10.6.3.172:/var/nis"))
+ ("/ssh:bion.johnson@10.6.3.172:/"
+	(dired-filename . "/ssh:bion.johnson@10.6.3.172:/var"))
+ ("/Users/bion/src/overtone/src/overtone/examples/synthesis/samples.clj" . 2643)
+ ("/Users/bion/dev/deloitte-lab-kit/bin/doctor" . 2379)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/lib/timed.js" . 88)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/edit_form_actions.jsx" . 503)
+ ("/Users/bion/dev/ko/src/ko/todo.org" . 78)
+ ("/Users/bion/dev/ko/test/ko/"
+	(dired-filename . "/Users/bion/dev/ko/test/ko/acceptance_test.clj"))
+ ("/Users/bion/dev/backblaze-backup-restore/uploadFile.js" . 4645)
+ ("/Users/bion/dev/backblaze-backup-restore/" . 1412)
+ ("/Users/bion/art/withd/checkouts/"
+	(dired-filename . "/Users/bion/art/withd/checkouts/ko"))
+ ("/Users/bion/art/withd/checkouts/ko/"
+	(dired-filename . "/Users/bion/art/withd/checkouts/ko/test"))
+ ("/Users/bion/art/withd/test/"
+	(dired-filename . "/Users/bion/art/withd/test/withd"))
+ ("/Users/bion/art/withd/checkouts/ko/test/"
+	(dired-filename . "/Users/bion/art/withd/checkouts/ko/test/ko"))
+ ("/Users/bion/art/withd/test/withd/"
+	(dired-filename . "/Users/bion/art/withd/test/withd/synths_test.clj"))
+ ("/Users/bion/art/withd/checkouts/ko/test/ko/"
+	(dired-filename . "/Users/bion/art/withd/checkouts/ko/test/ko/curve_test.clj"))
+ ("/Users/bion/src/overtone/src/overtone/examples/timing/internal_metro.clj" . 2886)
+ ("/Users/bion/Documents/housing/"
+	(dired-filename . "/Users/bion/Documents/housing/.git"))
+ ("/Users/"
+	(dired-filename . "/Users/bion"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160602115044_add_published_to_methods.js" . 320)
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160428154406_create_lab_kit_methods.js" . 408)
+ ("/Users/bion/dev/deloitte-lab-kit/assets/javascripts/components/admin/lab_kit_methods/new_form.jsx" . 533)
+ ("/Users/bion/dev/deloitte-lab-kit/spec/integration/edit_method_spec.rb" . 1070)
+ ("/Users/bion/Documents/wed/"
+	(dired-filename . "/Users/bion/Documents/wed/guests.rb"))
+ ("/Users/bion/dev/deloitte-lab-kit/server/db/migrations/20160531141242_add_admin_flag_to_users.js" . 306)
+ ("/Users/bion/dev/deloitte-lab-kit/circle.yml" . 227)
+ ("/Users/bion/dev/deloitte-lab-kit/test-uploads/" . 205)
+ ("/Users/bion/dev/deloitte-lab-kit/server/lib/filter_params.js" . 315)
+ ("/Users/bion/dev/ko/test/ko/gesture_test.clj" . 163)
+ ("/Users/bion/dev/deloitte-lab-kit/uploads/"
+	(dired-filename . "/Users/bion/dev/deloitte-lab-kit/uploads/.."))
+ ("/Users/bion/.emacs.d/my/my-package.el" . 292))

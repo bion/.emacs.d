@@ -3,7 +3,6 @@
 (global-set-key (kbd "S-<backspace>") 'pop-to-mark-command)
 (global-set-key (kbd "S-<return>") 'newline-and-indent)
 
-
 (define-key dired-mode-map (kbd "M-s") 'dired-sclang-preview-soundfile)
 
 (global-set-key (kbd "C-=") 'text-scale-increase)
@@ -87,5 +86,9 @@
 (global-set-key (kbd "C-x C-s") 'force-save)
 (global-set-key (kbd "C-x C-k") 'kill-focused-buffer)
 (global-set-key (kbd "C-x C-S-f") 'find-file-other-window)
+
+(eval-after-load 'magit
+  '(define-key magit-mode-map "v"
+     #'endless/visit-pull-request-url))
 
 (provide 'my-keybindings)

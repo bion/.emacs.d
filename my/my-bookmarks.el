@@ -2,7 +2,12 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("withd"
+(("deloitte-lab-kit"
+ (filename . "~/dev/deloitte-lab-kit/")
+ (front-context-string . "webpack.config.j")
+ (rear-context-string . "88 Apr 29 15:45 ")
+ (position . 2075))
+("withd"
  (filename . "~/art/withd/")
  (front-context-string . "checkouts\n  -rw-")
  (rear-context-string . "68 Feb 15 20:35 ")
