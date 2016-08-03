@@ -296,6 +296,18 @@ uses pp if there is a prefix argument"
                                                            "url"))
                       (magit-get-current-branch))))
 
+(defun my-put-file-name-on-clipboard ()
+  "Put the current file name on the clipboard"
+  (interactive)
+  (let ((filename (if (equal major-mode 'dired-mode)
+                      default-directory
+                    (buffer-file-name))))
+    (when filename
+      (with-temp-buffer
+        (insert filename)
+        (clipboard-kill-region (point-min) (point-max)))
+      (message filename))))
+
 ;; (defun dired-overtone-preview-waveform ()
 ;;  (interactive)
 ;;  (overtone-preview-waveform (dired-get-filename)))

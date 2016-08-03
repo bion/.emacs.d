@@ -86,6 +86,7 @@
 (global-set-key (kbd "C-x C-s") 'force-save)
 (global-set-key (kbd "C-x C-k") 'kill-focused-buffer)
 (global-set-key (kbd "C-x C-S-f") 'find-file-other-window)
+(global-set-key (kbd "C-x p") 'my-put-file-name-on-clipboard)
 
 (eval-after-load 'magit
   '(define-key magit-mode-map "v"
