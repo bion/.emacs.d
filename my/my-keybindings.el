@@ -11,6 +11,7 @@
 (global-set-key (kbd "C-o") 'previous-indent-and-open-newline)
 (global-set-key (kbd "C-?") 'revert-buffer)
 (global-set-key (kbd "C-,") 'indent-buffer)
+(global-set-key (kbd "C-.") 'indent-region)
 (global-set-key (kbd "C-|") 'rotate-frame-window-buffers)
 (global-set-key (kbd "C-#") 'comment-region)
 (global-set-key (kbd "C-!") 'shell-command-on-dwim-replace)
