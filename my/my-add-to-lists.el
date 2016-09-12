@@ -4,6 +4,7 @@
 (add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
 (add-to-list 'auto-mode-alist '("\\.jsx\\'" . js2-jsx-mode))
 (add-to-list 'auto-mode-alist '(".scss" . scss-mode))
+(add-to-list 'auto-mode-alist '(".less" . less-css-mode))
 (add-to-list 'auto-mode-alist '(".rake" . enh-ruby-mode))
 (add-to-list 'auto-mode-alist '(".ru" . ruby-mode))
 (add-to-list 'auto-mode-alist '("Gemfile" . enh-ruby-mode))

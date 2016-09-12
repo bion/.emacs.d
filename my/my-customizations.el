@@ -110,7 +110,9 @@
  '(mumamo-chunk-coloring 10)
  '(nxml-child-indent 2)
  '(nxml-outline-child-indent 2)
- '(package-selected-packages (quote (clojure-mode json-mode js2-mode magit)))
+ '(package-selected-packages
+   (quote
+    (less-css-mode clojure-mode json-mode js2-mode magit)))
  '(package-user-dir "~/.emacs.d/packages")
  '(proced-auto-update-flag t)
  '(proced-auto-update-interval 1)
